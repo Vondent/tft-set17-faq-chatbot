@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Chroma vector store (can be rebuilt from data)
+embeddings/chroma_db/
+
+# Raw scraped data (optional - remove this if you want to track it)
+data/raw/
+
+# Environment variables / API keys
+.env
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Streamlit
+.streamlit/secrets.toml
