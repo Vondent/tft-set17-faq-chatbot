@@ -1,0 +1,216 @@
+Source: https://mobalytics.gg/tft/augments?tier=1
+Tier: 1 (Silver)
+
+Use your favourite features in-game with our Desktop App
+Augments
+All TFT Augments in Set 17 organized into three tiers. Choosing the right augments can really impact the course of your game. Make sure to know how they work and the order they may appear.
+AFK
+1
+You cannot perform actions for the next 3 rounds. Afterwards, gain 20 gold.
+Augmented Power
+1
+Your next augment is one tier higher.
+Backup Bows
+1
+Gain a Recurve Bow. After your team attacks 1000 times, gain 2 more. Attacks:
+Band of Thieves
+1
+Gain 1 Thief's Gloves.
+Best Friends I
+1
+Allies isolated in pairs gain 10% Attack Speed and 13 Armor at the start of combat.
+Bonk!
+1
+Gain a Nasus. Your strongest Nasus becomes an Attack Fighter with a single target Ability that gets stronger with each kill.
+Boxing Lessons
+1
+Your team gains 30 Health for each ally that starts combat in the front row.
+Branching Out
+1
+Gain a random Emblem.
+Branching Out+
+1
+Gain a random Emblem and a Reforger.
+Caretaker's Ally
+1
+Gain a random 2-cost champion now. Gain the same one again every time you level up. Champion:
+Carve a Path
+1
+Gain a B.F. Sword. After your team deals 65000 physical damage, gain 2 more. Damage dealt:
+Charge Transfer I
+1
+Your team gains 5% Damage Amp. 50% of overkill damage is dealt to the nearest enemy as magic damage.
+Climb The Ladder I
+1
+Each time an ally dies, allies that share at least one trait with them gain 3% Ability Power, 3% Attack Damage, 3 Armor, and 3 Magic Resist.
+Cognitive Tax
+1
+Gain 8 gold and 1 XP.
+Cognitive Tax+
+1
+Gain 12 gold and 3 XP.
+Continuous Conjuration
+1
+Gain a Needlessly Large Rod. After your team deals 38000 magic damage, gain 2 more. Damage dealt:
+Corrosion
+1
+Enemy champions in the first two rows lose 4 Armor and Magic Resist every 2 seconds.
+Crafted Crafting
+1
+Whenever you craft a completed item, gain 2 rerolls.
+Critical Success
+1
+Gain a Sparring Glove. After your team's attacks critically strike 320 times, gain 2 more. Critical strikes:
+Dummify
+1
+Lose all champions on your board and bench. Gain a Training Dummy with 60% of their combined Health. The Training Dummy gains 1000 Health per stage. Gain a non-Tank 2-star 2-cost champion.
+Electrocharge I
+1
+Every 4 attacks an ally takes, they deal 30-90 (based on current Stage) magic damage to nearby enemies (1 second cooldown).
+Exiles I
+1
+Your champions that start combat with no adjacent champions gain a 20% max Health shield for 10 seconds.
+Expedition
+1
+At the start of every round, lose the champion in the rightmost bench slot. After losing 1 gold of champions in this way, gain a powerful reward. Gain a 3-cost champion now.
+Extra Buckles
+1
+Gain a Giant's Belt. After your team takes 75000 damage, gain 2 more. Damage taken:
+Feeling Lucky
+1
+Gain 12 gold, then flip a coin. If heads, gain 4 more gold.
+Find Your Center
+1
+Your champion that starts combat in the center of the front row gains 15% Damage Amp and 25% max Health.
+Firesale
+1
+Each round, steal a random 3-cost or lower champion from the shop. Gain 1 gold.
+Flowing Tears
+1
+Gain a Tear of the Goddess. After your team spends 6500 Mana, gain 2 more. Mana spent:
+Focused Fire
+1
+Your team gains 10% Attack Damage. Every 5 seconds, they gain 5% more.
+Forge a Friend
+1
+The next 1-cost champion you buy is 3-star. Gain 2 gold.
+Glass Cannon I
+1
+Allies that start combat in the back row begin combat at 80% Health but gain 16% Damage Amp.
+Good For Something I
+1
+Champions that aren't holding items have a 40% chance to drop 1 gold on death.
+Group Hug I
+1
+Combat start: Allies grant other adjacent allies 7 Armor and Magic Resist. This effect stacks.
+Healing Orbs I
+1
+When an enemy dies, the nearest ally is healed for 220.
+Iron Assets
+1
+Gain a component anvil and 3 gold.
+Item Grab Bag
+1
+Gain 1 random completed item.
+Kick Start
+1
+Gain a random 2-star 2-cost champion and 1 gold.
+Late Game Specialist
+1
+When you reach Level 9, gain 36 gold.
+Latent Forge
+1
+After 8 player combats, gain an Artifact anvil.
+Lineup
+1
+Your team gains 2 Armor and Magic Resist for each ally that starts combat in the front two rows.
+Lunch Money
+1
+Every 8 damage you deal to enemy tacticians gives you 2 gold. Total Payouts: Gold
+Makeshift Armor I
+1
+Allies without items equipped gain 30 Armor and Magic Resist.
+Missed Connections
+1
+Gain a copy of each 1-cost champion.
+On a Roll
+1
+Whenever you star up a champion that you fielded last combat, gain 2 free Shop rerolls. Gain 2 gold.
+One, Two, Five!
+1
+Gain 1 random component, 2 gold, and 1 random 5-cost champion.
+One Two Three
+1
+Gain 1 1-cost champion, 1 2-cost champion, and 1 3-cost champion.
+Pandora's Items
+1
+Round start: items on your bench are randomized. Gain 1 random component.
+Partial Ascension
+1
+After 12 seconds of combat, your team gains 20% Damage Amp.
+Patience is a Virtue
+1
+Each round, gain 2 free rerolls if you did not buy a champion last round.
+Recombobulator
+1
+Champions on your board permanently transform into random champions 1 cost tier higher (max 5). Gain 2 Magnetic Removers.
+Restart Mission
+1
+Remove all champions on your board and bench. Gain 2 random 2-star 3-costs, 3 2-star 2-costs, and 1 2-star 1-cost champion.
+Risky Moves
+1
+Your Tactician loses 20 Health, but after 7 player combats, gain 30 gold.
+Rolling For Days I
+1
+Gain 10 free Shop rerolls.
+Second Wind
+1
+After 10 seconds of combat, your team heals 40% of their missing Health.
+Silver Spoon
+1
+Gain 10 XP.
+Size Matters
+1
+Gain a Giant's Belt. After a champion starts combat with more than max Health, gain a Warmog's Armor.
+Slice of Life
+1
+Twice per stage, gain a random champion. Its cost increases by Stage. This effect ends after receiving 1 5-cost champion.
+Slightly Magic Roll
+1
+Roll a die. Gain rewards based on the number rolled. Reward:
+Small Grab Bag
+1
+Gain 2 random item components.
+Stand United
+1
+Gain 1.5% Attack Damage and 1.5% Ability Power for each non-unique Trait active across your team. Current Bonus:
+Stellar Combo
+1
+Gain an Aatrox. Your strongest Aatrox becomes an Attack Fighter with an ability that swaps between three different strikes.
+Survivor
+1
+Gain 4 gold. After 3 players are eliminated, gain 100 more gold.
+Team Building
+1
+Gain a Lesser Champion Duplicator. Gain another after 5 player combats.
+Teaming Up
+1
+Gain 1 random component and 2 random 3-cost champions.
+Termeepnal Velocity
+1
+Gain a Poppy. Your strongest Poppy becomes a ranged Attack Caster that flings a high-velocity Meep at her target.
+The Tower
+1
+Gain a giant Training Dummy with increased Health (increases with Stage). Every 4 seconds, it zaps the 3 nearest enemies dealing 5% max Health true damage.
+Tiny Titans
+1
+Increase your current and max player health by 30.
+Titanic Titan
+1
+Increase your current and max player Health by 25. On carousel rounds you are released earlier, but are much slower.
+Twin Guardians
+1
+If you have exactly 2 allies in your first row, grant them 100 bonus Health, 45 Armor, and 45 Magic Resist.
+Vampiric Vitality I
+1
+You heal for 12% of the damage you deal to enemy Tacticians. Your team gains 10% Omnivamp.
