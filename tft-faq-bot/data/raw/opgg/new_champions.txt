@@ -1,0 +1,2343 @@
+Source: https://op.gg/tft/set/17
+Section: New Champions
+
+New Champions
+Cost
+$1
+$2
+$3
+$4
+$5
+$11
+Origin Synergy
+Anima
+Arbiter
+Bulwark
+Dark Lady
+Dark Star
+Doomer
+Eradicator
+Factory New
+Mecha
+Meeple
+N.O.V.A.
+Oracle
+Primordian
+Psionic
+Redeemer
+Space Groove
+Stargazer
+Timebreaker
+Class Synergy
+Bastion
+Brawler
+Challenger
+Commander
+Conduit
+Divine Duelist
+Fateweaver
+Galaxy Hunter
+Gun Goddess
+Marauder
+Party Animal
+Replicator
+Rogue
+Shepherd
+Sniper
+Vanguard
+Voyager
+Aatrox
+1
+N.O.V.A.
+Bastion
+Stellar Slash
+Active
+30
+/
+90
+Heal
+[
+300
+/
+375
+/
+575
+] (
+)
+, then deal
+[
+161
+/
+241.5
+/
+362.25
+] (
+)
+physical damage to the current target.
+N.O.V.A. Strike: Cleave the battlefield, briefly knocking up all enemies and dealing
+[
+80.5
+/
+120.75
+/
+181.13
+] (
+)
+physical damage.
+Briar
+1
+Anima
+Primordian
+Rogue
+Fish Frenzy
+Active
+0
+/
+40
+Passive: For every 1% missing Health, gain
+[
+2
+/
+2
+/
+2.5
+]% (
+)
+Attack Speed
+Active: Deal
+[
+130
+/
+195
+/
+320
+] (
+)
+physical damage to the target, increased by
+50%
+if they're a tank.
+Caitlyn
+1
+N.O.V.A.
+Fateweaver
+Aim For The Head
+Passive
+Passive:
+Attacks have a 15%
+Lucky
+chance to fire an empowered Headshot, dealing
+[
+190.1
+/
+285.1
+/
+555.1
+] (
+)
+physical damage.
+N.O.V.A. Strike: Mark all enemies, increasing damage taken by 10%. The first time marked targets drop below 50% Health, Headshot them for
+[
+76
+/
+114
+/
+222
+] (
+)
+physical damage.
+Lucky: Check twice and take the better outcome.
+Cho'Gath
+1
+Dark Star
+Brawler
+Accretion
+Active
+30
+/
+70
+Deal
+[
+262
+/
+383.6
+/
+588.48
+] (
+)
+magic damage to the lowest Health enemy in range and permanently gain
+[
+12
+/
+18
+/
+33
+]
+maximum Health. If this kills them, permanently gain
+[
+25
+/
+35
+/
+65
+]
+maximum Health instead.
+(Current Bonus: +? Health)
+Ezreal
+1
+Timebreaker
+Sniper
+Temporal Shot
+Active
+0
+/
+30
+Active:
+Fire a blast at the current target that deals
+[
+165
+/
+250
+/
+380
+] (
+)
+physical damage. Every 8 takedowns, gain a drone that deals
+[
+8
+/
+12
+/
+18
+] (
+)
+physical damage to the current target on cast.
+(Total Takedowns: ?)
+Leona
+1
+Arbiter
+Vanguard
+Shield of Daybreak
+Active
+50
+/
+110
+Gain
+[
+420
+/
+500
+/
+685
+] (
+)
+Shield for 4 seconds. Bash the current target, dealing
+[
+100
+/
+150
+/
+225
+] (
+)
+magic damage and stunning them for
+[
+1.75
+/
+1.75
+/
+2
+]
+seconds.
+Lissandra
+1
+Dark Star
+Shepherd
+Replicator
+Dark Matter
+Active
+0
+/
+30
+Hurl a shard towards the current target, dealing
+[
+250
+/
+375
+/
+600
+] (
+)
+magic damage to the first target it hits. After hitting its initial target or at its final destination, the dagger explodes dealing
+[
+50
+/
+75
+/
+115
+] (
+)
+magic damage to nearby targets.
+Nasus
+1
+Space Groove
+Vanguard
+Groovin' Susan
+Active
+60
+/
+120
+Transform for 6 seconds, temporarily gaining
+[
+250
+/
+350
+/
+550
+]
+max Health, entering Space Groove, and dealing
+[
+44
+/
+70.2
+/
+115.36
+] (
+)
+magic damage to adjacent enemies each second.
+Poppy
+1
+Meeple
+Bastion
+Huddle Up!
+Active
+30
+/
+100
+Gain
+[
+400
+/
+475
+/
+575
+] (
+)
+Shield for 4 seconds. For the duration, allies within two hexes gain
+[
+15
+/
+25
+/
+60
+] (
+)
+Armor and Magic Resistance.
+Meep Bonus:
+Meeps grant
+[
+125
+/
+160
+/
+210
+] (
+)
+Shield to the nearest
+1 (
+)
+allies for 4 seconds.
+Rek'Sai
+1
+Primordian
+Brawler
+Upheaval
+Active
+40
+/
+100
+Heal
+? (
+)
+, then briefly knock up adjacent enemies and deal
+[
+80
+/
+120
+/
+180
+] (
+)
+magic damage.
+Talon
+1
+Stargazer
+Rogue
+Diviner's Judgment
+Active
+0
+/
+30
+Stab the target, causing them to bleed for
+[
+520
+/
+780
+/
+1225
+] (
+)
+physical damage over 18 seconds. After the attack, leap to the highest percent Health enemy within 3 hexes.
+Teemo
+1
+Space Groove
+Shepherd
+Double Time
+Active
+0
+/
+50
+Passive:
+Attacks deal
+[
+30
+/
+45
+/
+100
+] (
+)
+bonus magic damage and an additional
+[
+70
+/
+105
+/
+190
+] (
+)
+stacking magic damage over 6 seconds. While an enemy has 5 or more stacks, Teemo is in Space Groove.
+Active:
+Gain
+150%
+Attack Speed for 3 attacks.
+Twisted Fate
+1
+Stargazer
+Fateweaver
+Fate's Gambit
+Active
+0
+/
+50
+Draw a card with a value between 1 and 9 by
+Lucky
+chance, then throw it at the target. Based on the card drawn, deal between
+[
+190
+/
+285
+/
+430
+] (
+)
+and
+[
+380
+/
+570
+/
+860
+] (
+)
+magic damage. Overkill damage bounces to the nearest enemy.
+3-Star Bonus:
+If a 9 is thrown, generate 1 gold.
+Lucky: Check twice and take the better outcome.
+Veigar
+1
+Meeple
+Replicator
+Meepteor Shower
+Active
+10
+/
+50
+Call down a Meepteor on the target that deals
+[
+310
+/
+465
+/
+700
+] (
+)
+magic damage.
+Meep Bonus:
+An additional
+2 (
+)
+mini Meepteor are called down on nearby targets dealing
+[
+31
+/
+47
+/
+70
+] (
+)
+magic damage each.
+Akali
+2
+N.O.V.A.
+Marauder
+Star Strike
+Active
+0
+/
+30
+Reposition next to the target to strike the most enemies. Then throw 5 piercing kunai, each dealing
+[
+38
+/
+56
+/
+89
+] (
+)
+physical damage to the first enemy hit, reduced to
+[
+15.2
+/
+22.4
+/
+35.6
+] (
+)
+for each subsequent target. Kunai remove
+1
+Armor,
+2
+if they crit.
+N.O.V.A. Strike: Slice all enemies, applying Wound and a bleed that deals
+[
+10
+/
+14
+/
+18
+] (
+)
+physical damage each second. Kunai increase the damage of the bleed by 10%.
+Bel'Veth
+2
+Primordian
+Challenger
+Marauder
+Tidal Slashes
+Active
+0
+/
+50
+Unleash a flurry of
+12 (
+)
+slashes at the current target over 2 seconds, dealing
+[
+23
+/
+35
+/
+52
+] (
+)
+physical damage each.
+Gnar
+2
+Meeple
+Sniper
+Slingshot Maneuver
+Active
+0
+/
+5
+Passive:
+Every 5th attack, launch a returning boomerang at the target that travels two hexes past the first enemy it hits. It deals
+[
+245
+/
+370
+/
+570
+] (
+)
+physical damage, reduced by 75% per hit.
+Meep Bonus:
+1 (
+)
+Meeps attack alongside Gnar, dealing
+[
+245
+/
+370
+/
+570
+] (
+)
+physical damage per second.
+Gragas
+2
+Psionic
+Brawler
+Chemical Rage
+Active
+30
+/
+80
+Heal
+[
+470.5
+/
+593.9
+/
+877.02
+] (
+)
+over 2 seconds. Then, deal
+[
+200
+/
+300
+/
+450
+] (
+)
+magic damage to target and enemies adjacent to them and 30%
+Chill
+them for 2 seconds.
+Slow: Reduce Attack Speed
+Gwen
+2
+Space Groove
+Rogue
+Dance n' Dice
+Active
+0
+/
+30
+Passive:
+Attacks deal magic damage. Gwen is in Space Groove while targeting an enemy below 40% Health.
+Active:
+Dash to a nearby hex to snip the lowest percent Health enemy, dealing
+[
+145
+/
+220
+/
+380
+] (
+)
+magic damage to the target and
+[
+75
+/
+110
+/
+190
+] (
+)
+magic damage to enemies in a cone. If this kills, dash and snip again at 65% damage!
+Jax
+2
+Stargazer
+Bastion
+Counter Star-ike
+Active
+20
+/
+80
+Enter a defensive stance for 3 seconds, reducing incoming damage by
+[
+15
+/
+25
+/
+35
+] (
+)
+and gaining
+[
+400
+/
+500
+/
+675
+] (
+)
+Shield. When the stance ends, strike all nearby enemies, dealing
+[
+67.5
+/
+103.5
+/
+153
+] (
+)
+magic damage and Stunning them for
+[
+1
+/
+1.25
+/
+1.5
+]
+second(s).
+Jinx
+2
+Anima
+Challenger
+Explosive Attitude
+Active
+20
+/
+80
+Fire a barrage of
+16 (
+)
+rockets in a cone, each dealing
+[
+30
+/
+45
+/
+67
+] (
+)
+physical damage to the first target hit.
+Meepsie
+2
+Meeple
+Shepherd
+Voyager
+Meep Impact
+Active
+50
+/
+100
+Heal
+[
+456
+/
+566.8
+/
+846.24
+] (
+)
+Health over 3 seconds. Slam the target, dealing
+[
+160
+/
+240
+/
+360
+] (
+)
+magic damage and knocking up for
+[
+1.5
+/
+1.75
+/
+2
+]
+seconds. The impact creates meepwaves that deal 50% of these effects in the target's row.
+Meep Bonus:
+Meeps water Meepsie's flower, increasing all incoming Healing and Shielding by
+12 (
+)
+.
+Milio
+2
+Timebreaker
+Fateweaver
+Mega Time Kick
+Active
+0
+/
+30
+Kick a ball at the current target that deals
+[
+230
+/
+345
+/
+520
+] (
+)
+magic damage. On impact, the ball has a 100%
+Lucky
+chance to bounce to a new target dealing
+[
+75
+/
+115
+/
+175
+] (
+)
+magic damage. These bounces can trigger additional bounces, but the odds halve with each bounce.
+Lucky: Check twice and take the better outcome.
+Mordekaiser
+2
+Dark Star
+Conduit
+Vanguard
+Indestructible
+Active
+40
+/
+100
+Gain
+[
+300
+/
+375
+/
+500
+] (
+)
+Shield. Each second for the next 4 seconds, gain
+[
+75
+/
+90
+/
+105
+] (
+)
+more Shield and deal
+[
+45
+/
+70
+/
+100
+] (
+)
+magic damage to adjacent enemies. When this ability ends, consume the remaining Shield and heal for
+40%
+of its value.
+Pantheon
+2
+Timebreaker
+Brawler
+Replicator
+Advanced Defences
+Active
+20
+/
+80
+Gain
+[
+329
+/
+397.2
+/
+674.96
+] (
+)
+Shield and
+15%
+Durability for 4 seconds. Over the duration, deal
+[
+30
+/
+45
+/
+70
+] (
+)
+physical damage each second to enemies in a cone.
+Pyke
+2
+Psionic
+Voyager
+Marked for Death
+Active
+0
+/
+40
+Reposition up to one hex to throw a harpoon at the furthest enemy. The harpoon pulls the first enemy hit one hex forward and deals
+[
+60
+/
+90
+/
+135
+] (
+)
+physical damage. Then, teleport behind them and cleave, dealing
+[
+210
+/
+315
+/
+720
+] (
+)
+physical damage to them and
+[
+120
+/
+180
+/
+360
+] (
+)
+physical damage to nearby enemies.
+Zoe
+2
+Arbiter
+Conduit
+Paddle Star
+Active
+0
+/
+50
+Fire a paddle star at the current target, dealing
+[
+68
+/
+102
+/
+153
+] (
+)
+magic damage to the first target hit and
+[
+34
+/
+51
+/
+77
+] (
+)
+to others it passes through. When the missile reaches its destination, redirect it to a distant enemy, increasing its speed and repeating the damage. This redirect can occur 4 times.
+Aurora
+3
+Anima
+Voyager
+Hopped-Up Hacks
+Active
+20
+/
+80
+Open a 2 hex rift containing the target, Hacking enemies within for 4 seconds and dealing
+[
+80
+/
+120
+/
+190
+] (
+)
+magic damage to each, plus
+[
+370
+/
+555
+/
+890
+] (
+)
+magic damage split between all enemies hit.
+Hacked enemies store 10% of all damage they take. When the Hack ends, they take true damage equal to the stored damage. The Hack ends early if it would kill the target.
+Diana
+3
+Arbiter
+Challenger
+Pale Cascade
+Active
+0
+/
+50
+Passive:
+Attacks deal
+[
+50
+/
+75
+/
+130
+] (
+)
+bonus magic damage.
+Active:
+Gain
+[
+225
+/
+275
+/
+375
+] (
+)
+Shield and summon 3 encircling orbs for 3 seconds. Orbs deal
+[
+45
+/
+70
+/
+110
+] (
+)
+magic damage to enemies they pass through, and rotate faster based on Attack Speed.
+Fizz
+3
+Meeple
+Rogue
+Meep Bait
+Active
+0
+/
+20
+Dash through the current target, dealing
+[
+110
+/
+165
+/
+265
+] (
+)
+magic damage. Every third cast also summons a Mega Meep after a delay, briefly knocking the target up and dealing
+[
+185
+/
+280
+/
+445
+] (
+)
+magic damage. Adjacent enemies take 50% damage.
+Meep Bonus:
+Add
+1 (
+)
+Meep to the bait, increasing Mega Meep damage by
+[
+75
+/
+115
+/
+180
+] (
+)
+.
+Illaoi
+3
+Anima
+Vanguard
+Shepherd
+Test of Spirit
+Active
+40
+/
+100
+Gain
+[
+450
+/
+525
+/
+650
+] (
+)
+Shield for 3 seconds. Over the duration, drain
+[
+55
+/
+85
+/
+130
+] (
+)
+Health from the nearest 3 enemies. Then slam down, dealing
+[
+80
+/
+120
+/
+180
+] (
+)
+magic damage to all enemies within 2 hexes.
+Kai'Sa
+3
+Dark Star
+Rogue
+Bullet Cluster
+Active
+0
+/
+50
+Passive:
+On takedown, gain 10 mana.
+Active:
+Fire 16 missiles in a 2-hex radius around the current target, dealing
+[
+35
+/
+53
+/
+84
+] (
+)
+physical damage each.
+Lulu
+3
+Stargazer
+Replicator
+It's Raining Stars
+Active
+0
+/
+60
+Passive:
+Gain a different
+secondary effect
+each game based on the Stargazer constellation.
+Active:
+Call down something from the sky, dealing
+[
+150
+/
+225
+/
+360
+] (
+)
+magic damage to 3 nearby enemies
+and do some special effect based on this game's Stargazer Constellation
+.
+Maokai
+3
+N.O.V.A.
+Brawler
+Grasp of Convergence
+Active
+30
+/
+100
+Passive:
+Gain
+45%
+more max Health from all sources.
+Active:
+Converge an X-shape of vines on the target, dealing
+[
+100
+/
+150
+/
+225
+] (
+)
+magic damage to each enemy hit and Stunning them for
+[
+1.5
+/
+1.5
+/
+1.75
+]
+seconds.
+N.O.V.A. Strike: Send forth a wave of dragons that stun all enemies for [
+1.5
+/
+1.5
+/
+1.75
+] seconds. For the rest of combat, Maokai's attacks deal
+[
+88
+/
+158.4
+/
+285.12
+] (
+)
+bonus physical damage.
+Miss Fortune
+3
+Gun Goddess
+Choose Trait
+Gun Goddess Arsenal
+Active
+0
+/
+100
+Field Miss Fortune to choose whether she activates Conduit Mode, Challenger Mode, or Replicator Mode. The chosen mode determines her ability and her trait.
+Ornn
+3
+Space Groove
+Bastion
+Disco Inferno
+Active
+40
+/
+100
+Passive:
+On combat start, forge a temporary completed item. If 3 items are already equipped, a random completed item becomes
+Radiant
+this combat instead.
+Active:
+Gain
+[
+100
+/
+150
+/
+500
+] (
+)
+Shield for 3 seconds, then breath fire in a cone dealing
+[
+180
+/
+270
+/
+430
+] (
+)
+magic damage. After any Shield on Ornn expires, Ornn enters Space Groove for 3 seconds.
+Rhaast
+3
+Redeemer
+Divine Scythe
+Active
+30
+/
+90
+Gain
+20%
+Durability for 2 seconds, healing
+[
+500
+/
+550
+/
+650
+] (
+)
+over the duration. Afterwards, slash forward in a line, dealing
+[
+120
+/
+180
+/
+300
+] (
+)
+physical damage to enemies hit and knocking them up for 1 second.
+Samira
+3
+Space Groove
+Sniper
+Jump and Jive
+Active
+0
+/
+60
+Passive:
+Whenever an enemy is knocked up, shoot them, dealing
+[
+65
+/
+95
+/
+155
+] (
+)
+physical damage and entering Space Groove for 3 seconds.
+Active:
+Unleash a volley of bullets at the target, dealing
+[
+380
+/
+570
+/
+915
+] (
+)
+physical damage and knocking up for 1.25 seconds.
+Urgot
+3
+Mecha
+Brawler
+Marauder
+Unstoppable Dreadnought
+Active
+0
+/
+50
+Passive - Proximity Blast:
+Whenever an enemy enters a
+2 (
+)
+hex radius, fire a blast in a cone towards the closest adjacent hex that deals
+[
+85
+/
+125
+/
+200
+] (
+)
+physical damage with 30% falloff per hex. Each adjacent hex has a 5 second cooldown, and starts combat on cooldown.
+Active:
+Gain
+[
+150
+/
+175
+/
+200
+] (
+)
+Shield for 3 seconds and reposition up to one hex to maximize the number of targets within Proximity Blast's radius. Reset Proximity Blast's cooldowns.
+Viktor
+3
+Psionic
+Conduit
+Psionic Storm
+Active
+20
+/
+80
+Channel a one-hex psionic storm that follows enemies for 4 seconds. Each second, it grows larger and deals
+[
+220
+/
+330
+/
+545
+] (
+)
+magic damage to enemies within, reduced by 60% per hex from the epicenter.
+Aurelion Sol
+4
+Mecha
+Conduit
+Deathbeam
+Active
+15
+/
+75
+Channel a deathbeam in a line towards the current target for 3 seconds. It deals
+[
+185
+/
+280
+/
+2700
+] (
+)
+magic damage per second, reduced by 60% per enemy it passes through. Deathbeam ignores 30% of the enemy's Magic Resist.
+Corki
+4
+Meeple
+Fateweaver
+Asteroid Blaster
+Active
+0
+/
+60
+Strafe to a nearby position, unleashing 21 missiles split between the target and all enemies within two hexes. Missiles deal
+[
+33
+/
+49
+/
+304
+] (
+)
+physical damage with a 20%
+Lucky
+chance of firing a mega missile that deals
+[
+115.5
+/
+171.5
+/
+1064
+] (
+)
+instead.
+Meep Bonus:
+Every
+8 (
+)
+seconds, launch an Explosive Meep at the target, dealing
+[
+120
+/
+180
+/
+900
+] (
+)
+physical damage in a one hex radius on impact.
+Lucky: Check twice and take the better outcome.
+Karma
+4
+Dark Star
+Voyager
+Singularity
+Active
+10
+/
+55
+Gather the force of a black hole, dealing
+[
+570
+/
+855
+/
+5000
+] (
+)
+magic damage split between the target and the
+[
+2
+/
+2
+/
+4
+]
+closest enemies to them. The target takes an additional
+[
+120
+/
+180
+/
+1000
+] (
+)
+magic damage.
+Kindred
+4
+N.O.V.A.
+Challenger
+Cosmic Pursuit
+Active
+0
+/
+40
+Passive:
+Attacks and Abilities mark the target. When an enemy reaches 3 marks, Wolf consumes the marks, dealing
+[
+125
+/
+190
+/
+1000
+] (
+)
+physical damage.
+Active:
+Jump up to 1 hex away and fire arrows at the nearest
+[
+3
+/
+3
+/
+5
+]
+targets, each dealing
+[
+60
+/
+90
+/
+600
+] (
+)
+physical damage.
+N.O.V.A. Strike: Gain 5% Damage Amp. Now and every 5 seconds after, add a mark to all enemies.
+LeBlanc
+4
+Arbiter
+Shepherd
+Fracture Reality
+Active
+0
+/
+40
+Passive:
+Attacks deal
+[
+64
+/
+96
+/
+400
+] (
+)
+magic damage instead.
+Active:
+Summon 5 clones that attack alongside for 5 attacks, dealing
+[
+25
+/
+25
+/
+150
+]%
+damage. For their final attack, clones fire a bolt that deals
+[
+70
+/
+105
+/
+750
+] (
+)
+magic damage.
+Master Yi
+4
+Psionic
+Marauder
+Psi Strikes
+Active
+30
+/
+70
+Passive:
+Every third attack is a doubleslash that deals
+[
+60
+/
+90
+/
+550
+] (
+)
+bonus physical damage.
+Active:
+After brief meditation, enter a Psi-State for 5 seconds, gaining
+15%
+Omnivamp,
+70%
+Attack Speed, and increased movement speed. Twice a second, fire a psychic projection at a random nearby enemy that deals
+[
+70
+/
+105
+/
+800
+] (
+)
+physical damage
+Nami
+4
+Space Groove
+Replicator
+Bubble Pop
+Active
+25
+/
+70
+Toss a disco bubble at the target that deals
+[
+410
+/
+615
+/
+5000
+] (
+)
+split between enemies in a one hex radius. The explosion sends 3 globs towards nearby enemies that deal
+[
+110
+/
+165
+/
+1000
+] (
+)
+magic damage. On cast, Nami enters Space Groove for 3 seconds.
+Nunu & Willump
+4
+Stargazer
+Vanguard
+Calamity
+Active
+40
+/
+145
+Gain
+[
+475
+/
+575
+/
+2000
+] (
+)
+Shield for 4 seconds. Summon an astrolabe to crash down on a nearby hex, dealing
+[
+120
+/
+180
+/
+2000
+] (
+)
+magic damage to enemies within 2 hexes. Then, push the astrolabe towards the end of the board, dealing
+[
+100
+/
+150
+/
+2000
+] (
+)
+magic damage. All enemies hit by the astrolabe are knocked up for [
+1.75
+/
+2
+/
+8
+] seconds.
+Rammus
+4
+Meeple
+Bastion
+Gravitational Spin
+Active
+20
+/
+90
+Gain
+[
+675
+/
+825
+/
+2000
+] (
+)
+shield for 4 seconds. Then, strike enemies in a three hex line, dealing
+[
+80
+/
+120
+/
+1360
+] (
+)
+magic damage.
+Meep Bonus:
+Reduce the damage of incoming attacks by
+4 (
+)
+. After being attacked 20 times, deal
+[
+12
+/
+18
+/
+300
+] (
+)
+magic damage in a two hex radius.
+Riven
+4
+Timebreaker
+Rogue
+Time Warp
+Active
+0
+/
+20
+Passive:
+This Ability adapts to Attack Damage or Ability Power, whichever is higher. Attacks deal
+[
+75
+/
+115
+/
+300
+] (
+)
+magic
+[
+75
+/
+115
+/
+300
+] (
+)
+physical
+damage.
+Active:
+Dash to a nearby hex, gaining
+[
+100
+/
+150
+/
+1200
+]
+Shield for 2 seconds and slashing adjacent enemies for
+[
+90
+/
+135
+/
+1000
+] (
+)
+magic
+[
+90
+/
+135
+/
+1000
+] (
+)
+physical
+damage. Every third cast, leap into the air and launch a wave of energy that deals
+[
+160
+/
+240
+/
+2000
+] (
+)
+magic
+[
+160
+/
+240
+/
+2000
+] (
+)
+physical
+damage to enemies in a line.
+Tahm Kench
+4
+Oracle
+Brawler
+Tounge Lash
+Active
+50
+/
+120
+Passive:
+Once per combat after dropping below 35% Health, gain Shield for 4 seconds equal to 40% of healing received this combat.
+Active:
+Heal
+[
+392
+/
+525.6
+/
+1924.08
+] (
+)
+, then tongue lash all enemies within two hexes dealing
+[
+71
+/
+106.8
+/
+894.24
+] (
+)
+magic damage.
+The Mighty Mech
+4
+Mecha
+Voyager
+Gravity Matrix
+Active
+40
+/
+100
+Enter a defensive stance for 4 seconds gaining
+[
+20
+/
+20
+/
+90
+]%
+Durability. While in the defensive stance, attract nearby enemy projectiles and heal
+[
+850
+/
+1200
+/
+3000
+] (
+)
+over the duration. When this ends, release a shockwave that deals
+[
+96
+/
+144
+/
+3600
+] (
+)
+as physical damage in a 2-hex range.
+Xayah
+4
+Stargazer
+Sniper
+Stellar Ricochet
+Active
+0
+/
+50
+Passive:
+Attacks bounce to strike
+[
+3
+/
+3
+/
+5
+]
+times, dealing
+[
+60
+/
+60
+/
+30
+]%
+reduced damage per target hit and leaving a Feather behind the final target.
+Active:
+Gain
+75%
+Attack Speed for 4 seconds. At the end, recall all Feathers split between the closest 3 enemies, dealing
+[
+54
+/
+81
+/
+960
+] (
+)
+physical damage each.
+Bard
+5
+Meeple
+Conduit
+Ultra Friendly Object
+Active
+0
+/
+65
+Summon a flying saucer over the current target that lasts 4 seconds. Each second it deals
+[
+220
+/
+330
+/
+3000
+] (
+)
+magic damage to the target, plus
+[
+135
+/
+205
+/
+1500
+] (
+)
+magic damage split between all enemies within 1 hex. The saucer deals
+30%
+increased damage to Tanks.
+If an enemy under the UFO dies, Bard has a
+[
+15
+/
+20
+/
+100
+]%
+chance to abduct them and create a 1-star copy on your bench.
+Meep bonus:
+On combat start, grant the nearest
+1
+(
+) Meeple allies an additional Meep.
+Friends abducted: ?
+Blitzcrank
+5
+Party Animal
+Space Groove
+Vanguard
+Party Crasher
+Active
+20
+/
+100
+Passive:
+Every
+[
+2
+/
+2
+/
+0.5
+]
+seconds, call down a bolt on the highest Health nearby enemy that deals
+[
+60
+/
+90
+/
+150
+] (
+)
+magic damage.
+Active:
+Summon a disco ball at the largest clump of enemies, then knock up the current target into it, dealing
+[
+150
+/
+225
+/
+999
+] (
+)
+magic damage. They crash down into the disco ball, dealing
+[
+175
+/
+265
+/
+5000
+] (
+)
+magic damage in a three hex radius. Enter Space Groove for 1 second per enemy hit.
+Fiora
+5
+Divine Duelist
+Anima
+Marauder
+Perfect Bladework
+Active
+0
+/
+80
+Passive:
+Every 2 attacks, reveal a Vital on the target. If a Vital exists, dash to attack it dealing
+[
+40
+/
+60
+/
+777
+] (
+)
+bonus true damage and heal for 15% of the damage dealt.
+Active:
+Reveal 6 Vitals on the target and quickly attack them all. If the target dies, remaining Vitals transfer to the nearest enemy. Upon striking the final Vital, create a two hex aura that heals allies within for
+[
+200
+/
+250
+/
+999
+] (
+)
+over 5 seconds.
+Graves
+5
+Factory New
+Collateral Damage
+Active
+0
+/
+60
+Passive:
+Attacks fire 5 projectiles in a cone that deal
+[
+19.8
+/
+29.7
+/
+44.55
+] (
+)
+physical damage each.
+Active:
+Fire an explosive shell that deals
+[
+360
+/
+540
+/
+5555
+] (
+)
+physical damage to the target, and
+[
+150
+/
+225
+/
+4110
+] (
+)
+physical damage to adjacent enemies.
+Jhin
+5
+Dark Star
+Eradicator
+Sniper
+Space Opera
+Active
+0
+/
+44
+Passive:
+Jhin has a fixed attack speed of
+[
+0.9
+/
+0.9
+/
+1.4
+]
+and converts every 1% of bonus Attack Speed into 0.75 bonus Attack Damage.
+Active:
+Summon 4 spectral hands that fire alongside Jhin for the next 4 attacks. Each hand deals
+[
+42
+/
+63
+/
+688
+] (
+)
+physical damage per shot. The final shots deal
+244%
+more damage and pierce through the most enemies in a line, dealing 44% reduced damage per target hit.
+Morgana
+5
+Dark Lady
+Dark Form
+Active
+20
+/
+60
+Passive:
+Heal for 20% of Ability damage.
+Active:
+Transform into Dark Form for 5 seconds, gaining
+[
+250
+/
+300
+/
+4000
+] (
+)
+Shield for the duration. While in Dark Form, tether the 3 nearest enemies, dealing
+[
+50
+/
+75
+/
+1500
+] (
+)
+magic damage per second to each one.
+At the end of the transfomation, deal
+[
+240
+/
+360
+/
+4000
+] (
+)
+magic damage to all tethered enemies.
+Shen
+5
+Bulwark
+Bastion
+Reality Tear
+Active
+10
+/
+70
+Passive:
+On cast, attacks gain
+[
+40
+/
+60
+/
+777
+] (
+)
+stacking bonus magic damage. Starting from the third cast, gain
+true damage
+instead.
+Active:
+Gain
+[
+321
+/
+472.8
+/
+4087.04
+] (
+)
+Shield for 3 seconds, then slice open a rift on the largest group of champions dealing the Passive's bonus damage to all enemies within. Enemies have their Attack Speed slowed by
+[
+50
+/
+50
+/
+999
+]%
+while allies within gain
+[
+80
+/
+80
+/
+999
+]%
+Attack Speed, both rapidly decaying over 3 seconds.
+Sona
+5
+Commander
+Psionic
+Shepherd
+Psionic Crush
+Active
+0
+/
+25
+Hurl a chunk of magnetic debris at the nearest target without one, dealing
+[
+240
+/
+360
+/
+999
+] (
+)
+magic damage and sticking it to them. If an enemy with debris dies, it passes to the nearest enemy without one.
+Every 5 casts, instead rip off all debris dealing
+[
+120
+/
+180
+/
+999
+] (
+)
+magic damage, then crush all the debris onto the target, dealing
+[
+620
+/
+930
+/
+9999
+] (
+)
+magic damage and briefly stunning them.
+Vex
+5
+Doomer
+Lend Me a Hand, Shadow!
+Active
+0
+/
+60
+Passive:
+Every time Vex attacks, Shadow strikes a nearby enemy, dealing
+[
+30
+/
+45
+/
+250
+] (
+)
+magic damage. Whenever an enemy is struck 5 times by Shadow, Shadow strikes them again.
+Active:
+Shadow launches 3 empowered strikes, dealing
+[
+140
+/
+210
+/
+1000
+] (
+)
+magic damage instead.
+Zed
+5
+Galaxy Hunter
+Quantum Clone
+Active
+50
+/
+100
+Create a clone behind the target with 33% reduced max Health and 30 increased Mana cost. The clone inherits its creator's items, stats, and current Health, and can cast Quantum Clone.
+Augments
+Check out the new Set 17 augments and the rounds where they can appear.
+Tier
+Silver
+Gold
+Prismatic
+Round
+2-1
+3-2
+4-2
+Poppy Hero
+2-1
+Gain a Poppy. Poppy becomes a ranged Marksman and her attacks Meeps at her target.
+Aatrox Hero
+2-1
+Aatrox's spell is now a low-mana three-hit combo that heals him for a portion of the damage dealt. When his NOVA move happens, he gains maximum health and size.
+Bonk!
+2-1
+Gain a Nasus. Your strongest Nasus becomes an Attack Fighter with a single target ability that gets stronger with each kill.
+Charge Transfer I
+3-2
+4-2
+Your team gains 5% Damage Amp. 50% of overkill damage is dealt to the nearest enemy.
+The Tower
+2-1
+3-2
+4-2
+Gain a massive Training Dummy that zaps nearby enemies
+Group Hug I
+3-2
+4-2
+Combat start: Allies grant other adjacent allies 6 Armor and Magic Resist. This effect stacks.
+Expedition
+2-1
+At the start of planning phase, lose the right-most champion on your bench. After losing 33 gold of units this way, gain a powerful reward.
+Forge a Friend
+4-2
+The next 1-cost champion you purchase is 3-star.
+Size Matters
+3-2
+Gain a Giant's Belt. After a champion begins combat with more than 3800 max Health, gain another.
+Feeling Lucky
+3-2
+Gain 12 gold, then flip a coin. If heads, gain 3 more gold.
+Cognitive Tax
+2-1
+Gain 8 gold and 1 XP.
+Cognitive Tax+
+3-2
+Gain 12 gold and 3 XP.
+Kick Start
+2-1
+Gain a random 2-star 2-cost champion and 1 gold.
+Anima Commander
+2-1
+Gain a Briar, a Jinx, and an Illaoi. Increase your current and max player Health by 10.
+Sniper's Nest
+2-1
+3-2
+Snipers gain 8% Damage Amp for each combat fought from the same starting hex, up to 32%. Gain an Ezreal and a Gnar.
+May the Fours Be With You
+4-2
+Your 4 cost champions and Jhin gain 204 Health and 14% Attack Speed. Gain a Jhin.
+Invader Zed
+3-2
+Gain a Bloodthirster. On Stage 4-1, gain a Zed. After receiving Zed, he can then appear in your shops. Zed is a 5-cost Attack Fighter that creates clones of himself.
+Reach For the Stars
+2-1
+Jax gains stacking attack speed with every attack. On cast, jump to a nearby enemy, dealing damage and adding stacking on-hit damage for the rest of combat.
+Meep Space 9
+2-1
+Meepsie gains a weaker version of Brock's spell and heavy attack damage.
+Star Conqueror
+2-1
+Mordekaiser becomes an auto-attack based AP carry, whose channel is a burst of attack speed for as long as he has mana to spend. At combat start and on kill, he gains a non-mana-locking shield.
+Self Destruct
+2-1
+Gain a Gragas. Gragas now self detonates, sacrificing 20% of max Health to deal XXX (AP) plus the sacrificed Health as magic damage in a four hex radius, reduced by 20% per hex from the epicenter.
+Contract Killer
+2-1
+Gain a Pyke. Your strongest Pyke gains a resetting ability and generates gold on takedown.
+Side Effects
+3-2
+4-2
+When an ally is healed, they deal 50% of the healing to their target as magic damage. Every 5 seconds, allies heal for 5% of their max Health.
+Misfits
+2-1
+Your team gains 75 Health for each active Unique trait. Gain a Miss Fortune and a Rhaast.
+Booster Pack
+2-1
+Gain 11 gold worth of random champions. (At least one 3-Cost guaranteed!)
+Booster Pack+
+3-2
+Gain 18 gold worth of random champions. (At least one 4-Cost guaranteed!)
+Booster Pack++
+4-2
+Gain 30 gold worth of random champions. (At least one 5-Cost guaranteed!)
+Charge Transfer II
+3-2
+4-2
+Your team gains 8% Damage Amp. 80% of overkill damage is dealt to the nearest enemy.
+Group Hug II
+3-2
+4-2
+Combat start: Allies grant other adjacent allies 9 Armor and Magic Resist. This effect stacks.
+Frontline Foundation
+2-1
+Gain a 2-star 1-cost Tank champion and an emblem for their last-listed trait.
+Kahunahuna
+2-1
+3-2
+Every 5th attack deals bonus true damage equal to 200% Basic Attack Damage.
+Cosmic Restart
+3-2
+Call upon the Gods to sell all units on your board and bench. Gain 2 random Emblems and 10 free Shop rerolls.
+Cognitive Overload
+3-2
+Gain 7 Gold, 1 2-star 1-cost champion, 1 2-cost champion, 2 3-cost champions, 1 XP, and 1 Shop reroll.
+Backline Blueprint
+2-1
+Gain a 3-cost non-Tank champion and an emblem for their last-listed trait.
+Money Hungry
+2-1
+Gain 10 gold now, then 7 gold at the start of every stage. Picking up gold makes your Tactician larger.
+Five-Pointed Star
+4-2
+At the start of each stage, the first champion you buy from a specific tier is 2-star. Gain a 2-star 1-cost champion and 2 gold now. Stage 2: 2-cost Stage 3: 3-cost Stage 4: 4-cost Stage 5: 5-cost
+Just Hit
+4-2
+Gain a Champion Duplicator, 18 Shop rerolls, and 10 gold.
+Golden Gamble
+2-1
+3-2
+4-2
+Flip a coin. If heads, gain a Radiant Lucky Item Chest. If tails, gain a random Radiant item and a Reforger.
+Baron's Lair
+2-1
+3-2
+4-2
+Gain a Tank item. After 8 seconds of combat, your team gains 5% Attack Damage and Ability Power every second for the rest of combat.

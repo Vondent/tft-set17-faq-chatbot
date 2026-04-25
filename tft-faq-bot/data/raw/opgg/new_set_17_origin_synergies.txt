@@ -1,0 +1,301 @@
+Source: https://op.gg/tft/set/17
+Section: New Set 17 Origin Synergies
+
+New Set 17 Origin Synergies
+Bulwark
+Summon a placeable relic. At the start of combat, it grants adjacent allies a 10% max Health shield and 10% Attack Speed.
+Dark Lady
+Allies take 5% less damage from abilities, increased to 10% while Morgana is in Dark Form.
+Doomer
+Combat Start: Mark all enemies with Doom.
+Eradicator
+Enemies have 10% less Armor and Magic Resist.
+Factory New
+After participating in combat, open an armory to purchase a permanent upgrade for your strongest Graves.
+Every 3 upgrades, future upgrades will take an additional round.
+Oracle
+Every 3 rounds, Tahm Kench grants a reward!
+Rounds Remaining: ?
+Redeemer
+(
+1
+)
+For each non-unique trait you have active, your team gains 2%/3%/3% Attack Speed, and 2/2.5/3 Armor and Magic Resist.
+Anima
+After losing a player combat, gain 20 Tech, plus additional Tech equal to 5 times the length of your loss streak. Additionally, gain 2 Tech per Anima takedown.
+Each time Animas get 100 Tech, they prototype new Anima Weapons. You can take them, or save your Tech to get more powerful weapons next time.
+(
+3
+)
+Start Researching!
+(
+6
+)
+After winning a player combat, gain loot!
+Arbiter
+Scribe a unique divine law, allowing you to choose an effect to apply to Arbiters when a chosen cause occurs.
+(
+2
+)
+Choose a cause and effect for your law
+(
+3
+)
+Effects are stronger.
+Dark Star
+Dark Star units create a black hole that devours enemies below 10% max Health. The higher the trait tier, the stronger the black hole becomes.
+(
+2
+)
+Dark Stars create a black hole that consumes enemies at 8% max health.
+(
+4
+)
+AND they gain 45%
+.
+(
+6
+)
+AND the strongest Dark Star unit goes supermassive, gaining 85% effectiveness from Dark Star, and creates 2 minor Black Holes.
+(
+9
+)
+All Dark Stars are supermassive. At level 10, CONSUME EVERYONE.
+Mecha
+Innate: Mecha units can transform into their Ultimate form, upgrading their ability and gaining 50% Health. Transformed Mechas take up two team slots and count twice for the Mecha trait.
+(
+3
+)
+Energy Cells: Mechas gain 20%
+.
+(
+4
+)
+Overclocked Cells: Increased to 35%
+.
+(
+6
+)
+Precision Engineering: +1 max team size
+Meeple
+Meeple attract Meeps that empower Meeple abilities in meepy ways. They also gain bonus Health.
+(
+3
+)
+2
+, 100
+(
+5
+)
+3
+, 400
+(
+7
+)
+4
+, 400
+. Create a Cloning Slot on your bench. Gain gold and a 1-star copy of the champion placed there when cloning completes.
+(
+10
+)
+6
+, 500
+. SUMMON THE FOUR MEEPLORDS!
+N.O.V.A.
+(
+2
+)
+6 seconds into combat, N.O.V.A. grant a power surge to allies based on champions.
+(
+5
+)
+Gain a Striker selector. The chosen N.O.V.A. activates their Strike during the power surge.
+Primordian
+(
+2
+)
+Dealing damage spawns Swarmlings based on unique Primordian star level.
+(
+3
+)
+Spawn 45% more Swarmlings! After each player combat, gain a random 1 or 2-cost champion.
+Psionic
+Gain Psionic items that can be equipped to any ally.
+(
+2
+)
+Gain the ?
+(
+4
+)
+Gain the ?, Psionic items gain extra effects on Psionic units
+Space Groove
+Space Groove units can enter the Groove state. While in Groove, their bonuses scale with the number of Space Groove allies and grow stronger at higher trait tiers.
+(
+1
+)
+Groovians can enter Space Groove. While in it, they gain Attack Speed and max Health Regen, increased per Groovian on your team.
+(
+3
+)
+All Groovians start combat in Space Groove for 3 seconds.
+(
+5
+)
+Each second spent in Space Groove grants 5% stacking Attack Damage and Ability Power.
+(
+7
+)
+Increase these effects by 10%!
+(
+10
+)
+{{TFT17_SpaceGroove_Groove}}
+Stargazer
+(
+3
+)
+units.
+More hexes reveal at each player level.
+Stargazer (The Altar)
+Stargazers chart a different constellation every game. This game:
+The Altar
+.
+(
+3
+)
+When ANY champion dies, they are sacrificed to the Altar. Allies in empowered hexes gain 8% Health and 8% Attack Speed.After 60 sacrifices, Stargazers in empowered hexes gain an additional 20%
+and 18%
+Sacrifices: (? / 60)
+Stargazer (The Boar)
+Stargazers chart a different constellation every game. This game:
+The Boar
+.
+Gain gold after winning player combat. Allies in empowered hexes gain 8% Health, Attack Damage, and Ability Power. Stargazers gain more.
+(Gold Earned: ?)
+(
+3
+)
+1 gold, 2%
+, 10%
+(
+4
+)
+2 gold, 8%
+, 15%
+(
+5
+)
+4 gold, 15%
+, 25%
+(
+6
+)
+6 gold, 22%
+, 30%
+Stargazer (The Fountain)
+Stargazers chart a different constellation every game. This game:
+The Fountain
+.
+Allies in empowered hexes gain 1 Mana Regen. Stargazers in empowered hexes gain more and heal the lowest Health ally with their abilities.
+(
+3
+)
+1
+, 18% ability damage heal
+(
+5
+)
+5
+, 25% ability damage heal
+Stargazer (The Huntress)
+Stargazers chart a different constellation every game. This game:
+The Huntress
+.
+Combat Start: Mark the highest Health enemies.
+Allies in empowered hexes gain 15% Attack Speed. Stargazers in empowered hexes gain more and heal for 10% of their max Health when a marked enemy dies.
+(
+3
+)
+10%
+, 3 marks
+(
+5
+)
+30%
+, 5 marks
+(
+7
+)
+45%
+, 7 marks
+Stargazer (The Medallion)
+Stargazers chart a different constellation every game. This game:
+The Medallion
+.
+(
+3
+)
+Allies in empowered hexes gain 12% Damage Amp, which increases by 6.5% for each 3-star ally.
+Stargazer (The Mountain)
+Stargazers chart a different constellation every game. This game:
+The Mountain
+Every 5 player combats, gain a Stargazer Emblem. Stargazers in empowered hexes gain various bonuses.
+(Combats Remaining: ?)
+(
+3
+)
+Gain 12% Health
+(
+4
+)
+AND 12% Attack Damage and Ability Power
+(
+5
+)
+AND 12 Armor and Magic Resist
+(
+6
+)
+AND 12% Attack Speed
+(
+7
+)
+AND 6% Durability
+(
+8
+)
+AND increase all other bonuses by 10%
+Stargazer (The Serpent)
+Stargazers chart a different constellation every game. This game:
+The Serpent
+.
+Allies in empowered hexes gain 5% Durability. Stargazers in empowered hexes gain more and poison enemies, repeating a portion of damage dealt as magic damage over 3 seconds.
+(
+3
+)
+5%
+, 25% poison damage
+(
+5
+)
+10%
+, 40% poison damage
+(
+7
+)
+15%
+, 60% poison damage
+Timebreaker
+(
+2
+)
+When you lose, gain free rerolls. When you win, store XP in a Temporal Core (scales with stage).
+(
+3
+)
+AND Allies gain 25% Attack Speed.
+(
+4
+)
+AND Timebreakers gain an additional 40% Attack Speed

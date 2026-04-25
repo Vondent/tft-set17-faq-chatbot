@@ -1,0 +1,29 @@
+Source: https://mobalytics.gg/tft/items/consumables
+Category: consumables
+
+Use your favourite features in-game with our Desktop App
+Consumable
+The only consumable cheat sheet and tier list for TFT Set 17 - Space Gods you need! Learn items recipes and combinations easily. Get info during the game with our TFT Companion app.
+Item
+Tier
+Item Bonus
+Recipe
+Good for
+Champion Duplicator
+Use on a champion to create a
+1
+-star copy on your bench.
+Consumable - This item disappears when used.
+Lesser Champion Duplicator
+Use on a
+3
+-cost champion or less to create a
+1
+-star copy on your bench.
+Consumable - This item disappears when used.
+Magnetic Remover
+Use on a champion to unequip all items.
+Cannot be used on champions in combat.
+Reforger
+Unequip all items and randomly transform them into new ones of a similar type and quality.
+Consumable - This item disappears when used.

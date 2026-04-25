@@ -1,0 +1,212 @@
+# TFT Set 17 — Origin Synergies
+
+## Unique Traits (Single Champion, No Breakpoints)
+
+Trait: Bulwark
+Type: Origin (Unique — Shen)
+Description: Summon a placeable relic. At the start of combat, it grants adjacent allies a 10% max Health shield and 10% Attack Speed.
+
+---
+
+Trait: Dark Lady
+Type: Origin (Unique — Morgana)
+Description: Allies take 5% less damage from abilities, increased to 10% while Morgana is in Dark Form.
+
+---
+
+Trait: Doomer
+Type: Origin (Unique — Vex)
+Description: Combat Start: Mark all enemies with Doom.
+
+---
+
+Trait: Eradicator
+Type: Origin (Unique — Jhin)
+Description: Enemies have 10% less Armor and Magic Resist.
+
+---
+
+Trait: Factory New
+Type: Origin (Unique — Graves)
+Description: After participating in combat, open an armory to purchase a permanent upgrade for your strongest Graves. Every 3 upgrades, future upgrades will take an additional round.
+
+---
+
+Trait: Oracle
+Type: Origin (Unique — Tahm Kench)
+Description: Every 3 rounds, Tahm Kench grants a reward.
+
+---
+
+## Standard Traits
+
+Trait: Redeemer
+Type: Origin
+Description: For each non-unique trait you have active, your team gains bonus Attack Speed and Armor and Magic Resist.
+Breakpoints: 1
+  (1): 2%/3%/3% Attack Speed and 2/2.5/3 Armor and Magic Resist (scales with Redeemer star level)
+
+---
+
+Trait: Anima
+Type: Origin
+Description: After losing a player combat, gain 20 Tech plus additional Tech equal to 5 times the length of your loss streak. Additionally, gain 2 Tech per Anima takedown. Each time Animas get 100 Tech, they prototype new Anima Weapons — take them now or save Tech for more powerful weapons later.
+Breakpoints: 3/6
+  (3): Start Researching! (begin prototyping Anima Weapons)
+  (6): After winning a player combat, gain loot!
+
+---
+
+Trait: Arbiter
+Type: Origin
+Description: Scribe a unique divine law, allowing you to choose an effect to apply to Arbiters when a chosen cause occurs.
+Breakpoints: 2/3
+  (2): Choose a cause and effect for your law
+  (3): Effects are stronger
+
+---
+
+Trait: Dark Star
+Type: Origin
+Description: Dark Star units create a black hole that devours enemies below a Health threshold. The higher the trait tier, the stronger the black hole.
+Breakpoints: 2/4/6/9
+  (2): Dark Stars create a black hole that consumes enemies at 8% max Health
+  (4): AND they gain 45% increased effectiveness
+  (6): AND the strongest Dark Star unit goes supermassive, gaining 85% effectiveness from Dark Star, and creates 2 minor Black Holes
+  (9): All Dark Stars are supermassive. At level 10, CONSUME EVERYONE
+
+---
+
+Trait: Mecha
+Type: Origin
+Description: Innate: Mecha units can transform into their Ultimate form, upgrading their ability and gaining 50% Health. Transformed Mechas take up two team slots and count twice for the Mecha trait.
+Breakpoints: 3/4/6
+  (3): Energy Cells — Mechas gain 20% Damage Amp
+  (4): Overclocked Cells — Increased to 35% Damage Amp
+  (6): Precision Engineering — +1 max team size
+
+---
+
+Trait: Meeple
+Type: Origin
+Description: Meeples attract Meeps that empower Meeple abilities in unique ways. They also gain bonus Health. Meeples are granted a number of Meeps and bonus Health based on trait tier.
+Breakpoints: 3/5/7/10
+  (3): 2 Meeps, 100 bonus Health
+  (5): 3 Meeps, 400 bonus Health
+  (7): 4 Meeps, 400 bonus Health; Create a Cloning Slot on your bench — gain gold and a 1-star copy of the champion placed there when cloning completes
+  (10): 6 Meeps, 500 bonus Health; SUMMON THE FOUR MEEPLORDS!
+
+---
+
+Trait: N.O.V.A.
+Type: Origin
+Description: N.O.V.A. units grant a power surge to allies mid-combat. At higher tiers, a chosen N.O.V.A. unit activates their signature Strike during the surge.
+Breakpoints: 2/5
+  (2): 6 seconds into combat, N.O.V.A. grant a power surge to allies based on champions
+  (5): Gain a Striker selector. The chosen N.O.V.A. activates their Strike during the power surge
+
+---
+
+Trait: Primordian
+Type: Origin
+Description: Primordian units spawn Swarmlings when dealing damage, scaling with their star level.
+Breakpoints: 2/3
+  (2): Dealing damage spawns Swarmlings based on unique Primordian star level
+  (3): Spawn 45% more Swarmlings! After each player combat, gain a random 1 or 2-cost champion
+
+---
+
+Trait: Psionic
+Type: Origin
+Description: Grants access to Psionic items that can be equipped to any ally. At higher tiers, Psionic units unlock bonus item effects.
+Breakpoints: 2/4
+  (2): Gain a Psionic item
+  (4): Gain a Psionic item; Psionic items gain extra effects on Psionic units
+
+---
+
+Trait: Space Groove
+Type: Origin
+Description: Space Groove units can enter the Groove state. While in Groove, their bonuses scale with the number of Space Groove allies and grow stronger at higher trait tiers.
+Breakpoints: 1/3/5/7/10
+  (1): Groovians can enter Space Groove. While in it, they gain Attack Speed and max Health Regen, increased per Groovian on your team
+  (3): All Groovians start combat in Space Groove for 3 seconds
+  (5): Each second spent in Space Groove grants 5% stacking Attack Damage and Ability Power
+  (7): Increase all Space Groove effects by 10%
+  (10): Maximum Space Groove — all effects maximized
+
+---
+
+Trait: Timebreaker
+Type: Origin
+Description: Timebreakers gain advantages from both winning and losing combat rounds, accumulating XP and rerolls over time.
+Breakpoints: 2/3/4
+  (2): When you lose, gain free rerolls. When you win, store XP in a Temporal Core (scales with stage)
+  (3): AND Allies gain 25% Attack Speed
+  (4): AND Timebreakers gain an additional 40% Attack Speed
+
+---
+
+## Stargazer
+Stargazers chart a different constellation every game, which determines their bonus effects and playstyle. At 3 Stargazers, hexes on the board are revealed and empowered — more hexes reveal at each player level.
+
+### The Altar
+When ANY champion dies, they are sacrificed to the Altar. Allies in empowered hexes gain 8% Health and 8% Attack Speed. After 60 sacrifices, Stargazers in empowered hexes gain an additional 20% bonus and 18% bonus.
+Breakpoints: 3
+  (3): Active — sacrifice mechanic begins (Sacrifices tracked toward 60)
+
+---
+
+### The Boar
+Gain gold after winning player combat. Allies in empowered hexes gain 8% Health, Attack Damage, and Ability Power. Stargazers gain more.
+Breakpoints: 3/4/5/6
+  (3): 1 gold, 2% Health, 10% Attack Damage and Ability Power
+  (4): 2 gold, 8% Health, 15% Attack Damage and Ability Power
+  (5): 4 gold, 15% Health, 25% Attack Damage and Ability Power
+  (6): 6 gold, 22% Health, 30% Attack Damage and Ability Power
+
+---
+
+### The Fountain
+Allies in empowered hexes gain 1 Mana Regen. Stargazers in empowered hexes gain more Mana Regen and heal the lowest Health ally with their abilities.
+Breakpoints: 3/5
+  (3): 1 Mana Regen (team), 18% ability damage converted to healing
+  (5): 5 Mana Regen (team), 25% ability damage converted to healing
+
+---
+
+### The Huntress
+Combat Start: Mark the highest Health enemies. Allies in empowered hexes gain 15% Attack Speed. Stargazers in empowered hexes gain more Attack Speed and heal for 10% of their max Health when a marked enemy dies.
+Breakpoints: 3/5/7
+  (3): 10% Attack Speed for Stargazers, 3 marks
+  (5): 30% Attack Speed for Stargazers, 5 marks
+  (7): 45% Attack Speed for Stargazers, 7 marks
+
+---
+
+### The Medallion
+Breakpoints: 3
+  (3): Allies in empowered hexes gain 12% Damage Amp, which increases by 6.5% for each 3-star ally
+
+---
+
+### The Mountain
+Every 5 player combats, gain a Stargazer Emblem. Stargazers in empowered hexes gain stacking bonuses as trait tier increases.
+Breakpoints: 3/4/5/6/7/8
+  (3): +12% Health
+  (4): AND +12% Attack Damage and Ability Power
+  (5): AND +12 Armor and Magic Resist
+  (6): AND +12% Attack Speed
+  (7): AND +6% Durability
+  (8): AND increase all other bonuses by 10%
+
+---
+
+### The Serpent
+Allies in empowered hexes gain 5% Durability. Stargazers in empowered hexes gain more Durability and poison enemies, repeating a portion of damage dealt as magic damage over 3 seconds.
+Breakpoints: 3/5/7
+  (3): 5% Durability for Stargazers, 25% poison damage
+  (5): 10% Durability for Stargazers, 40% poison damage
+  (7): 15% Durability for Stargazers, 60% poison damage
+
+---

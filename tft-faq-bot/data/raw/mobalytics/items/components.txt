@@ -1,0 +1,46 @@
+Source: https://mobalytics.gg/tft/items
+Category: components
+
+Use your favourite features in-game with our Desktop App
+Basic
+The only basic cheat sheet and tier list for TFT Set 17 - Space Gods you need! Learn items recipes and combinations easily. Get info during the game with our TFT Companion app.
+Basic Item
+Tier
+Item Bonus
+Combined Items
+B.F. Sword
++
+10
+% Attack Damage
+Chain Vest
++
+20
+Armor
+Frying Pan
+...why else would it be here?
+Giant's Belt
++
+150
+Health
+Needlessly Large Rod
++
+10
+Ability Power
+Negatron Cloak
++
+20
+Magic Resist
+Recurve Bow
++
+10
+% Attack Speed
+Sparring Gloves
++
+20
+Critical Strike Chance
+Spatula
+It must do something...
+Tear of the Goddess
++
+1
+Mana Regen

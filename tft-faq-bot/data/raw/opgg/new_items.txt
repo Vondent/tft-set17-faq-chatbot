@@ -1,0 +1,206 @@
+Source: https://op.gg/tft/set/17
+Section: New Items
+
+New Items
+Explore the Psionic items, Command Mods, and new emblems revealed in the official Set 17 overview.
+Psionic
+5 items
+Gain Psionic items that can be equipped to any ally.
+Drone Uplink
+A drone repeats 25% of damage from the holder's attacks and Abilities to the same targets every 3 seconds.
+At (4): If the holder is Psionic, gain an additional mini-drone that repeats 20% of damage.
+Recommended users:
+Sona, Viktor
+Malware Matrix
+Dealing physical damage to an enemy reduces the target's Armor by 2.
+At (4): If the holder is Psionic, every 3rd attack cleaves, dealing 75 physical damage to nearby enemies.
+Recommended users:
+Master Yi, Pyke
+Biomatter Preserver
+Gain 5% max Health and deploy 3 Life Orbs. Every 5 seconds of combat, one drops restoring 18% of the holder's missing Health.
+At (4): If the holder is Psionic, they gain 22% increased healing from all sources.
+Recommended users:
+Gragas
+Sympathetic Implant
+Every 5 seconds, gain 1 additional Mana Per Second.
+At (4): If the holder is Psionic, their abilities deal 20% of their ability damage as true damage instead.
+Recommended users:
+Sona, Viktor
+Target-Lock Optics
+The holder's first attack on each enemy deals 150 additional damage.
+At (4): If the holder is Psionic, they heal 12% of their max Health whenever their target dies.
+Recommended users:
+Pyke, Master Yi
+Commander
+8 items
+Sona gives you a random Command Mod every 2 rounds which allows you to alter the way an ally behaves during combat. Command Mods last 2 player combats even if they are not equipped.
+Command Mod: Exhaust
+Command a unit's attacks to Burn, Wound, and Chill.
+Command Mod: Doublestrike
+Command a unit to have a 25% chance to attack twice when attacking.
+Command Mod: Analyze
+Command a unit to grant you 1 XP every 3 seconds it is alive during player combat.
+Command Mod: Brace
+Command a unit to gain a 20% Health shield for 8 seconds at the start of combat.
+Command Mod: Transmute
+Command a unit to drop 2 gold each time it kills an enemy during player combat.
+Command Mod: Disrupt
+Command a unit to Stun enemies within 3 hexes for 1 second when it dies.
+Command Mod: Optimize
+Command a unit to reduce their mana cost by 15%.
+Command Mod: Fabricate
+Command a unit to gain a temporary recommended item at the start of combat.
+Emblems
+19 items
+Build around new origin and class emblems to open up more combinations.
+Dark Star Emblem
+The holder gains the Dark Star trait.
+Timebreaker Emblem
+The holder gains the Timebreaker trait.
+Stargazer Emblem
+The holder gains the Stargazer trait.
+Space Groove Emblem
+The holder gains the Space Groove trait.
+Meeple Emblem
+The holder gains the Meeple trait.
+Arbiter Emblem
+The holder gains the Arbiter trait.
+Primordian Emblem
+The holder gains the Primordian trait.
+N.O.V.A. Emblem
+The holder gains the N.O.V.A. trait.
+Marauder Emblem
+The holder gains the Marauder trait.
+Challenger Emblem
+The holder gains the Challenger trait.
+Voyager Emblem
+The holder gains the Voyager trait.
+Shepherd Emblem
+The holder gains the Shepherd trait.
+Bastion Emblem
+The holder gains the Bastion trait.
+Vanguard Emblem
+The holder gains the Vanguard trait.
+Brawler Emblem
+The holder gains the Brawler trait.
+Rogue Emblem
+The holder gains the Rogue trait.
+Anima Emblem
+The holder gains the Anima trait.
+Psionic Emblem
+The holder gains the Psionic trait.
+Sniper Emblem
+The holder gains the Sniper trait.
+New Arenas
+New
+New arenas have been added to the game!
+Check out the new arenas and their effects below.
+Ancient Cube
+Crystal Rift
+New Chibi & Legends
+New
+New chibi and legends have been added to the game!
+Check out the new chibi and legends and their effects below.
+Chibi Battle Bat Xayah
+Chibi Star Guardian Syndra
+Prestige Chibi Star Nemesis Morgana
+Chosen of the Wolf Katarina Unbound
+Dark Star Mordekaiser Unbound
+English
+한국어
+日本語
+język polski
+français
+Deutsch
+español
+Nederlands
+dansk
+Svenska
+Norsk
+русский язык
+magyar
+suomi
+Türkçe
+limba română
+português
+简体中文
+繁體中文
+العربية
+српски језик
+italiano
+ไทย
+Tiếng Việt
+Stats
+League of Legends
+Teamfight Tactics
+Valorant
+OVERWATCH2
+PUBG
+Soon
+2XKO
+Beta
+Marvel Rivals
+Beta
+Fortnite
+Beta
+Counter Strike 2
+Beta
+Arc Raiders
+Beta
+ROBLOX
+Beta
+Pokémon Pokopia
+Beta
+Slay The Spire 2
+Soon
+Time Takers
+Beta
+Pokémon Champions
+Soon
+Diablo 4
+Services
+Desktop
+New
+Games
+Duo
+TalkG
+Esports
+Gigs
+New
+Streamer Overlay
+Apps
+OP.GG for Mobile
+AllT
+Valorant
+Gigs
+TalkG
+Esports
+Sign in
+Language
+English
+Sign in
+Back
+English
+한국어
+日本語
+język polski
+français
+Deutsch
+español
+Nederlands
+dansk
+Svenska
+Norsk
+русский язык
+magyar
+suomi
+Türkçe
+limba română
+português
+简体中文
+繁體中文
+العربية
+српски језик
+italiano
+ไทย
+Tiếng Việt
