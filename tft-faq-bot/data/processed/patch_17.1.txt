@@ -1,0 +1,125 @@
+# TFT Patch 17.1 — Balance Changes
+Source: https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-17-1/
+
+## Augments — Removed
+
+- Golden Dragon Removed [REMOVED]
+- Just Hit Removed [REMOVED]
+- Max Build Removed [REMOVED]
+- Termeepnal Velocity Mana: 20/65 ⇒ 10/55 [NERF]
+
+## Trait Changes
+
+- Mecha transformed bonus Health: 50% ⇒ 40% [NERF]
+- Space Groove Attack Speed Per Groovian: 12% ⇒ 11% [NERF]
+
+## Champion Changes
+
+- Jax Shield: 400/500/675 AP ⇒ 400/500/625 AP [NERF]  Cost 2 — Stargazer, Bastion
+- Viktor Ability Damage: 220/330/545 AP ⇒ 200/300/530 AP [NERF]  Cost 3 — Psionic, Conduit
+- The Mighty Mech Transformed Ability Heal: 850/1200 AP ⇒ 900/1300 AP, AoE Damage: 100/150 AD ⇒ 60/90 AD, Line Damage: 200/300 AD ⇒ 120/180 AD  Cost 4 — Mecha, Voyager
+- Karma Primary Target Bonus Damage: 120/180 AP ⇒ 150/225 AP [NERF]  Cost 4 — Dark Star, Voyager
+- LeBlanc Passive Damage: 64/96 AP ⇒ 57/86 AP [NERF]  Cost 4 — Arbiter, Shepherd
+- Tahm Kench Mana: 50/120 ⇒ 50/110, Oracle gold per cashout reduced and is less likely to give gold and tailored champions [NERF]  Cost 4 — Oracle, Brawler
+- Sona Small Ability Damage: 240/360 AP ⇒ 260/390 AP [NERF]  Cost 5 — Commander, Psionic, Shepherd
+
+## Emblem Changes
+
+- NOVA Emblem Health: 300 ⇒ 200, Strike Resists: 20 [NERF]
+- Voyager Emblem Resists: 20 ⇒ 15, Attack Speed: 15% [NERF]
+
+## Bug Fixes
+
+- Fixed a bug with Expedition where sold champions could count for progress. [FIXED]
+- Fixed a bug with Arbiter Shield/Interest combination. [FIXED]
+- Fixed a bug with Vanguard Emblem and Marauder shield. [FIXED]
+- Fixed a bug where Prismatic Traits would not contribute to Star Atlas Progress. [FIXED]
+- Fixed a bug where Sona’s Doublestrike Mod failed to function. [FIXED]
+- Fixed a bug where Anima Squad armories could disable the shop in rare occasions. [FIXED]
+- Level 7: 16/30/43/10/1% ⇒ 19/30/40/10/1% [BUFF]
+- Four-star Ability Damage Scaling: 1.33x of 3-star value ⇒ 1.7x of 3-star value [NERF]
+
+## Augments Adjusted — Silver
+
+- Dummify HP% Gain: 80% ⇒ 60%, HP per stage 1500 [NERF]
+- Electrocharge I Trigger: Whenever an ally is critically struck ⇒ Whenever an ally is attacked 4 times
+- Glass Cannon I Damage Amp: 17% ⇒ 16% [NERF]
+- Lunch Money Damage Required: 7 ⇒ 8 [BUFF]
+- One Twos Three: Renamed One Two Three, Number of 2-Costs: 2 ⇒ 1 [NERF]
+- Size Matters Health Requirement: 3800 ⇒ 3600 [NERF]
+- Partial Ascension Delay: 15 ⇒ 12 seconds, Damage Amp: 30% [NERF]
+
+## Augments Adjusted — Gold
+
+- Bodyguard Training Resist Per Player Level: 3 ⇒ 2 [NERF]
+- Crash Test Dummies Stun Duration: 1.25 seconds ⇒ 1 second [NERF]
+- Cybernetic Implants (Gold, 3-2 and 4-2) [REWORKED]: Allies holding an item gain 100 Health and 15% Attack Damage. Gain a B.F. Sword [REWORKED]
+- Cybernetic Uplink (Gold, 3-2 and 4-2) [REWORKED]: Allies holding an item gain 100 Health and 2 Mana Regen. Gain a Tear of the Goddess [REWORKED]
+- Early Learnings Initial AD/AP: 8% ⇒ 4% [NERF]
+- Glass Cannon II Damage Amp: 30% ⇒ 25% [NERF]
+- Golemify AD% Gain: 50% ⇒ 33% [NERF]
+- Electrocharge II Trigger: Whenever an ally is critically struck ⇒ Whenever an ally is attacked 4 times
+- Infinity Protection Initial Gold: 4 ⇒ 3, HP Percent Shield: 15% [NERF]
+- Legion of Threes Health: 200 ⇒ 150 [NERF]
+- Level Up Initial XP gained: 8 ⇒ 10 [BUFF]
+- Malicious Monetization Initial Gold: 7 ⇒ 4 [NERF]
+- Pilfer Gold Required: 25 ⇒ 21 [NERF]
+- Warlord’s Honor AD/AP per stack: 6% ⇒ 5% [NERF]
+
+## Augments Adjusted — Prismatic
+
+- Buried Treasures Total Components: 6 ⇒ 5 [NERF]
+- Comeback Story Health Per Missing Player HP: 5 ⇒ 4 [NERF]
+- Component Heist Round Delay: 5 ⇒ 6 [BUFF]
+- Expected Unexpectedness Stage 3: 2 Lesser Dupes + 10g ⇒ 2 Lesser Dupes + 5g / 1 Completed Item Anvil + 8 Gold [NERF]
+- Expected Unexpectedness Stage 4: 1 Lucky Item Chest + 10 gold ⇒ 1 Lucky Item Chest + 5 gold [NERF]
+- Going Long Initial Gold: 8 ⇒ 13 [BUFF]
+- Shimmer Scale Essence Turn Delay for Gamblers Blade: 5 ⇒ 6 [BUFF]
+- Soul Awakening AD/AP per Sec: 2% ⇒ 1.5% [NERF]
+- Sword Overflow AS per Sword: 5% ⇒ 4% [NERF]
+- Tiniest Titan Initial Gold: 15 ⇒ 10 [NERF]
+- We Stick Together Bugfix: Now gives Attack Speed to champions with the Stargazer trait. Attack Speed: 25% ⇒ 30% [BUFF]
+- Win Out Rerolls: 2 ⇒ 8 [BUFF]
+
+## Item Changes
+
+- Adaptive Helm Tank/Fighter Bonus Resists: 45 ⇒ 30 [NERF]
+- Bramble Vest Bonus Health: 9% ⇒ 6%, Armor: 65 [NERF]
+- Dragon’s Claw Bonus Health: 9% ⇒ 6%, Magic Resist: 75 [NERF]
+- Gargoyle Stoneplate Base Resists: 30 ⇒ 25 [NERF]
+- Evenshroud Temporary Resists: 25 ⇒ 15 [NERF]
+- Nashor’s Tooth Ability Power: 18 ⇒ 15 [NERF]
+- Rabadon’s Deathcap Ability Power: 50 ⇒ 55 [BUFF]
+- Spirit Visage Durability: 10% ⇒ 8%, Healing: 2.5% [NERF]
+- Sterak’s Gage Shield Amount: 50% max HP ⇒ 40% max HP, Attack Damage: 40% [NERF]
+- Steadfast Heart Durability: 10-18% ⇒ 5-15% [NERF]
+
+## Radiant Item Changes
+
+- Radiant Adaptive Helm Tank/Fighter Bonus Resists: 100 ⇒ 80 [NERF]
+- Radiant Bramble Vest Percent Health: 18% ⇒ 12%, Armor: 130 [NERF]
+- Radiant Dragon’s Claw Magic Resist: 150 ⇒ 120 [NERF]
+- Radiant Gargoyle Stoneplate Base Resists: 60 ⇒ 50 [NERF]
+- Radiant Nashor’s Tooth Ability Power: 35 ⇒ 30 [NERF]
+- Radiant Rabadon’s Deathcap Ability Power: 100 ⇒ 110 [BUFF]
+- Radiant Spirit Visage Durability: 20% ⇒ 15%, Healing: 5% [NERF]
+- Radiant Sterak’s Gage Shield Amount: 100% ⇒ 80%, Attack Damage: 80% [NERF]
+- Radiant Steadfast Heart Durability: 20-36% ⇒ 10-30% [NERF]
+
+## Artifact Changes
+
+- Aegis of Dawn Base HP: 300 ⇒ 400, Armor Steal: 5 [BUFF]
+- Aegis of Dusk Base HP: 300 ⇒ 400, MR Steal: 5 [BUFF]
+- Blighting Jewel Magic Resist Reduction: 2 ⇒ 4 [BUFF]
+- Cappa Juice Base AS: 20% ⇒ 25% [BUFF]
+- Eternal Pact Ally Shield: 150% of AP ⇒ 200% of AP, Wearer bonus on tank cast: 6 [BUFF]
+- Flickerblades Attack Speed: 12% ⇒ 20%, AD/AP Gain: Every 5 attacks [BUFF]
+- Gambler’s Blade Base AS: 45% ⇒ 55% [BUFF]
+- Hellfire Hatchet Bonus Damage HP Ratio: 2% ⇒ 3% [BUFF]
+- Lich Bane Proc Damage: 240/320/450/525/600 ⇒ 250/350/500/600/700 [NERF]
+- Luden’s Tempest AD/AP: 50% ⇒ 55% [BUFF]
+- Mogul’s Mail HP Per Stack: 5 ⇒ 8 [BUFF]
+- Prowler’s Claw Base HP: 200 ⇒ 300 [BUFF]
+- Statikk Shiv Ability Power Ratio: 40% ⇒ 50% [BUFF]
+- Titanic Hydra Proc HP Ratio: 3% ⇒ 4% [BUFF]
+

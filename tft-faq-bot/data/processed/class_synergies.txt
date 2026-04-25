@@ -1,0 +1,158 @@
+# TFT Set 17 — Class Synergies
+
+## Unique Traits (Single Champion, No Breakpoints)
+
+Trait: Commander
+Type: Class (Unique — Sona)
+Description: Sona gives you a random Command Mod every 2 rounds which allows you to alter the way an ally behaves during combat. Command Mods last 2 player combats even if they are not equipped.
+
+---
+
+Trait: Divine Duelist
+Type: Class (Unique — Fiora)
+Description: Your Tactician heals for 15% of player damage dealt from winning.
+
+---
+
+Trait: Galaxy Hunter
+Type: Class (Unique — Zed)
+Description: Zed is obtained from the Invader Zed augment.
+
+---
+
+Trait: Gun Goddess
+Type: Class (Unique — Miss Fortune)
+Description: When you field Miss Fortune, choose between Conduit Mode, Challenger Mode, and Replicator Mode. Miss Fortune has a unique ability based on her mode and gains the associated trait.
+
+---
+
+Trait: Party Animal
+Type: Class (Unique — Blitzcrank)
+Description: Once per combat, after falling below 45% Health, become untargetable and repair 15% max Health per second. Upon reaching full Health, or when no other allies remain, return to combat. If fully healed, for the rest of combat Blitzcrank is in Space Groove and Party Crasher's passive fires bolts four times as fast.
+
+---
+
+## Standard Traits
+
+Trait: Bastion
+Type: Class
+Description: Your team gains 15 Armor and Magic Resist. Bastions gain more, and the value doubles in the first 10 seconds of combat.
+Breakpoints: 2/4/6
+  (2): 16 Armor and Magic Resist for Bastions
+  (4): 40 Armor and Magic Resist for Bastions
+  (6): 60 Armor and Magic Resist for Bastions; Non-Bastions gain an additional 20
+
+---
+
+Trait: Brawler
+Type: Class
+Description: Your team gains 5% Health. Brawlers gain more.
+Breakpoints: 2/4/6
+  (2): +20% maximum Health
+  (4): +40% maximum Health
+  (6): +60% maximum Health
+
+---
+
+Trait: Challenger
+Type: Class
+Description: Your team gains 10% Attack Speed. Challengers gain bonus Attack Speed. When their target dies, Challengers dash to a new target and increase their Attack Speed bonus by 50% for 2.5 seconds.
+Breakpoints: 2/3/4/5
+  (2): 15% Attack Speed
+  (3): 22% Attack Speed
+  (4): 36% Attack Speed
+  (5): 48% Attack Speed
+
+---
+
+Trait: Conduit
+Type: Class
+Description: Innate: Conduits gain 20% additional Mana from all sources. Your team gains Mana Regen, increased for Conduits.
+Breakpoints: 2/3/4/5
+  (2): 1 Mana Regen (team) | 3 Mana Regen (Conduits)
+  (3): 1 Mana Regen (team) | 5 Mana Regen (Conduits)
+  (4): 2 Mana Regen (team) | 7 Mana Regen (Conduits)
+  (5): 3 Mana Regen (team) | 9 Mana Regen (Conduits)
+
+---
+
+Trait: Fateweaver
+Type: Class
+Description: Innate: Fateweavers have Precision.
+Breakpoints: 2/4
+  (2): Chance effects on abilities are Lucky
+  (4): Gain 20% Crit Chance and 20% Crit Damage. Critical strikes are also Lucky
+
+---
+
+Trait: Marauder
+Type: Class
+Description: Your team gains 5% Omnivamp. Marauders gain more Omnivamp and Attack Damage, and their Omnivamp overhealing is converted into Shield (up to 25% max Health).
+Breakpoints: 2/4/6
+  (2): 5% Omnivamp, 20% Attack Damage
+  (4): 7% Omnivamp, 40% Attack Damage
+  (6): 10% Omnivamp, 60% Attack Damage
+
+---
+
+Trait: Replicator
+Type: Class
+Description: Replicator abilities occur a second time at reduced effectiveness.
+Breakpoints: 2/4
+  (2): 22% strength
+  (4): 45% strength
+
+---
+
+Trait: Rogue
+Type: Class
+Description: Rogues gain Attack Damage and Ability Power. The first time they fall below 50% Health, they slip into shadows. Enemies targeting them are redirected to a nearby unit, preferring Tanks.
+Breakpoints: 2/3/4/5
+  (2): 12%
+  (3): 25%
+  (4): 40%
+  (5): 55%
+
+---
+
+Trait: Shepherd
+Type: Class
+Description: Shepherds summon the Bond of the Stars to aid them in battle.
+Breakpoints: 3/5/7
+  (3): Summon Bia
+  (5): Summon Bayin
+  (7): Bia and Bayin's bond grows deeper
+
+---
+
+Trait: Sniper
+Type: Class
+Description: Snipers gain Damage Amp, increased against targets farther away.
+Breakpoints: 2/3/4
+  (2): 18% Damage Amp; +2% per hex
+  (3): 24% Damage Amp; +3% per hex
+  (4): 28% Damage Amp; +4% per hex
+
+---
+
+Trait: Vanguard
+Type: Class
+Description: Vanguards gain 5% Durability while Shielded. At combat start and 50% Health, gain a max Health Shield for 10 seconds.
+Breakpoints: 2/4/6
+  (2): 16% max Health Shield
+  (4): 30% max Health Shield
+  (6): 40% max Health Shield; 8% Durability while Shielded
+
+---
+
+Trait: Voyager
+Type: Class
+Description: Combat Start: Your Tanks gain a Shield for 15 seconds. Your other allies gain Damage Amp. Voyagers gain double.
+Breakpoints: 2/3/4/5/6
+  (2): 175 Shield; 9% Damage Amp
+  (3): 250 Shield; 15% Damage Amp
+  (4): 350 Shield; 18% Damage Amp
+  (5): 500 Shield; 22% Damage Amp
+  (6): 700 Shield; 27% Damage Amp
+
+---

@@ -1,0 +1,1279 @@
+# TFT Set 17 — Items
+
+## Component Items
+
+Item: B.F. Sword
+Category: Component
+Description: +10% Attack Damage
+
+---
+
+Item: Chain Vest
+Category: Component
+Description: +20 Armor
+
+---
+
+Item: Frying Pan
+Category: Component
+Description: ...why else would it be here?
+
+---
+
+Item: Giant's Belt
+Category: Component
+Description: +150 Health
+
+---
+
+Item: Needlessly Large Rod
+Category: Component
+Description: +10 Ability Power
+
+---
+
+Item: Negatron Cloak
+Category: Component
+Description: +20 Magic Resist
+
+---
+
+Item: Recurve Bow
+Category: Component
+Description: +10% Attack Speed
+
+---
+
+Item: Sparring Gloves
+Category: Component
+Description: +20 Critical Strike Chance
+
+---
+
+Item: Spatula
+Category: Component
+Description: It must do something...
+
+---
+
+Item: Tear of the Goddess
+Category: Component
+Description: +1 Mana Regen
+
+---
+
+## Combined Items
+
+Item: Adaptive Helm
+Category: Combined
+Description: Gain an additional 15% Mana from all sources. The holder gains an additional bonus based on their Role: Tanks and Fighters: Gain 30 Armor and Magic Resistance. Other Roles: Gain 10% Attack Damage and Ability Power.
+
+---
+
+Item: Archangel's Staff
+Category: Combined
+Description: Combat start: Gain 20% Ability Power every 5 seconds in combat.
+
+---
+
+Item: Bloodthirster
+Category: Combined
+Description: Once per combat at 40% Health, gain a 25% max Health Shield that lasts up to 5 seconds.
+
+---
+
+Item: Blue Buff
+Category: Combined
+Description: Gain 10% additional Attack Damage and Ability Power from all sources.
+
+---
+
+Item: Bramble Vest
+Category: Combined
+Description: Gain 6% max health. Take 5% reduced damage from attacks. When struck by any attack, deal 100 magic damage to all adjacent enemies. Cooldown: 2 seconds
+
+---
+
+Item: Crownguard
+Category: Combined
+Description: Combat Start: Gain a 25% max Health Shield for 8 seconds. When the Shield expires, gain 25% Ability Power.
+
+---
+
+Item: Deathblade
+Category: Combined
+Description: Perfect peace and calm for the holder - and all who face it.
+
+---
+
+Item: Dragon's Claw
+Category: Combined
+Description: Gain 6% max health. Every 2 seconds, heal 2.5% max Health.
+
+---
+
+Item: Edge of Night
+Category: Combined
+Description: At 60% Health, briefly become untargetable, shed negative effects, and heal 30% missing health.
+
+---
+
+Item: Evenshroud
+Category: Combined
+Description: 30% Sunder enemies within 2 hexes. Gain 15 Armor and Magic Resist for the first 15 seconds of combat. Sunder: Reduce Armor
+
+---
+
+Item: Gargoyle Stoneplate
+Category: Combined
+Description: Gain 10 Armor and 10 Magic Resist for each enemy targeting the holder.
+
+---
+
+Item: Giant Slayer
+Category: Combined
+Description: Gain 15% additional Damage Amp against Tanks.
+
+---
+
+Item: Guinsoo's Rageblade
+Category: Combined
+Description: Gain 7% stacking Attack Speed every second.
+
+---
+
+Item: Hand of Justice
+Category: Combined
+Description: Gain 2 effects: 15% Attack Damage and 15% Ability Power. 12% Omnivamp. While above 50% health, double the Attack Damage and Ability Power. While below 50% Health, double the Omnivamp.
+
+---
+
+Item: Hextech Gunblade
+Category: Combined
+Description: Heal the lowest percent Health ally for 20% of damage dealt.
+
+---
+
+Item: Infinity Edge
+Category: Combined
+Description: Gain Precision.
+
+---
+
+Item: Ionic Spark
+Category: Combined
+Description: 30% Shred enemies within 2 hexes. When enemies cast an Ability, deal magic damage equal to 150% of the Mana spent Shred: Reduce Magic Resist
+
+---
+
+Item: Jeweled Gauntlet
+Category: Combined
+Description: Gain Precision.
+
+---
+
+Item: Kraken's Fury
+Category: Combined
+Description: Attacks grant 3.5% stacking Attack Damage, up to 15 attacks. After 15 attacks, gain 15% Attack Speed.
+
+---
+
+Item: Last Whisper
+Category: Combined
+Description: Damage from attacks and Abilities 30% Sunder the target for 3 seconds. This effect does not stack. Sunder: Reduce Armor
+
+---
+
+Item: Morellonomicon
+Category: Combined
+Description: Attacks and Abilities deal 1% Burn and 33% Wound to enemies for 10 seconds. Burn: Deals a percent of the target's max Health as true damage every second Wound: Reduces healing received
+
+---
+
+Item: Nashor's Tooth
+Category: Combined
+Description: Attacks grant 2 bonus Mana, increased to 4 if they critically strike.
+
+---
+
+Item: Protector's Vow
+Category: Combined
+Description: Combat Start: Gain 20 Mana. At 40% Health, gain 15 Mana and a Shield equal to 20% max Health.
+
+---
+
+Item: Quicksilver
+Category: Combined
+Description: Combat Start: Gain immunity to crowd control for 18 seconds. Gain 3% stacking Attack Speed every second.
+
+---
+
+Item: Rabadon's Deathcap
+Category: Combined
+Description: This humble hat can help you make, or unmake, the world itself.
+
+---
+
+Item: Red Buff
+Category: Combined
+Description: Attacks and Abilities 1% Burn and 33% Wound enemies for 5 seconds. Burn: Deals a percent of the target's max Health as true damage every second Wound: Reduces healing received
+
+---
+
+Item: Spear of Shojin
+Category: Combined
+Description: Attacks grant 5 bonus Mana.
+
+---
+
+Item: Spirit Visage
+Category: Combined
+Description: Regenerate 2% of missing Health each second.
+
+---
+
+Item: Steadfast Heart
+Category: Combined
+Description: Gain 5% Durability. While above 50% Health, instead gain 15% Durability.
+
+---
+
+Item: Sterak's Gage
+Category: Combined
+Description: At 60% Health, gain a Shield equal to 40% of the wearer's maximum Health that rapidly decays over 4 seconds.
+
+---
+
+Item: Striker's Flail
+Category: Combined
+Description: Critical Strikes grant 5% Damage Amp for 5 seconds, stacking up to 4 times.
+
+---
+
+Item: Sunfire Cape
+Category: Combined
+Description: Gain 8% max Health. Every 2 seconds, deal 1% Burn and 33% Wound to an enemy within 2 hexes for 10 seconds. Burn: Deals a percent of the target's max Health as true damage every second Wound: Reduces healing received
+
+---
+
+Item: Tactician's Cape
+Category: Combined
+Description: Your team gains + 1 max team size. 10% chance to drop 1 gold after 10 seconds of combat. "...and a bit of Luck."
+
+---
+
+Item: Tactician's Crown
+Category: Combined
+Description: Your team gains + 1 max team size. 10% chance to drop 1 gold when you win combat. "...the Heart of a hero..."
+
+---
+
+Item: Tactician's Shield
+Category: Combined
+Description: Your team gains + 1 max team size. 10% chance to drop 1 gold when the holder dies. "Imbued with a Philosopher's wisdom..."
+
+---
+
+Item: Thief's Gloves
+Category: Combined
+Description: Each round: Equip 2 random items. Consumes 3 item slots.
+
+---
+
+Item: Titan's Resolve
+Category: Combined
+Description: Gain 2% Attack Damage and 2% Ability Power when attacking or taking damage, stacking up to 25 times. At full stacks, gain 10% Damage Amp and gain immunity to crowd control.
+
+---
+
+Item: Void Staff
+Category: Combined
+Description: Damage from attacks and Abilities 30% Shred the target for 5 seconds. This effect does not stack. Shred: Reduce Magic Resist
+
+---
+
+Item: Warmog's Armor
+Category: Combined
+Description: Gain 18% max Health.
+
+---
+
+## Emblem Items
+Each emblem grants the holder its corresponding trait.
+
+Item: Arbiter Emblem
+Category: Emblem
+Description: The holder gains the Arbiter trait.
+Grants Trait: Arbiter
+
+---
+
+Item: Bastion Emblem
+Category: Emblem
+Description: The holder gains the Bastion trait. After the first 10 seconds of combat, the holder gains 70% Attack Speed.
+Grants Trait: Bastion
+
+---
+
+Item: Brawler Emblem
+Category: Emblem
+Description: The holder gains the Brawler trait. Attacks deals 3% of the holder's max health as magic damage.
+Grants Trait: Brawler
+
+---
+
+Item: Challenger Emblem
+Category: Emblem
+Description: The holder gains the Challenger trait. On takedown, the holder's next 3 attacks each heal for 5% of max health.
+Grants Trait: Challenger
+
+---
+
+Item: Dark Star Emblem
+Category: Emblem
+Description: The holder gains the Dark Star trait.
+Grants Trait: Dark Star
+
+---
+
+Item: Marauder Emblem
+Category: Emblem
+Description: The holder gains the Marauder trait and has a 33% chance to drop 1 gold on kill.
+Grants Trait: Marauder
+
+---
+
+Item: Meeple Emblem
+Category: Emblem
+Description: The holder gains the Meeple trait and 1 additional Mana Regen per.
+Grants Trait: Meeple
+
+---
+
+Item: N.O.V.A. Emblem
+Category: Emblem
+Description: The holder gains the N.O.V.A. trait. N.O.V.A. Strike: Gain 45% Attack Speed and 40 Armor and Magic Resist. Other allies gain 10% Attack Speed and 20 Armor and Magic Resist.
+Grants Trait: N.O.V.A.
+
+---
+
+Item: Primordian Emblem
+Category: Emblem
+Description: The holder gains the Primordian trait.
+Grants Trait: Primordian
+
+---
+
+Item: Rogue Emblem
+Category: Emblem
+Description: The holder gains the Rogue trait. At 50% health, gain 40% Omnivamp and immunity to crowd control for 5 seconds.
+Grants Trait: Rogue
+
+---
+
+Item: Shepherd Emblem
+Category: Emblem
+Description: The holder gains the Shepherd trait. On cast, grant 12% of max Mana to the Bond of the Stars.
+Grants Trait: Shepherd
+
+---
+
+Item: Space Groove Emblem
+Category: Emblem
+Description: The holder gains the Space Groove trait. On cast, the holder enters {{TFT 17 _SpaceGroove_TheGroove}} for 3 seconds.
+Grants Trait: Space Groove
+
+---
+
+Item: Stargazer Emblem
+Category: Emblem
+Description: The holder gains the Stargazer trait.
+Grants Trait: Stargazer
+
+---
+
+Item: Timebreaker Emblem
+Category: Emblem
+Description: The holder gains the Timebreaker trait.
+Grants Trait: Timebreaker
+
+---
+
+Item: Vanguard Emblem
+Category: Emblem
+Description: The holder gains the Vanguard trait. Gain 3% Ability Power whenever an ally gains a shield.
+Grants Trait: Vanguard
+
+---
+
+Item: Voyager Emblem
+Category: Emblem
+Description: The holder gains the Voyager trait. Combat Start: Gain and grant adjacent allies bonuses based on the holder's role. - Tanks: 20 Armor and Magic Resist - Fighters/Assassins: 18% Omnivamp - Other Roles: 15% Attack Speed
+Grants Trait: Voyager
+
+---
+
+## Psionic Items
+Equippable by any ally. Holders with 4 Psionic units unlock the At (4) bonus.
+
+Item: Biomatter Preserver
+Category: Psionic
+Description: Gain 5% max Health and deploy 3 Life Orbs. Every 8 seconds of combat, one drops restoring 18% of the holder's missing Health. Recommended user: Gragas.
+At (4) Bonus: If the holder is Psionic, they gain 22% increased healing from all sources.
+
+---
+
+Item: Drone Uplink
+Category: Psionic
+Description: A drone repeats 25% of damage from the holder's attacks and Abilities to the same targets every 3 seconds. Recommended users: Sona and Viktor.
+At (4) Bonus: If the holder is Psionic, gain an additional mini-drone that repeats 20% of damage.
+
+---
+
+Item: Malware Matrix
+Category: Psionic
+Description: Dealing physical damage to an enemy reduces the target's Armor by 2 . (Ability Damage Cooldown: 0.75 seconds) Recommended users: Master Yi and Pyke.
+At (4) Bonus: If the holder is Psionic, every 3rd attack cleaves, dealing 75 physical damage to nearby enemies.
+
+---
+
+Item: Sympathetic Implant
+Category: Psionic
+Description: Every 5 seconds, gain 1 additional Mana Regen. Recommended users: Sona and Viktor.
+At (4) Bonus: If the holder is Psionic, their abilities deal 20% of their ability damage as true damage instead.
+
+---
+
+Item: Target-Lock Optics
+Category: Psionic
+Description: The holder's first attack on each enemy deals 150 additional damage. Recommended users: Pyke and Master Yi
+At (4) Bonus: If the holder is Psionic, they heal 12% of their max Health whenever their target dies.
+
+---
+
+## Anima Squad Items
+Special items associated with the Anima trait.
+
+Item: Animapocalypse
+Category: Anima Squad
+Description: Store 20% of damage dealt. Every 6 seconds and on death, deal the stored damage as true damage to all enemies, reduced by 5% for each hex they are from the epicenter. Recommended Roles: Attack or Magic Caster
+
+---
+
+Item: Battle Bunny Crossbow
+Category: Anima Squad
+Description: Gain Precision. Every 4 critical strikes, fire 5 piercing arrows that can critically strike towards the target. Each deals 80% physical damage. Precision: Ability damage can critically strike. Additional Precision grants 10% Critical Strike Damage. Max 3 stacks per Ability cast. Recommended Roles: Attack Marksman or Fighter
+
+---
+
+Item: Broken Prototype
+Category: Anima Squad
+Description: Combat start: Gain a 15% max Health shield.
+
+---
+
+Item: Bunny Prime Ballista
+Category: Anima Squad
+Description: Gain Precision. Every 3 critical strikes, fire 6 piercing arrows that can critically strike towards the target. Each deals 100% physical damage. On takedown, fire a burst of 12 arrows from the target. Precision: Ability damage can critically strike. Additional Precision grants 10% Critical Strike Damage. Max 3 stacks per Ability cast. Recommended Roles: Attack Marksman or Fighter
+
+---
+
+Item: Cyclonic Slicers
+Category: Anima Squad
+Description: Gain 3 orbiting razors. Razors deal ? magic damage, and 30% Shred and Sunder enemies for 4 seconds. Deal 10% increased damage to Shredded or Sundered enemies. Recommended Roles: Attack or Magic Fighter
+
+---
+
+Item: Deep Freeze
+Category: Anima Squad
+Description: The first time you fall below 90%, 60%, 40%, and 20% health, gain a 20% max health shield for 4 seconds. When this happens, release a frost nova that stuns enemies within 2 hexes for 2 seconds and deals magic damage equal to 15% of their max Health. The radius increases by 1 each nova. Recommended Roles: Attack or Magic Tank
+
+---
+
+Item: Echoing Batblades
+Category: Anima Squad
+Description: Every 3 attacks, fire 10 batblades split between the 3 nearest enemies. Each blade deals 50% physical damage. Recommended Role: Attack Marksman
+
+---
+
+Item: Evolved Embershot
+Category: Anima Squad
+Description: For every 15 mana spent, fire a projectile at a nearby enemy dealing ? + 50% of the holder's Ability Power magic damage, and applying 1% Burn and 33% Wound to enemies for 10 seconds. Each projectile leaves a lingering field that deals ? magic damage to enemies each second. Burn: Deals a percent of the target's max Health as true damage every second Wound: Reduces healing received Recommended Roles: Magic Caster
+
+---
+
+Item: Guiding Hex
+Category: Anima Squad
+Description: Every 3 seconds, fire a bolt at a random enemy in Attack Range, dealing ? magic damage. Aurora Bonus: If this item is equipped on Aurora, she gains 9 Ability Power when the bolt hits.
+
+---
+
+Item: Iceblast Armor
+Category: Anima Squad
+Description: The first time you fall below 70% and 35% health, gain a 25% max health shield for 4 seconds and release a frost nova that stuns enemies within 3 hexes for 2 seconds. Recommended Roles: Attack or Magic Tank
+
+---
+
+Item: Leaky Prototype
+Category: Anima Squad
+Description: Every 5 seconds, this item loses 3 Ability Power and gains 1 Mana Regen.
+
+---
+
+Item: Leonine Lamentation
+Category: Anima Squad
+Description: Every 15% max health lost, fire crescent projectiles in 3 lines dealing physical damage equal to 50% of the holder's Armor and Magic Resist. Steal 10 Armor and Magic Resist from all enemies hit. Recommended Roles: Attack or Magic Tank
+
+---
+
+Item: Lioness's Lament
+Category: Anima Squad
+Description: Every 15% max health lost, fire crescent projectiles in 3 lines dealing physical damage equal to 50% of the holder's Armor and Magic Resist. Steal 10 Armor and Magic Resist from all enemies hit. Recommended Roles: Attack or Magic Tank
+
+---
+
+Item: Omniweapon
+Category: Anima Squad
+Description: Every 15% max health lost, fire crescent projectiles in 3 lines dealing physical damage equal to 50% of the holder's Armor and Magic Resist. Steal 10 Armor and Magic Resist from all enemies hit. Recommended Roles: Attack or Magic Tank
+
+---
+
+Item: OwO Blaster
+Category: Anima Squad
+Description: Every attack, fire 9 laser blasts random targets in range, dealing 40% of the holder's Attack Damage as physical damage. Recommended Roles: Attack Marksman
+
+---
+
+Item: Radiant Field
+Category: Anima Squad
+Description: Gain 20% max health. Every second, deal magic damage in a 1-hex radius equal to 3% of the holder's max Health. Radius increases every 6 seconds. Recommended Roles: Attack or Magic Tank
+
+---
+
+Item: Rocket Swarm
+Category: Anima Squad
+Description: Every 30 Mana spent, fire a barrage of 4 rockets at the target, each dealing 30% physical damage. Jinx Bonus: If this item is equipped on Jinx, instead replace all ability bullets with rockets that deal 45% increased damage.
+
+---
+
+Item: Savage Slicer
+Category: Anima Squad
+Description: Attacks hit the target and all adjacent enemies for 30% of Basic Attack Damage. Omnivamp applies 150% to this damage. Briar Bonus: If this item is equipped on Briar, on cast this effect happens 6 times.
+
+---
+
+Item: Searing Shortbow
+Category: Anima Squad
+Description: For every 20 mana spent, fire a projectile at a nearby enemy, dealing ? + 75% of the holder's Ability Power magic damage and applying 1% Burn and 33% Wound to enemies for 3 seconds. Burn: Deals a percent of the target's max Health as true damage every second Wound: Reduces healing received Recommended Role: Magic Caster
+
+---
+
+Item: Solar Eclipse
+Category: Anima Squad
+Description: Gain 18% max Health. Every second, deal magic damage in a 2 hex radius equal to 5% of the holder's max Health, and gain max Health equal to 20% of damage dealt. Radius increases every 6 seconds. Recommended Roles: Attack or Magic Tank
+
+---
+
+Item: Sparking Prototype
+Category: Anima Squad
+Description: Every 4 seconds, gain 30% Attack Speed for 4 seconds.
+
+---
+
+Item: Tentacle Slam
+Category: Anima Squad
+Description: Every 5 seconds, summon a tentacle that slams down on the target, dealing ? physical damage and healing the holder for 12% max health. Illaoi Bonus: If this item is equipped on Illaoi, an additional tentacle slams targets drained by her ability at 35% effectiveness.
+
+---
+
+Item: The Annihilator
+Category: Anima Squad
+Description: Store 20% of damage dealt. On death or after 18 seconds in combat, deal the stored damage as true damage to all enemies, reduced by 15% for each hex they are away from the epicenter. Recommended Roles: Attack or Magic Caster
+
+---
+
+Item: Unceasing Cyclone
+Category: Anima Squad
+Description: Gain 6 orbiting razors. Razors deal ? true damage, and 30% Shred and Sunder enemies for the rest of combat. Deal 30% increased damage to Shredded or Sundered enemies. Recommended Roles: Attack or Magic Fighter
+
+---
+
+Item: UwU Blaster
+Category: Anima Squad
+Description: Every attack, fire 3 laser blasts random targets in range, dealing 40% of the holder's Attack Damage as physical damage. Recommended Role: Attack Marksman
+
+---
+
+Item: Vayne's Chromablades
+Category: Anima Squad
+Description: Every 5 attacks, fire 30 chromablades split between all enemies. Each blade deals 50% physical damage. Recommended Role: Attack Marksman
+
+---
+
+## Radiant Items
+Upgraded versions of Combined items.
+
+Item: Radiant Adaptive Helm
+Category: Radiant
+Description: Gain an additional 30% Mana from all sources. The wearer gains an additional bonus based on their Role: Tank/Fighter: Gain 80 Armor and Magic Resistance. Marksman/Caster: Gain 25% Attack Damage and Ability Power.
+
+---
+
+Item: Radiant Archangel's Staff
+Category: Radiant
+Description: Combat start: Gain 40% Ability Power every 5 seconds in combat.
+
+---
+
+Item: Radiant Bloodthirster
+Category: Radiant
+Description: Once per combat: At 40% Health, gain a 50% max Health Shield that lasts up to 5 seconds.
+
+---
+
+Item: Radiant Blue Buff
+Category: Radiant
+Description: Gain 20% additional Attack Damage and Ability Power from all sources.
+
+---
+
+Item: Radiant Bramble Vest
+Category: Radiant
+Description: Gain 12% max health. Take 10% reduced damage from attacks. When struck by any attack, deal 200 magic damage to all adjacent enemies. Cooldown: 2 seconds
+
+---
+
+Item: Radiant Crownguard
+Category: Radiant
+Description: Combat Start: Gain a 50% max Health Shield for 8 seconds. When the Shield expires, gain 50% Ability Power.
+
+---
+
+Item: Radiant Deathblade
+Category: Radiant
+Description: It glows in the presence of enemies. Or friends. Or anything alive, really.
+
+---
+
+Item: Radiant Dragon's Claw
+Category: Radiant
+Description: Gain 22% max health. Every 2 seconds, heal 5% max Health.
+
+---
+
+Item: Radiant Edge of Night
+Category: Radiant
+Description: At 60% Health, briefly become untargetable, shed negative effects, and heal all missing health.
+
+---
+
+Item: Radiant Evenshroud
+Category: Radiant
+Description: 30% Sunder enemies within 3 hexes. Gain 50 Armor and Magic Resist for the first 20 seconds of combat. Sunder: Reduce Armor
+
+---
+
+Item: Radiant Gargoyle's Stoneplate
+Category: Radiant
+Description: Gain 25 Armor and 25 Magic Resist for each enemy targeting the holder.
+
+---
+
+Item: Radiant Giant Slayer
+Category: Radiant
+Description: Gain 30% additional Damage Amp against Tanks.
+
+---
+
+Item: Radiant Guinsoo's Rageblade
+Category: Radiant
+Description: Gain 14% stacking Attack Speed every second.
+
+---
+
+Item: Radiant Hand of Justice
+Category: Radiant
+Description: Gain 2 effects: 30% Attack Damage and 30% Ability Power. 24% Omnivamp. While above 50% health, double the Attack Damage and Ability Power. While below 50% Health, double the Omnivamp.
+
+---
+
+Item: Radiant Hextech Gunblade
+Category: Radiant
+Description: Heal the lowest percent Health ally for 40% of damage dealt.
+
+---
+
+Item: Radiant Infinity Edge
+Category: Radiant
+Description: Gain Precision.
+
+---
+
+Item: Radiant Ionic Spark
+Category: Radiant
+Description: 30% Shred enemies within 2 hexes. When enemies cast an Ability, deal magic damage equal to 300% of the Mana spent. Direct damage item Shred: Reduce Magic Resist
+
+---
+
+Item: Radiant Jeweled Gauntlet
+Category: Radiant
+Description: Gain Precision.
+
+---
+
+Item: Radiant Kraken's Fury
+Category: Radiant
+Description: Attacks grant 7% stacking Attack Damage, up to 15 attacks. After 15 attacks, gain 30% Attack Speed.
+
+---
+
+Item: Radiant Last Whisper
+Category: Radiant
+Description: Damage from attacks and Abilities 30% Sunder the target for the rest of combat. This effect does not stack. Sunder: Reduce Armor
+
+---
+
+Item: Radiant Morellonomicon
+Category: Radiant
+Description: Attacks and Abilities deal 2% Burn and 33% Wound to enemies for 10 seconds. Burn: Deals a percent of the target's max Health as true damage every second Wound: Reduces healing received
+
+---
+
+Item: Radiant Nashor's Tooth
+Category: Radiant
+Description: Attacks grant 4 bonus Mana, increased to 8 if they critically strike.
+
+---
+
+Item: Radiant Protector's Vow
+Category: Radiant
+Description: Combat Start: Gain 40 Mana. At 40% Health, gain 30 Mana and a Shield equal to 40% max Health.
+
+---
+
+Item: Radiant Quicksilver
+Category: Radiant
+Description: Combat Start: Gain immunity to crowd control for 45 seconds. Gain 6% stacking Attack Speed every second.
+
+---
+
+Item: Radiant Rabadon's Deathcap
+Category: Radiant
+Description: It's witnessed - and unleashed - miracles and calamities both.
+
+---
+
+Item: Radiant Red Buff
+Category: Radiant
+Description: Attacks and Abilities 2% Burn and 33% Wound enemies for 5 seconds. Burn: Deals a percent of the target's max Health as true damage every second Wound: Reduces healing received
+
+---
+
+Item: Radiant Spear of Shojin
+Category: Radiant
+Description: Attacks grant 10 bonus Mana.
+
+---
+
+Item: Radiant Spirit Visage
+Category: Radiant
+Description: Regenerate 4% of missing Health each second.
+
+---
+
+Item: Radiant Steadfast Heart
+Category: Radiant
+Description: Gain 10% durability. While above 50% Health, instead gain 30% Durability.
+
+---
+
+Item: Radiant Sterak's Gage
+Category: Radiant
+Description: At 60% Health, gain a Shield equal to 80% of the wearer's maximum Health that rapidly decays over 6 seconds.
+
+---
+
+Item: Radiant Striker's Flail
+Category: Radiant
+Description: Critical Strikes grant 10% Damage Amp for 5 seconds, stacking up to 4 times.
+
+---
+
+Item: Radiant Sunfire Cape
+Category: Radiant
+Description: Gain 16% max Health. Every 2 seconds, deal 2% Burn and 33% Wound to an enemy within 2 hexes for 10 seconds. Burn: Deals a percent of the target's max Health as true damage every second Wound: reduces healing received
+
+---
+
+Item: Radiant Thiefs Gloves
+Category: Radiant
+Description: Each round: Equip 2 random Radiant items. Consumes 3 item slots.
+
+---
+
+Item: Radiant Titan's Resolve
+Category: Radiant
+Description: Gain 4% Attack Damage and 4% Ability Power when attacking or taking damage, stacking up to 25 times. At full stacks, gain 20% Damage Amp and gain immunity to crowd control.
+
+---
+
+Item: Radiant Void Staff
+Category: Radiant
+Description: Damage from attacks and Abilities 30% Shred the target for the rest of combat. This effect does not stack. Shred: Reduce Magic Resist
+
+---
+
+Item: Radiant Warmog's Armor
+Category: Radiant
+Description: Gain 36% max Health.
+
+---
+
+## Artifacts
+Obtainable via Portable Forge, Apotheotic Forge, or Forged in Strength augments.
+
+Item: Aegis of Dawn
+Category: Artifact
+Description: Every 2.5 seconds, steal 3 Armor from enemies within 1 -hex and heal % of the holder's Armor. If Aegis of Dusk is also equipped, trigger this item's effect every 1.25 seconds instead. Healing increases based on Stage.
+
+---
+
+Item: Aegis of Dusk
+Category: Artifact
+Description: Every 2.5 seconds, steal 3 Magic Resist from enemies within 1 hex and deal % of the holder's Magic Resist as magic damage. If Aegis of Dawn is also equipped, trigger this item's effect every 1.25 seconds instead.
+
+---
+
+Item: Ahri's Aura
+Category: Artifact
+Description: The holder is orbited by 3 foxfires. Each one deals 55 (Ability power) magic damage and the orbit expands to hit the holder's current target. For every 20 Mana the holder spends, foxfires travel 5% faster for the rest of combat.
+
+---
+
+Item: Blighting Jewel
+Category: Artifact
+Description: Dealing magic damage reduces the target's Magic Resist by 4 . If their Magic Resist is 0 , grant the holder 2 Mana instead. Ability damage can only trigger on each enemy once every 0.5 seconds.
+
+---
+
+Item: Cappa Juice
+Category: Artifact
+Description: The holder dons a Hat on each takedown. The holder gains 1% Attack Damage and Ability Power per Hat. On death lose 20% of all Hats. (
+
+---
+
+Item: Dawncore
+Category: Artifact
+Description: Reduce the holder's max Mana by 10 . Subsequent spellcasts reduce max Mana by 10%, to a minimum of 10 .
+
+---
+
+Item: Deathfire Grasp
+Category: Artifact
+Description: Combat start: Blast the current target for 40% of their max Health as magic damage. Repeat this every 13 seconds.
+
+---
+
+Item: Death's Defiance
+Category: Artifact
+Description: 50% of the damage the holder receives is instead dealt over 4 seconds as non-lethal damage.
+
+---
+
+Item: Ekko's Patience
+Category: Artifact
+Description: Total Ability damage is increased by 45%, but is dealt over 2 seconds instead.
+
+---
+
+Item: Eternal Pact
+Category: Artifact
+Description: Combat start: Form a pact with the highest Health allied champion, if they die, gain 10 Mana regen and 40% Ability Power. When the ally uses their ability, gain 15 Mana. Every 6 seconds, shield your ally for 200% of the holder's Ability Power.
+
+---
+
+Item: Evelynn's Instinct
+Category: Artifact
+Description: When switching targets, blink to the next target. Attacks and Abilities execute the holder's target below 12% of their Health. Kills grant the holder 50% Attack Speed decaying over 3 seconds.
+
+---
+
+Item: Fishbones
+Category: Artifact
+Description: The holder's attacks target random enemies.
+
+---
+
+Item: Flickerblade
+Category: Artifact
+Description: Attacks grant 5% stacking Attack Speed. Every 3 attacks also grant 2% Attack Damage and 2% Ability Power.
+
+---
+
+Item: Gambler's Blade
+Category: Artifact
+Description: Grant 1% bonus Attack Speed per gold in your bank (up to 30 gold). Each attack has a 6% chance to drop 1 gold.
+
+---
+
+Item: Gold Collector
+Category: Artifact
+Description: Attacks and Abilities execute enemies below 12% of their maximum Health. Executions have a 33% chance to drop 1 gold.
+
+---
+
+Item: Hellfire Hatchet
+Category: Artifact
+Description: Attacks deal 3% of the holder's max Health as bonus physical damage. For every 1% missing Health, gain 1% Attack Speed.
+
+---
+
+Item: Horizon Focus
+Category: Artifact
+Description: Stunning an enemy causes lightning to strike them, dealing 30% of their max Health as magic damage.
+
+---
+
+Item: Hullcrusher
+Category: Artifact
+Description: Combat Start: If there are no adjacent allies, gain 400 Health, 10% Attack Damage, and 10% Ability Power.
+
+---
+
+Item: Indomitable Gauntlet
+Category: Artifact
+Description: The holder's Move Speed is drastically reduced. Gain 15% max Health, stun immunity, and pull the current target into melee range.
+
+---
+
+Item: Infinity Force
+Category: Artifact
+Description: Tons of EVERYTHING!
+
+---
+
+Item: Innervating Locket
+Category: Artifact
+Description: The holder gains 1% of their total Mana whenever they're hit by an attack. Each cast restores 20% of the holder's max Health over 3 seconds.
+
+---
+
+Item: Kayle's Exaltation
+Category: Artifact
+Description: After 18 seconds of combat, this and all completed items on the holder become Radiant.
+
+---
+
+Item: Kayle's Radiant Exaltation
+Category: Artifact
+Description: Behold, the righteous flame!
+
+---
+
+Item: Lesser Mirrored Persona
+Category: Artifact
+Description: Share 15% of the holder's bonus Attack Damage, Ability Power, Attack Speed, Armor, Magic Resist, and Health with other Mirrored Persona holders.
+
+---
+
+Item: Lich Bane
+Category: Artifact
+Description: The holder's first attack after each Ability cast deals bonus magic damage.
+
+---
+
+Item: Lightshield Crest
+Category: Artifact
+Description: Every 3 seconds, Shields the lowest percent Health ally for 70% of the holder's combined Armor and Magic Resist for 5 seconds. On death grants this shield to all allies.
+
+---
+
+Item: Luden's Tempest
+Category: Artifact
+Description: 100% of overkill damage plus 100 is dealt as magic damage to the three enemies nearest the target.
+
+---
+
+Item: Manazane
+Category: Artifact
+Description: After casting the first time in combat, gain 100 Mana over 5 seconds.
+
+---
+
+Item: Mending Echoes
+Category: Artifact
+Description: Increase healing on the holder by 25%. When the holder gives or receives a heal, grant 40% of the heals value to the lowest health ally as well.
+
+---
+
+Item: Mirrored Persona
+Category: Artifact
+Description: Every 6 player combats gain a lesser copy of Mirrored Persona (/ 6 ). Share 15% of the holder's bonus Attack Damage, Ability Power, Attack Speed, Armor, Magic Resist, and Health with other Mirrored Persona holders.
+
+---
+
+Item: Mittens
+Category: Artifact
+Description: Shrinks the holder, granting them increased movement speed and immunity to Slow, Burn, and Wound.
+
+---
+
+Item: Mogul's Mail
+Category: Artifact
+Description: Grants 1 Armor, 1 Magic Resist, and 8 Health when taking damage, stacking up to 35 times. At full stacks, grant 1 gold and continue gaining 1 gold every 11 seconds.
+
+---
+
+Item: Prowler's Claw
+Category: Artifact
+Description: After killing a target, shed negative effects and dash to the farthest target within 4 hexes. The next 2 critical attacks deal 50% bonus Critical Strike Damage.
+
+---
+
+Item: Rapid Firecannon
+Category: Artifact
+Description: Gain + 1 Attack Range, increased by 1 whenever the holder kills an enemy.
+
+---
+
+Item: Seeker's Armguard
+Category: Artifact
+Description: Takedowns increase the holder's Armor, Magic Resist, and Ability Power by 20 .
+
+---
+
+Item: Shadow Puppet
+Category: Artifact
+Description: Spawn a clone that copies the holder's items. The clone has 60% max Health and deals 40% damage.
+
+---
+
+Item: Silvermere Dawn
+Category: Artifact
+Description: Grants immunity to Stuns and the holder's attacks Stun the target for 0.8 seconds. The holder's Attack Speed is locked at 0.5 .
+
+---
+
+Item: Sniper's Focus
+Category: Artifact
+Description: Gain 40% Damage Amp against targets 4 or more hexes away.
+
+---
+
+Item: Soraka's Miracle
+Category: Artifact
+Description: The first 2 times the holder drops below 50% Health, a Miracle occurs, healing them for 20% of their max Health. If the holder survives player combat, gain 1 player Health for each Miracle this combat.
+
+---
+
+Item: Spectral Cutlass
+Category: Artifact
+Description: Combat start: Teleport the holder to the mirrored hex on the enemy's side of the board. After 8 seconds, the holder returns to their original location.
+
+---
+
+Item: Statikk Shiv
+Category: Artifact
+Description: Every 3rd attack deals 30 + 50% of the holder's Ability Power as additional magic damage to 4 enemies.
+
+---
+
+Item: Suspicious Trench Coat
+Category: Artifact
+Description: Once per combat at 60% Health, the holder splits into 3 copies of themself each with 33% of their max Health.
+
+---
+
+Item: Talisman Of Ascension
+Category: Artifact
+Description: After 22 seconds gain 100% max Health and 120% Damage Amp for the rest of combat.
+
+---
+
+Item: The Darkin Aegis
+Category: Artifact
+Description: The holder gains the Darkin trait. Every second, deal 1% of the holder's max Health as magic damage to enemies within 2 hexes. When units die in the area, heal for 2% max Health.
+
+---
+
+Item: The Darkin Bow
+Category: Artifact
+Description: The holder gains the Darkin trait. Every 10 attacks, fire an arrow that passes through the current target, dealing 500% Basic Attack Damage as physical damage, reduced by 33% per enemy hit.
+
+---
+
+Item: The Darkin Scythe
+Category: Artifact
+Description: The holder gains the Darkin trait. Every 4 seconds, slash adjacent enemies for 150% Basic Attack Damage as physical damage. On takedown or when the holder dashes, slash again. Dash Cooldown: 1.5 second
+
+---
+
+Item: The Darkin Staff
+Category: Artifact
+Description: The holder gains the Darkin trait. For every 20 Mana spent, launch a tendril at enemies near the current target, dealing magic damage.
+
+---
+
+Item: Thresh's Lantern
+Category: Artifact
+Description: After 6 seconds of combat, pull the leftmost benched unit onto the battlefield. While that unit lives, 20% of all damage the holder would take is redirected to them.
+
+---
+
+Item: Titanic Hydra
+Category: Artifact
+Description: Attacks deal 4% of the holder's max Health plus 8% of their Attack Damage as bonus physical damage to the target and adjacent enemies.
+
+---
+
+Item: Trickster's Glass
+Category: Artifact
+Description: Summon a clone with 70% base Health and + 10% max Mana. You cannot equip items to the clone. The clone benefits from active traits
+
+---
+
+Item: Unending Despair
+Category: Artifact
+Description: Whenever a Shield on the holder breaks, 150% of that Shield's initial value is dealt to the nearest enemy as magic damage.
+
+---
+
+Item: Varus's Obsession
+Category: Artifact
+Description: Combat Start: Your strongest Tank becomes the Soulmate. For each second they are alive, the holder gains 3% stacking Attack Damage and Ability Power. The Soulmate heals for 20% of damage the holder deals.
+
+---
+
+Item: Void Gauntlet
+Category: Artifact
+Description: Combat start: Store 30% max Health and 2.5% more every second. On death, unleash the stored Health as magic damage split between enemies within 4 -hexes.
+
+---
+
+Item: Wit's End
+Category: Artifact
+Description: Attacks deal bonus magic damage. Heals the holder for 30% of all magic damage dealt.
+
+---
+
+Item: Yasuo's Bladework
+Category: Artifact
+Description: Every 3.5 seconds, your next attack is a double attack.
+
+---
+
+Item: Zhonya's Paradox
+Category: Artifact
+Description: Once per combat at 40% Health, become invulnerable and untargetable for 3 seconds.
+
+---
+
+## Elusive / Non-Craftable Items
+
+Item: Anima Tech Emblem
+Category: Elusive
+Description: The holder gains the Anima trait.
+
+---
+
+Item: Anomaly
+Category: Elusive
+Description: Evolve the holder, granting an effect based on their role. Tank: Gain 1100 health and grow in size. Marksman: Gain 60% Attack Speed. On cast, knock back their target if within 3 hexes of them. Fighter/Assassin: Gain 30 Ability Power & 30% Attack Damage. Triple it when below 85% Health. Caster: For every 50 Mana spent, throw a 2-hex fireball that deals 6% max Health true damage, 33% Wounds, and 1% Burns for 5 seconds. Specialist: Gain 6 stars that orbit this champion. Each star deals 85 magic damage and the orbit expands to hit the champion's current target.
+
+---
+
+Item: Crown of Demacia
+Category: Elusive
+Description: If the holder is a Tank, regenerate 3 - 21% maximum Health every 2 seconds (based on stage). Otherwise, gain 10% Attack Damage and Ability Power every 2 seconds instead. If the holder of this item dies, you instantly lose the fight. You can remove this item by benching the holder.
+
+---
+
+Item: Psionic Emblem
+Category: Elusive
+Description: The holder gains the Psionic trait.
+
+---
+
+Item: Sniper Emblem
+Category: Elusive
+Description: The holder gains the Sniper trait and + 1 Attack Range.
+
+---
+
+## Consumables
+
+Item: Champion Duplicator
+Category: Consumable
+Description: Use on a champion to create a 1 -star copy on your bench. Consumable - This item disappears when used.
+
+---
+
+Item: Lesser Champion Duplicator
+Category: Consumable
+Description: Use on a 3 -cost champion or less to create a 1 -star copy on your bench. Consumable - This item disappears when used.
+
+---
+
+Item: Magnetic Remover
+Category: Consumable
+Description: Use on a champion to unequip all items. Cannot be used on champions in combat.
+
+---
+
+Item: Reforger
+Category: Consumable
+Description: Unequip all items and randomly transform them into new ones of a similar type and quality. Consumable - This item disappears when used.
+
+---
+
+## Command Mods (Commander Trait)
+Sona grants a random Command Mod every 2 rounds. Mods last 2 player combats even if unequipped.
+
+Item: Command Mod: Exhaust
+Category: Command Mod
+Description: Command a unit's attacks to Burn, Wound, and Chill.
+
+---
+
+Item: Command Mod: Doublestrike
+Category: Command Mod
+Description: Command a unit to have a 25% chance to attack twice when attacking.
+
+---
+
+Item: Command Mod: Analyze
+Category: Command Mod
+Description: Command a unit to grant you 1 XP every 3 seconds it is alive during player combat.
+
+---
+
+Item: Command Mod: Brace
+Category: Command Mod
+Description: Command a unit to gain a 20% Health shield for 8 seconds at the start of combat.
+
+---
+
+Item: Command Mod: Transmute
+Category: Command Mod
+Description: Command a unit to drop 2 gold each time it kills an enemy during player combat.
+
+---
+
+Item: Command Mod: Disrupt
+Category: Command Mod
+Description: Command a unit to Stun enemies within 3 hexes for 1 second when it dies.
+
+---
+
+Item: Command Mod: Optimize
+Category: Command Mod
+Description: Command a unit to reduce their mana cost by 15%.
+
+---
+
+Item: Command Mod: Fabricate
+Category: Command Mod
+Description: Command a unit to gain a temporary recommended item at the start of combat.
+
+---
+

@@ -1,0 +1,1748 @@
+# TFT Set 17 — Augments
+
+## Silver Augments (Tier 1)
+
+Augment: AFK
+Tier: 1 (Silver)
+Description: You cannot perform actions for the next 3 rounds. Afterwards, gain 20 gold.
+
+---
+
+Augment: Augmented Power
+Tier: 1 (Silver)
+Description: Your next augment is one tier higher.
+
+---
+
+Augment: Backup Bows
+Tier: 1 (Silver)
+Description: Gain a Recurve Bow. After your team attacks 1000 times, gain 2 more. Attacks:
+
+---
+
+Augment: Band of Thieves
+Tier: 1 (Silver)
+Description: Gain 1 Thief's Gloves.
+
+---
+
+Augment: Best Friends I
+Tier: 1 (Silver)
+Description: Allies isolated in pairs gain 10% Attack Speed and 13 Armor at the start of combat.
+
+---
+
+Augment: Bonk!
+Tier: 1 (Silver)
+Description: Gain a Nasus. Your strongest Nasus becomes an Attack Fighter with a single target Ability that gets stronger with each kill.
+
+---
+
+Augment: Boxing Lessons
+Tier: 1 (Silver)
+Description: Your team gains 30 Health for each ally that starts combat in the front row.
+
+---
+
+Augment: Branching Out
+Tier: 1 (Silver)
+Description: Gain a random Emblem.
+
+---
+
+Augment: Branching Out+
+Tier: 1 (Silver)
+Description: Gain a random Emblem and a Reforger.
+
+---
+
+Augment: Caretaker's Ally
+Tier: 1 (Silver)
+Description: Gain a random 2-cost champion now. Gain the same one again every time you level up. Champion:
+
+---
+
+Augment: Carve a Path
+Tier: 1 (Silver)
+Description: Gain a B.F. Sword. After your team deals 65000 physical damage, gain 2 more. Damage dealt:
+
+---
+
+Augment: Charge Transfer I
+Tier: 1 (Silver)
+Description: Your team gains 5% Damage Amp. 50% of overkill damage is dealt to the nearest enemy as magic damage.
+
+---
+
+Augment: Climb The Ladder I
+Tier: 1 (Silver)
+Description: Each time an ally dies, allies that share at least one trait with them gain 3% Ability Power, 3% Attack Damage, 3 Armor, and 3 Magic Resist.
+
+---
+
+Augment: Cognitive Tax
+Tier: 1 (Silver)
+Description: Gain 8 gold and 1 XP.
+
+---
+
+Augment: Cognitive Tax+
+Tier: 1 (Silver)
+Description: Gain 12 gold and 3 XP.
+
+---
+
+Augment: Continuous Conjuration
+Tier: 1 (Silver)
+Description: Gain a Needlessly Large Rod. After your team deals 38000 magic damage, gain 2 more. Damage dealt:
+
+---
+
+Augment: Corrosion
+Tier: 1 (Silver)
+Description: Enemy champions in the first two rows lose 4 Armor and Magic Resist every 2 seconds.
+
+---
+
+Augment: Crafted Crafting
+Tier: 1 (Silver)
+Description: Whenever you craft a completed item, gain 2 rerolls.
+
+---
+
+Augment: Critical Success
+Tier: 1 (Silver)
+Description: Gain a Sparring Glove. After your team's attacks critically strike 320 times, gain 2 more. Critical strikes:
+
+---
+
+Augment: Dummify
+Tier: 1 (Silver)
+Description: Lose all champions on your board and bench. Gain a Training Dummy with 60% of their combined Health. The Training Dummy gains 1000 Health per stage. Gain a non-Tank 2-star 2-cost champion.
+
+---
+
+Augment: Electrocharge I
+Tier: 1 (Silver)
+Description: Every 4 attacks an ally takes, they deal 30-90 (based on current Stage) magic damage to nearby enemies (1 second cooldown).
+
+---
+
+Augment: Exiles I
+Tier: 1 (Silver)
+Description: Your champions that start combat with no adjacent champions gain a 20% max Health shield for 10 seconds.
+
+---
+
+Augment: Expedition
+Tier: 1 (Silver)
+Description: At the start of every round, lose the champion in the rightmost bench slot. After losing 1 gold of champions in this way, gain a powerful reward. Gain a 3-cost champion now.
+
+---
+
+Augment: Extra Buckles
+Tier: 1 (Silver)
+Description: Gain a Giant's Belt. After your team takes 75000 damage, gain 2 more. Damage taken:
+
+---
+
+Augment: Feeling Lucky
+Tier: 1 (Silver)
+Description: Gain 12 gold, then flip a coin. If heads, gain 4 more gold.
+
+---
+
+Augment: Find Your Center
+Tier: 1 (Silver)
+Description: Your champion that starts combat in the center of the front row gains 15% Damage Amp and 25% max Health.
+
+---
+
+Augment: Firesale
+Tier: 1 (Silver)
+Description: Each round, steal a random 3-cost or lower champion from the shop. Gain 1 gold.
+
+---
+
+Augment: Flowing Tears
+Tier: 1 (Silver)
+Description: Gain a Tear of the Goddess. After your team spends 6500 Mana, gain 2 more. Mana spent:
+
+---
+
+Augment: Focused Fire
+Tier: 1 (Silver)
+Description: Your team gains 10% Attack Damage. Every 5 seconds, they gain 5% more.
+
+---
+
+Augment: Forge a Friend
+Tier: 1 (Silver)
+Description: The next 1-cost champion you buy is 3-star. Gain 2 gold.
+
+---
+
+Augment: Glass Cannon I
+Tier: 1 (Silver)
+Description: Allies that start combat in the back row begin combat at 80% Health but gain 16% Damage Amp.
+
+---
+
+Augment: Good For Something I
+Tier: 1 (Silver)
+Description: Champions that aren't holding items have a 40% chance to drop 1 gold on death.
+
+---
+
+Augment: Group Hug I
+Tier: 1 (Silver)
+Description: Combat start: Allies grant other adjacent allies 7 Armor and Magic Resist. This effect stacks.
+
+---
+
+Augment: Healing Orbs I
+Tier: 1 (Silver)
+Description: When an enemy dies, the nearest ally is healed for 220.
+
+---
+
+Augment: Iron Assets
+Tier: 1 (Silver)
+Description: Gain a component anvil and 3 gold.
+
+---
+
+Augment: Item Grab Bag
+Tier: 1 (Silver)
+Description: Gain 1 random completed item.
+
+---
+
+Augment: Kick Start
+Tier: 1 (Silver)
+Description: Gain a random 2-star 2-cost champion and 1 gold.
+
+---
+
+Augment: Late Game Specialist
+Tier: 1 (Silver)
+Description: When you reach Level 9, gain 36 gold.
+
+---
+
+Augment: Latent Forge
+Tier: 1 (Silver)
+Description: After 8 player combats, gain an Artifact anvil.
+
+---
+
+Augment: Lineup
+Tier: 1 (Silver)
+Description: Your team gains 2 Armor and Magic Resist for each ally that starts combat in the front two rows.
+
+---
+
+Augment: Lunch Money
+Tier: 1 (Silver)
+Description: Every 8 damage you deal to enemy tacticians gives you 2 gold. Total Payouts: Gold
+
+---
+
+Augment: Makeshift Armor I
+Tier: 1 (Silver)
+Description: Allies without items equipped gain 30 Armor and Magic Resist.
+
+---
+
+Augment: Missed Connections
+Tier: 1 (Silver)
+Description: Gain a copy of each 1-cost champion.
+
+---
+
+Augment: On a Roll
+Tier: 1 (Silver)
+Description: Whenever you star up a champion that you fielded last combat, gain 2 free Shop rerolls. Gain 2 gold.
+
+---
+
+Augment: One, Two, Five!
+Tier: 1 (Silver)
+Description: Gain 1 random component, 2 gold, and 1 random 5-cost champion.
+
+---
+
+Augment: One Two Three
+Tier: 1 (Silver)
+Description: Gain 1 1-cost champion, 1 2-cost champion, and 1 3-cost champion.
+
+---
+
+Augment: Pandora's Items
+Tier: 1 (Silver)
+Description: Round start: items on your bench are randomized. Gain 1 random component.
+
+---
+
+Augment: Partial Ascension
+Tier: 1 (Silver)
+Description: After 12 seconds of combat, your team gains 20% Damage Amp.
+
+---
+
+Augment: Patience is a Virtue
+Tier: 1 (Silver)
+Description: Each round, gain 2 free rerolls if you did not buy a champion last round.
+
+---
+
+Augment: Recombobulator
+Tier: 1 (Silver)
+Description: Champions on your board permanently transform into random champions 1 cost tier higher (max 5). Gain 2 Magnetic Removers.
+
+---
+
+Augment: Restart Mission
+Tier: 1 (Silver)
+Description: Remove all champions on your board and bench. Gain 2 random 2-star 3-costs, 3 2-star 2-costs, and 1 2-star 1-cost champion.
+
+---
+
+Augment: Risky Moves
+Tier: 1 (Silver)
+Description: Your Tactician loses 20 Health, but after 7 player combats, gain 30 gold.
+
+---
+
+Augment: Rolling For Days I
+Tier: 1 (Silver)
+Description: Gain 10 free Shop rerolls.
+
+---
+
+Augment: Second Wind
+Tier: 1 (Silver)
+Description: After 10 seconds of combat, your team heals 40% of their missing Health.
+
+---
+
+Augment: Silver Spoon
+Tier: 1 (Silver)
+Description: Gain 10 XP.
+
+---
+
+Augment: Size Matters
+Tier: 1 (Silver)
+Description: Gain a Giant's Belt. After a champion starts combat with more than max Health, gain a Warmog's Armor.
+
+---
+
+Augment: Slice of Life
+Tier: 1 (Silver)
+Description: Twice per stage, gain a random champion. Its cost increases by Stage. This effect ends after receiving 1 5-cost champion.
+
+---
+
+Augment: Slightly Magic Roll
+Tier: 1 (Silver)
+Description: Roll a die. Gain rewards based on the number rolled. Reward:
+
+---
+
+Augment: Small Grab Bag
+Tier: 1 (Silver)
+Description: Gain 2 random item components.
+
+---
+
+Augment: Stand United
+Tier: 1 (Silver)
+Description: Gain 1.5% Attack Damage and 1.5% Ability Power for each non-unique Trait active across your team. Current Bonus:
+
+---
+
+Augment: Stellar Combo
+Tier: 1 (Silver)
+Description: Gain an Aatrox. Your strongest Aatrox becomes an Attack Fighter with an ability that swaps between three different strikes.
+
+---
+
+Augment: Survivor
+Tier: 1 (Silver)
+Description: Gain 4 gold. After 3 players are eliminated, gain 100 more gold.
+
+---
+
+Augment: Team Building
+Tier: 1 (Silver)
+Description: Gain a Lesser Champion Duplicator. Gain another after 5 player combats.
+
+---
+
+Augment: Teaming Up
+Tier: 1 (Silver)
+Description: Gain 1 random component and 2 random 3-cost champions.
+
+---
+
+Augment: Termeepnal Velocity
+Tier: 1 (Silver)
+Description: Gain a Poppy. Your strongest Poppy becomes a ranged Attack Caster that flings a high-velocity Meep at her target.
+
+---
+
+Augment: The Tower
+Tier: 1 (Silver)
+Description: Gain a giant Training Dummy with increased Health (increases with Stage). Every 4 seconds, it zaps the 3 nearest enemies dealing 5% max Health true damage.
+
+---
+
+Augment: Tiny Titans
+Tier: 1 (Silver)
+Description: Increase your current and max player health by 30.
+
+---
+
+Augment: Titanic Titan
+Tier: 1 (Silver)
+Description: Increase your current and max player Health by 25. On carousel rounds you are released earlier, but are much slower.
+
+---
+
+Augment: Twin Guardians
+Tier: 1 (Silver)
+Description: If you have exactly 2 allies in your first row, grant them 100 bonus Health, 45 Armor, and 45 Magic Resist.
+
+---
+
+Augment: Vampiric Vitality I
+Tier: 1 (Silver)
+Description: You heal for 12% of the damage you deal to enemy Tacticians. Your team gains 10% Omnivamp.
+
+---
+
+## Gold Augments (Tier 2)
+
+Augment: 3 Threes
+Tier: 2 (Gold)
+Description: Gain 3 random 2-star 3-cost champions and 3 gold.
+
+---
+
+Augment: Advanced Loan
+Tier: 2 (Gold)
+Description: Gain 20 Gold. Your next augment is one tier lower.
+
+---
+
+Augment: Advanced Loan+
+Tier: 2 (Gold)
+Description: Gain 33 Gold. Your next augment is one tier lower.
+
+---
+
+Augment: A Magic Roll
+Tier: 2 (Gold)
+Description: Roll 3 dice. Gain rewards based on their total. Reward:
+
+---
+
+Augment: Anima Commander
+Tier: 2 (Gold)
+Description: Gain a Briar, a Jinx, and an Illaoi. Increase your current and max player Health by 10.
+
+---
+
+Augment: Apotheotic Forge
+Tier: 2 (Gold)
+Description: Choose 1 of 4 Divine Artifacts.
+
+---
+
+Augment: Arcane Viktor-y
+Tier: 2 (Gold)
+Description: After 8 seconds of combat, stun the enemy team for 1.5 seconds. Repeat this after 18 seconds of combat. TFT Macao Open, 2024
+
+---
+
+Augment: Ascension
+Tier: 2 (Gold)
+Description: After 12 seconds of combat, your team gains 35% Damage Amp.
+
+---
+
+Augment: Aura Farming
+Tier: 2 (Gold)
+Description: Gain a 2-star 5-cost champion holding a recommended item. You cannot field it until Stage 4-3.
+
+---
+
+Augment: Backline Blueprint
+Tier: 2 (Gold)
+Description: Gain a 3-cost non-Tank champion and an Emblem that matches their last-listed trait.
+
+---
+
+Augment: Bandle Bounty I
+Tier: 2 (Gold)
+Description: Reach level 10 and field 10 unique Yordles to reveal the Bandle Path's secret. Gain a Lulu and a Rumble.
+
+---
+
+Augment: Bandle Bounty II
+Tier: 2 (Gold)
+Description: For every Yordle you've unlocked or unlock, gain 2 gold. Reach level 10 and field 10 unique Yordles to reveal the Bandle Path's secret. Gain a Tristana and Teemo.
+
+---
+
+Augment: Best Friends II
+Tier: 2 (Gold)
+Description: Allies isolated in pairs gain 15% Attack Speed and 22 Armor at the start of combat.
+
+---
+
+Augment: Big Grab Bag
+Tier: 2 (Gold)
+Description: Gain 3 random components, 2 gold, and 1 Reforger.
+
+---
+
+Augment: Birthday Reunion
+Tier: 2 (Gold)
+Description: Gain a random 2-star 2-cost champion. When you reach Level 7, gain a Thief's Gloves. When you reach Level 9, gain a random 2-star 5-cost champion. Inkborn Fables Tactician's Crown, 2024
+
+---
+
+Augment: Blood Offering
+Tier: 2 (Gold)
+Description: Gain a Bloodthirster. Combat start: Allies holding Bloodthirsters lose 20% Health but gain a 30% Health shield and 10% Attack Damage.
+
+---
+
+Augment: Bodyguard Training
+Tier: 2 (Gold)
+Description: Allies gain 10 Armor and Magic Resist, increased by 3 per player level. Gizmos & Gadgets Championship, 2022
+
+---
+
+Augment: Booster Pack
+Tier: 2 (Gold)
+Description: Gain 10 gold of random champions. (At least one 3-cost guaranteed!)
+
+---
+
+Augment: Booster Pack+
+Tier: 2 (Gold)
+Description: Gain 18 gold of random champions. (At least one 4-cost guaranteed!)
+
+---
+
+Augment: Booster Pack++
+Tier: 2 (Gold)
+Description: Gain 26 gold of random champions. (At least one 5-cost guaranteed!)
+
+---
+
+Augment: Bronze For Life I
+Tier: 2 (Gold)
+Description: Your team gains 2.5% Damage Amp for each Bronze-tier trait. Damage Amp Bonus:
+
+---
+
+Augment: Calculated Loss
+Tier: 2 (Gold)
+Description: After losing your combat, gain 2 gold and a free Shop reroll.
+
+---
+
+Augment: Care Package
+Tier: 2 (Gold)
+Description: Now and at the start of the next 2 Stages, receive a care package with loot and 3 gold.
+
+---
+
+Augment: Caretaker's Favor
+Tier: 2 (Gold)
+Description: Gain a component anvil when you reach level 5, 6, 7, and 8.
+
+---
+
+Augment: Charge Transfer II
+Tier: 2 (Gold)
+Description: Your team gains 8% Damage Amp. 80% of overkill damage is dealt to the nearest enemy as magic damage.
+
+---
+
+Augment: Clear Mind
+Tier: 2 (Gold)
+Description: If there are no champions on your bench at the end of player combat, gain 3 XP.
+
+---
+
+Augment: Climb The Ladder II
+Tier: 2 (Gold)
+Description: Each time an ally dies, allies that share at least one trait with them gain 5% Ability Power, 5% Attack Damage, 5 Armor, and 5 Magic Resist.
+
+---
+
+Augment: Clockwork Accelerator
+Tier: 2 (Gold)
+Description: Your team gains 10% Attack Speed every 3 seconds in combat.
+
+---
+
+Augment: Cluttered Mind
+Tier: 2 (Gold)
+Description: Gain 4 random 1-cost champions now. If your bench is full at the end of player combat, gain 3 XP.
+
+---
+
+Augment: Cognitive Overload
+Tier: 2 (Gold)
+Description: Gain 7 gold, 1 2-star 1-cost champion, 1 2-cost champion, 1 3-cost champions, 1 XP, and 2 Shop reroll.
+
+---
+
+Augment: Contract Killer
+Tier: 2 (Gold)
+Description: Gain a Pyke. Your strongest Pyke becomes an Attack Fighter, generates gold on team takedown, and gains a reset on-kill Ability.
+
+---
+
+Augment: Cooking Pot
+Tier: 2 (Gold)
+Description: At the start of each turn, all allies holding a Frying Pan or Spatula item grant the nearest champion 60 permanent Health. Gain a Frying Pan.
+
+---
+
+Augment: Cosmic Restart
+Tier: 2 (Gold)
+Description: Call upon the Gods to sell all units on your board and bench. Gain 2 random Emblems and 11 free Shop rerolls.
+
+---
+
+Augment: Crash Test Dummies
+Tier: 2 (Gold)
+Description: Gain 2 Training Dummies. Combat start: Your Training Dummies launch themselves towards a group of enemies and Stun them for 1 seconds.
+
+---
+
+Augment: Crown's Will
+Tier: 2 (Gold)
+Description: Gain a Needlessly Large Rod and a Chain Vest. Your team gains 8 Ability Power and 6 Armor.
+
+---
+
+Augment: Cry Me A River
+Tier: 2 (Gold)
+Description: Gain a Tear of the Goddess. Your team gains 1 Mana Regen. After 12 seconds in combat, increase this to 3.
+
+---
+
+Augment: Cybernetic Implants
+Tier: 2 (Gold)
+Description: Allies holding an item gain 100 Health and 20% Attack Damage. Gain a B.F. Sword.
+
+---
+
+Augment: Double Trouble
+Tier: 2 (Gold)
+Description: When you field exactly 2 copies of a champion, they both gain 30% Attack Damage and 30% Ability Power, Armor, and Magic Resist. When you 3-star, gain a 2-star copy.
+
+---
+
+Augment: Duo Queue
+Tier: 2 (Gold)
+Description: Gain 2 random 5-cost champions and 2 copies of a random component.
+
+---
+
+Augment: Early Education
+Tier: 2 (Gold)
+Description: Your team permanently gains 1 Ability Power whenever they kill an enemy. Combat start: Your team gains 15 bonus Ability Power.
+
+---
+
+Augment: Early Learnings
+Tier: 2 (Gold)
+Description: Your team gains 8% Attack Damage & Ability Power. This increases by 1% after each player combat. 1-cost champions gain double. TFT Vegas Open, 2023
+
+---
+
+Augment: Electrocharge II
+Tier: 2 (Gold)
+Description: Every 4 attacks an ally takes, they deal 50-140 (based on current Stage) magic damage to nearby enemies (1 second cooldown).
+
+---
+
+Augment: Epic Rolldown
+Tier: 2 (Gold)
+Description: When you reach Level 8, gain 20 Shop rerolls. Runeterra Reforged Championship, 2023
+
+---
+
+Augment: Epoch
+Tier: 2 (Gold)
+Description: Now, and at the start of every stage, gain 4 XP and 2 free rerolls.
+
+---
+
+Augment: Epoch+
+Tier: 2 (Gold)
+Description: Now, and at the start of every stage, gain 8 XP and 2 free rerolls.
+
+---
+
+Augment: Exclusive Customization
+Tier: 2 (Gold)
+Description: Gain a Lucky Item Chest, a Magnetic Remover, and 10 gold.
+
+---
+
+Augment: Exiles II
+Tier: 2 (Gold)
+Description: Your champions that start combat with no adjacent champions gain a 30% max Health shield for 10 seconds.
+
+---
+
+Augment: Explosive Growth
+Tier: 2 (Gold)
+Description: Now and at the start of the next 3 rounds, gain 7 XP.
+
+---
+
+Augment: Explosive Growth+
+Tier: 2 (Gold)
+Description: Now and at the start of the next 3 rounds, gain 10 XP.
+
+---
+
+Augment: Feed the Flames
+Tier: 2 (Gold)
+Description: Gain a Sunfire Cape. Your team gains 12% Omnivamp when attacking Burning enemies.
+
+---
+
+Augment: Forward Thinking
+Tier: 2 (Gold)
+Description: Lose all your gold. After 1 player combats, gain back the original amount and another 70 gold. Incoming Gold:
+
+---
+
+Augment: Frontline Foundation
+Tier: 2 (Gold)
+Description: Gain a 2-star 1-cost Tank champion and an Emblem that matches their last-listed trait.
+
+---
+
+Augment: Gain 21 Gold
+Tier: 2 (Gold)
+Description: Gain 21 gold.
+
+---
+
+Augment: Gilded Steel
+Tier: 2 (Gold)
+Description: Gain 2 non-Tank 5-cost champions. If you field at least one 5-cost champion, your 1 to 4-cost champions gain 8% Durability. K.O. Coliseum Tactician's Crown, 2025
+
+---
+
+Augment: Glass Cannon II
+Tier: 2 (Gold)
+Description: Allies that start combat in the back row begin combat at 80% Health but gain 25% Damage Amp.
+
+---
+
+Augment: Gold Destiny
+Tier: 2 (Gold)
+Description: Gain a random Gold Augment and 3 gold.
+
+---
+
+Augment: Gold Destiny+
+Tier: 2 (Gold)
+Description: Gain a random Gold Augment and 6 gold.
+
+---
+
+Augment: Golemify
+Tier: 2 (Gold)
+Description: Lose all champions on your board and bench. Gain a Golem with 60% of their combined Health and 33% of their combined Attack Damage. The Golem gains 1200 Health per stage. Gain a non-Tank 2-star 2-cost champion.
+
+---
+
+Augment: Group Hug II
+Tier: 2 (Gold)
+Description: Combat start: Allies grant other adjacent allies 10 Armor and Magic Resist. This effect stacks.
+
+---
+
+Augment: Healing Orbs II
+Tier: 2 (Gold)
+Description: When an enemy dies, the nearest ally is healed for 500.
+
+---
+
+Augment: Heart of Steel
+Tier: 2 (Gold)
+Description: Gain a Steadfast Heart. Every 10 seconds of combat its holder survives, Steadfast Heart gains additional permanent max Health.
+
+---
+
+Augment: Heat Death
+Tier: 2 (Gold)
+Description: Gain a Mordekaiser. Your strongest Mordkaiser becomes a Magic Fighter with a slowly growing aura that deals damage over time.
+
+---
+
+Augment: Heavy Is the Crown
+Tier: 2 (Gold)
+Description: Gain a Crown of Demacia, which provides significant bonuses to the wearer. If the holder dies, lose the round.
+
+---
+
+Augment: Hefty Rolls
+Tier: 2 (Gold)
+Description: Your team gains Health and size for each time you've rolled this game. Gain 5 gold.
+
+---
+
+Augment: Heroic Grab Bag
+Tier: 2 (Gold)
+Description: Gain 2 Lesser Champion Duplicators and 5 gold.
+
+---
+
+Augment: Heroic Grab Bag+
+Tier: 2 (Gold)
+Description: Gain 2 Lesser Champion Duplicators and 8 gold.
+
+---
+
+Augment: Heroic Grab Bag++
+Tier: 2 (Gold)
+Description: Gain 2 Lesser Champion Duplicators and 14 gold.
+
+---
+
+Augment: High Voltage
+Tier: 2 (Gold)
+Description: Gain an Ionic Spark. Your Ionic Sparks have +3 hex radius and do 20% more damage.
+
+---
+
+Augment: Hustler
+Tier: 2 (Gold)
+Description: You no longer gain interest but gain 3 gold at the start of every player combat round. Gain 3 gold now.
+
+---
+
+Augment: Indecision I
+Tier: 2 (Gold)
+Description: In 3 rounds, choose a new augment of the same tier. Gain 4 gold now.
+
+---
+
+Augment: Indiscriminate Killer
+Tier: 2 (Gold)
+Description: Gain a Giant Slayer. Giant Slayers gain their Damage Amp against all enemies instead of just Tanks.
+
+---
+
+Augment: Infinity Protection
+Tier: 2 (Gold)
+Description: Gain 3 gold now. On Stage 3-7, gain an Infinity Force. Infinity Force gives allies in the same row a 12% Health shield. Monsters Attack Championship, 2023
+
+---
+
+Augment: Invader Zed
+Tier: 2 (Gold)
+Description: Gain a Spear of Shojin. On Stage 4-2, gain a Zed. After receiving Zed, he can then appear in your shops. Zed is a 5-cost Attack Fighter that creates clones of himself.
+
+---
+
+Augment: Jeweled Lotus I
+Tier: 2 (Gold)
+Description: Your team gains 20% Critical Strike Chance and Precision.
+
+---
+
+Augment: Know Your Enemy
+Tier: 2 (Gold)
+Description: You can see who you will fight next. Your team gains 8% Damage Amp, increased to 15% if you and your opponent have any of the same traits active.
+
+---
+
+Augment: Last Second Save
+Tier: 2 (Gold)
+Description: The first time each ally falls below 35% Health, they restore 20% maximum Health.
+
+---
+
+Augment: Late Game Scaling
+Tier: 2 (Gold)
+Description: Gain 2 XP at the start of player combat rounds. Your 5-cost champions gain 12% Health and 12% Attack Speed. Cyber City Tactician's Crown, 2025
+
+---
+
+Augment: Legion of Threes
+Tier: 2 (Gold)
+Description: Gain a random Emblem. Your 3-cost champions and all allies equipped with an Emblem gain 150 Health and 12% Attack Speed. Reckoning Championship, 2021
+
+---
+
+Augment: Little Buddies
+Tier: 2 (Gold)
+Description: Your 4-cost and 5-cost champions gain 55 Health and 6% Attack Speed for every 1-cost and 2-cost champion on your board.
+
+---
+
+Augment: Mace's Will
+Tier: 2 (Gold)
+Description: Gain a Sparring Gloves. Your team gains 8% Attack Speed and 20% Critical Strike Chance.
+
+---
+
+Augment: Makeshift Armor II
+Tier: 2 (Gold)
+Description: Allies without items equipped gain 50 Armor and Magic Resist.
+
+---
+
+Augment: Malicious Monetization
+Tier: 2 (Gold)
+Description: Gain 4 gold. For the next 2 rounds, enemy champions drop 2 gold when killed.
+
+---
+
+Augment: May the Fours Be With You
+Tier: 2 (Gold)
+Description: Your 4-cost champions and Jhin gain 254 Health and 14% Attack Speed. Gain a Jhin.
+
+---
+
+Augment: Mess Hall
+Tier: 2 (Gold)
+Description: After 10 seconds of combat, your champions gain 8% Attack Speed and attacks also hurl 2 delicious projectiles that deal 25 i:scaleAP) magic damage.
+
+---
+
+Augment: Misfits
+Tier: 2 (Gold)
+Description: Your team gains 55 Health for each active Unique trait. Gain a Rhaast and a Miss Fortune.
+
+---
+
+Augment: Money Hungry
+Tier: 2 (Gold)
+Description: Gain 7 gold now, then 7 gold at the start of every stage. Picking up gold makes your Tactician larger.
+
+---
+
+Augment: NO SCOUT NO PIVOT
+Tier: 2 (Gold)
+Description: Champions that fight in player combat cannot be benched or sold. Your team gains 1% Health, and 1.5% Attack Damage and Ability Power after player combat.
+
+---
+
+Augment: Pandora's Bench
+Tier: 2 (Gold)
+Description: At the start of every round, champions on the 3 rightmost bench slots transform into random champions of the same cost. Gain 6 gold.
+
+---
+
+Augment: Pandora's Items II
+Tier: 2 (Gold)
+Description: Round start: items on your bench are randomized. Gain 2 random components.
+
+---
+
+Augment: Patient Study
+Tier: 2 (Gold)
+Description: After player combat, gain 2 XP if you won or 3 XP if you lost.
+
+---
+
+Augment: Pilfer
+Tier: 2 (Gold)
+Description: Each round, gain a 1-star copy of the first champion you killed last combat. The first time you gain 21 gold worth of champions in this way, gain a Thief's Gloves.
+
+---
+
+Augment: Plot Armor
+Tier: 2 (Gold)
+Description: Your team gains 8 Armor and Magic Resist. After falling below 50% Health, increase this to 40 for the rest of combat.
+
+---
+
+Augment: Portable Forge
+Tier: 2 (Gold)
+Description: Choose 1 of 4 Artifacts.
+
+---
+
+Augment: Precision and Grace
+Tier: 2 (Gold)
+Description: At the start of combat, allies gain 25% Attack Speed for 3 seconds. On takedown, allies dash to their next target and gain this bonus again.
+
+---
+
+Augment: Preparation II
+Tier: 2 (Gold)
+Description: Champions on your bench permanently gain 50 Health, 5% Attack Damage, and 5% Ability Power every round. Champions start with 1 stack of this effect, and can stack up to 4 times.
+
+---
+
+Augment: Prizefighter
+Tier: 2 (Gold)
+Description: Gain 2 item components. Every 5 wins gives you an item component.
+
+---
+
+Augment: Pyromaniac
+Tier: 2 (Gold)
+Description: Gain a Red Buff. Your Burns deal 50% increased damage.
+
+---
+
+Augment: Raining Gold
+Tier: 2 (Gold)
+Description: Gain 7 gold now and 1 gold every round.
+
+---
+
+Augment: Reach for the Stars
+Tier: 2 (Gold)
+Description: Gain a Jax. Your strongest Jax becomes a Magic Fighter that deal bonus magic damage on attack and gains stacking Attack Speed on cast.
+
+---
+
+Augment: ReinFOURcement
+Tier: 2 (Gold)
+Description: The next 4-cost champion you buy with gold is instantly upgraded to 2-star. Gain 5 gold.
+
+---
+
+Augment: Replication
+Tier: 2 (Gold)
+Description: Choose 1 of 3 components. For the next 2 rounds, gain a copy of that component.
+
+---
+
+Augment: Salvage Bin
+Tier: 2 (Gold)
+Description: Gain 1 random completed item now, and 1 component after 8 player combats. Selling champions breaks completed items into components (excluding Tactician's items and Emblems).
+
+---
+
+Augment: Salvage Bin+
+Tier: 2 (Gold)
+Description: Gain 1 random completed item now, and 1 component after 4 player combats. Selling champions breaks completed items into components (excluding Tactician's items and Emblems).
+
+---
+
+Augment: Savings Account
+Tier: 2 (Gold)
+Description: After you earn 50 gold in interest, gain 30 gold. Your max interest is increased to 7. Gain 4 gold now. Gold earned:
+
+---
+
+Augment: Second Wind II
+Tier: 2 (Gold)
+Description: After 10 seconds of combat, your team heals 60% of their missing Health.
+
+---
+
+Augment: Self Destruct
+Tier: 2 (Gold)
+Description: Gain a Gragas. Your strongest Gragas becomes a Magic Fighter with a massive explosion, but also damages himself.
+
+---
+
+Augment: Seraphim's Staff
+Tier: 2 (Gold)
+Description: Gain an Archangel's Staff. Archangel's Staff grants 2 additional Mana Regen if its holder has 90% or more Ability Power.
+
+---
+
+Augment: Side Effects
+Tier: 2 (Gold)
+Description: When an ally is healed, they deal 50% of the healing to their target as magic damage. Every 5 seconds, allies heal for 4% of their max Health.
+
+---
+
+Augment: Slammin'
+Tier: 2 (Gold)
+Description: Gain 3 gold. After each player combat, if there are no items on your bench (other than consumables), gain 2 XP.
+
+---
+
+Augment: Slammin'+
+Tier: 2 (Gold)
+Description: Gain 8 gold and 10 XP now. After each player combat, if there are no items on your bench (other than consumables), gain 2 XP.
+
+---
+
+Augment: Sniper's Nest
+Tier: 2 (Gold)
+Description: Snipers gain 8% Damage Amp for each combat fought from the same starting hex, up to 32%. Gain an Ezreal and a Gnar.
+
+---
+
+Augment: Solo Leveling
+Tier: 2 (Gold)
+Description: For the next 5 combats, your team size is 1 but the champion you field has massively increased stats. Gain 1 XP for every kill they get. Afterwards, gain 2 item components.
+
+---
+
+Augment: Solo Plate
+Tier: 2 (Gold)
+Description: Gain a Gargoyle Stoneplate. Combat start: Allies holding Gargoyle Stoneplate gain 20% max Health if they're the only one in their row.
+
+---
+
+Augment: Spear's Will
+Tier: 2 (Gold)
+Description: Your team gains 8% Attack Damage and 5 Mana. Gain a B.F. Sword and a Tear of the Goddess.
+
+---
+
+Augment: Speedy Double Kill
+Tier: 2 (Gold)
+Description: Gain a Guinsoo's Rageblade. When 2 players are eliminated, gain 40 gold. Fates Championship, 2021
+
+---
+
+Augment: Spirit of Redemption
+Tier: 2 (Gold)
+Description: Gain a Spirit Visage. Every 5 seconds, Spirit Visage heals allies within 1 hex for 7.5% of their missing Health.
+
+---
+
+Augment: Spoils of War II
+Tier: 2 (Gold)
+Description: Enemies have a 30% chance to drop loot when killed.
+
+---
+
+Augment: Spreading Roots
+Tier: 2 (Gold)
+Description: Gain 2 random Emblems and 1 gold.
+
+---
+
+Augment: Spreading Roots+
+Tier: 2 (Gold)
+Description: Gain 2 random Emblems, a Reforger, and 2 gold.
+
+---
+
+Augment: Staffsmith
+Tier: 2 (Gold)
+Description: Gain 2 random completed items that build from Needlessly Large Rod.
+
+---
+
+Augment: Stars Are Born
+Tier: 2 (Gold)
+Description: The first 1-cost and 2-cost champions you buy are instantly upgraded to 2-star. Gain 7 gold.
+
+---
+
+Augment: Sunfire Board
+Tier: 2 (Gold)
+Description: Combat Start: Burn all enemies for 15% of their max Health over 15 seconds and reduce healing received by 33%.
+
+---
+
+Augment: Swordsmith
+Tier: 2 (Gold)
+Description: Gain 2 random completed items that build from B.F. Sword.
+
+---
+
+Augment: The Big Bang
+Tier: 2 (Gold)
+Description: Gain a Meepsie. Your strongest Meepsie becomes a Magic Fighter that leaps to a nearby hex to deal damage in a large radius.
+
+---
+
+Augment: Tons of Stats!
+Tier: 2 (Gold)
+Description: Your team gains 44 Health, 4% Attack Damage, 4% Ability Power, 4 Armor, 4 Magic Resist, 4% Attack Speed, and 4 Mana.
+
+---
+
+Augment: Trade Sector
+Tier: 2 (Gold)
+Description: Gain a free Shop reroll every round. Gain 2 gold.
+
+---
+
+Augment: Treasure Hunt
+Tier: 2 (Gold)
+Description: Gain a locked chest each Stage between now and Stage. Unlock each chest when you spend gold on Shop rerolls. These chests persist until opened.
+
+---
+
+Augment: Trifecta I
+Tier: 2 (Gold)
+Description: Gain 2 3-cost champions. Combat Start: 3 random 3-cost champions gain 220 Health and 20% Attack Speed.
+
+---
+
+Augment: Two Much Value
+Tier: 2 (Gold)
+Description: Gain 1 reroll for every 2 unique 2-cost champions fielded last player combat. Gain 1 2-cost champions.
+
+---
+
+Augment: Two Tanky
+Tier: 2 (Gold)
+Description: When you field exactly 2 copies of a champion, they both gain 600 Health. When one copy dies, the other gains a 40% max Health Shield for 12 seconds. When you 3-star, gain a 2-star copy.
+
+---
+
+Augment: Two Trick
+Tier: 2 (Gold)
+Description: Gain a random 2-star 2-cost and 2 random 2-star 1-cost champions.
+
+---
+
+Augment: U.R.F
+Tier: 2 (Gold)
+Description: Gain a Spatula. Champions holding Spatula or Frying Pan items gain 15% Attack Speed and 2 Mana Regen.
+
+---
+
+Augment: Urf's Gambit
+Tier: 2 (Gold)
+Description: If you win your next player combat, gain a Spatula. If you lose, gain a Frying Pan. Gain a component anvil and 6 gold now.
+
+---
+
+Augment: Vampiric Vitality II
+Tier: 2 (Gold)
+Description: You heal for 12% of the damage you deal to enemy Tacticians. Your team gains 18% Omnivamp.
+
+---
+
+Augment: Warlord's Honor
+Tier: 2 (Gold)
+Description: Every round, your team gain 5% Attack Damage and Ability Power. Champions start with 1 stack of this effect, and can stack up to 4 times.
+
+---
+
+Augment: Warpath
+Tier: 2 (Gold)
+Description: Gain a 2-star 2-cost champion. After dealing 80 player damage, gain a chest of high cost champions and items. (Current: )
+
+---
+
+Augment: Worth the Wait
+Tier: 2 (Gold)
+Description: Gain a random 1-cost champion. Gain another copy of them at the start of each round for the rest of the game. Champion:
+
+---
+
+Augment: Woven Magic
+Tier: 2 (Gold)
+Description: Gain a random item component. Every 2200 Mana your team spends grants an additional component (max /3).
+
+---
+
+Augment: You Have My Bow
+Tier: 2 (Gold)
+Description: Gain a Recurve Bow. Your team gains 12% Attack Speed.
+
+---
+
+## Prismatic Augments (Tier 3)
+
+Augment: An Exalted Adventure
+Tier: 3 (Prismatic)
+Description: Gain three 2-cost champions. If you 3-star two of them, gain an orb filled with loot. Gain a Lesser Champion Duplicator at the start of next 2 stages. Champions:,,
+
+---
+
+Augment: At What Cost
+Tier: 3 (Prismatic)
+Description: Immediately go to level 6 and gain 12 XP. You don't get to choose your future augments.
+
+---
+
+Augment: Band of Thieves II
+Tier: 3 (Prismatic)
+Description: Gain 2 Thief's Gloves. After 8 player combats, gain another.
+
+---
+
+Augment: Band of Thieves II+
+Tier: 3 (Prismatic)
+Description: Gain 2 Thief's Gloves. After 6 player combats, gain another.
+
+---
+
+Augment: Band of Thieves II++
+Tier: 3 (Prismatic)
+Description: Gain 2 Thief's Gloves. After 3 player combats, gain another.
+
+---
+
+Augment: Baron's Lair
+Tier: 3 (Prismatic)
+Description: Gain a random Tank item. After 8 seconds of combat, your team gains 5% bonus Attack Damage and Ability Power every second for the rest of combat. TFT Paris Open, 2025
+
+---
+
+Augment: Belt Overflow
+Tier: 3 (Prismatic)
+Description: Gain 4 Giant's Belts. Your Giant's Belts grant +85 bonus Health.
+
+---
+
+Augment: Big Spender
+Tier: 3 (Prismatic)
+Description: Your team gains 0.5% Attack Damage and Ability Power for every 1 gold in champion value on your board (Gold Value: g).
+
+---
+
+Augment: Binary Airdrop
+Tier: 3 (Prismatic)
+Description: Combat start: Champions holding 2 items gain a random 3rd completed item. Gain 2 random component now.
+
+---
+
+Augment: Birthday Present
+Tier: 3 (Prismatic)
+Description: Gain a 2-star champion and 1 gold every time you level up. The champion's cost tier is your level minus 4 (max: 5-cost).
+
+---
+
+Augment: Bronze For Life II
+Tier: 3 (Prismatic)
+Description: Your team gains 2.5% Damage Amp and 4 Armor and Magic Resist for each Bronze-tier trait. Damage Amp: Armor and Magic Resist:
+
+---
+
+Augment: Build a Bud
+Tier: 3 (Prismatic)
+Description: Gain a random 3-star 1-cost champion. Gain 8 gold.
+
+---
+
+Augment: Buried Treasures
+Tier: 3 (Prismatic)
+Description: Gain a random item component now and at the start of the next 5 rounds.
+
+---
+
+Augment: Call to Chaos
+Tier: 3 (Prismatic)
+Description: Gain a powerful and random reward. Reward:
+
+---
+
+Augment: Celestial Blessing III
+Tier: 3 (Prismatic)
+Description: Your team gains 25% Omnivamp. Excess healing is converted to a shield up to 1000 Health.
+
+---
+
+Augment: Comeback Story
+Tier: 3 (Prismatic)
+Description: Your team gains 5 Health and 0.4% Attack Speed per missing player Health.
+
+---
+
+Augment: Commerce Core
+Tier: 3 (Prismatic)
+Description: Gain 16 free Shop rerolls now and 3 every round for the rest of the game.
+
+---
+
+Augment: Component Heist
+Tier: 3 (Prismatic)
+Description: After 6 player combats, gain 1 of every item component. Gain a random component now.
+
+---
+
+Augment: Construct a Companion
+Tier: 3 (Prismatic)
+Description: The next 1-cost champion you buy is 3-star. Gain 2 gold.
+
+---
+
+Augment: Coronation
+Tier: 3 (Prismatic)
+Description: Gain a Tactician's Crown. Tactician's Crown, Shield, and Cape grant the holder an additional 20% Attack Speed, 25% Attack Damage, and 30% Ability Power.
+
+---
+
+Augment: Cursed Crown
+Tier: 3 (Prismatic)
+Description: Gain +2 max team size and your team gains 4% Durability, but you take double player damage when you lose a player combat.
+
+---
+
+Augment: Deadlier Blades
+Tier: 3 (Prismatic)
+Description: Gain a Deathblade. Deathblades permanently gain 1% Attack Damage whenever their holders score a takedown.
+
+---
+
+Augment: Deadlier Caps
+Tier: 3 (Prismatic)
+Description: Gain a Rabadon's Deathcap. Rabadon's Deathcaps permanently gain Ability Power whenever their holders score a takedown.
+
+---
+
+Augment: Exclusive Customization II
+Tier: 3 (Prismatic)
+Description: Gain 2 Lucky Item Chests, a Magnetic Remover, and 10 gold.
+
+---
+
+Augment: Expected Unexpectedness
+Tier: 3 (Prismatic)
+Description: Now and at the start of the next 2 stages, roll 3 dice. Gain various rewards based on their total.
+
+---
+
+Augment: Five-Pointed Star
+Tier: 3 (Prismatic)
+Description: Now and at the start of each stage, the first champion you buy with a cost equal to the stage number is 2-star. Gain 2 gold and a 2-star 1-cost champion now.
+
+---
+
+Augment: Flexible
+Tier: 3 (Prismatic)
+Description: Gain 1 random Emblem. At the start of every Stage, gain a random Emblem. Your team gains 40 Health for each Emblem they are holding.
+
+---
+
+Augment: Forged in Strength
+Tier: 3 (Prismatic)
+Description: Gain 1 random Artifact. When you drop below 40 Health, gain 3 more random Artifacts. Remix Rumble Championship, 2023
+
+---
+
+Augment: Giant and Mighty
+Tier: 3 (Prismatic)
+Description: Your team becomes large, gaining 200 Health and 10% max Health.
+
+---
+
+Augment: Going Long
+Tier: 3 (Prismatic)
+Description: You no longer gain interest. Gain 13 gold now. Round start: gain 4 XP.
+
+---
+
+Augment: Golden Gamble
+Tier: 3 (Prismatic)
+Description: Gain 1 gold and flip a coin. If heads, gain a Radiant Lucky Item Chest. If tails, gain Completed item anvils.
+
+---
+
+Augment: Golden Gamble+
+Tier: 3 (Prismatic)
+Description: Gain 4 gold and flip a coin. If heads, gain a Radiant Lucky Item Chest. If tails, gain Completed item anvils.
+
+---
+
+Augment: Golden Gamble++
+Tier: 3 (Prismatic)
+Description: Gain 12 gold and flip a coin. If heads, gain a Radiant Lucky Item Chest. If tails, gain Completed item anvils.
+
+---
+
+Augment: Growth Mindset
+Tier: 3 (Prismatic)
+Description: Gain 50 XP.
+
+---
+
+Augment: Hard Commit
+Tier: 3 (Prismatic)
+Description: Gain a random Emblem. Now and at the start of each Stage, gain a 1-star champion of that trait with a cost equal to the Stage (max 5) and 4 gold.
+
+---
+
+Augment: Hedge Fund
+Tier: 3 (Prismatic)
+Description: Gain 25 gold. Your max interest is increased to 10.
+
+---
+
+Augment: Hedge Fund+
+Tier: 3 (Prismatic)
+Description: Gain 30 gold. Your max interest is increased to 10.
+
+---
+
+Augment: Hold the Line
+Tier: 3 (Prismatic)
+Description: Allies in your back 2 rows gain 10% Ability Power and 9% Attack Damage for each ally that starts combat in your front row.
+
+---
+
+Augment: Indecision II
+Tier: 3 (Prismatic)
+Description: In 3 rounds, choose a new augment of the same tier. Gain 6 gold now.
+
+---
+
+Augment: Invested+
+Tier: 3 (Prismatic)
+Description: Gain 26 gold. After every combat, gain 1 Shop reroll for every 10 gold above 50 (max 80 gold).
+
+---
+
+Augment: Invested++
+Tier: 3 (Prismatic)
+Description: Gain 40 gold. After every combat, gain 1 Shop reroll for every 10 gold above 50 (max 80 gold).
+
+---
+
+Augment: Jeweled Lotus II
+Tier: 3 (Prismatic)
+Description: Your team gains 25% Critical Strike Chance, 10% Critical Strike Damage, and Precision.
+
+---
+
+Augment: Level Up!
+Tier: 3 (Prismatic)
+Description: When you buy XP, gain an additional 2. Gain 10 immediately.
+
+---
+
+Augment: Living Forge
+Tier: 3 (Prismatic)
+Description: Gain an Artifact anvil now and after every 8 player combats.
+
+---
+
+Augment: Lucky Gloves
+Tier: 3 (Prismatic)
+Description: Thief's Gloves will always give your champions ideal items. Gain 2 Sparring Gloves.
+
+---
+
+Augment: Lucky Gloves+
+Tier: 3 (Prismatic)
+Description: Thief's Gloves will always give your champions recommended items. Gain 2 Sparring Gloves now, then another after 4 player combats.
+
+---
+
+Augment: Luxury Subscription
+Tier: 3 (Prismatic)
+Description: Gain a package containing a 5-cost champion, a 2-star 1-cost champion, and 5 gold. At the start of the next 2 stages, gain the package again.
+
+---
+
+Augment: Min-Max
+Tier: 3 (Prismatic)
+Description: Gain a Golden Item Remover and 4 random components.
+
+---
+
+Augment: Money Monsoon
+Tier: 3 (Prismatic)
+Description: Gain 7 gold now and every round for the rest of the game.
+
+---
+
+Augment: New Recruit
+Tier: 3 (Prismatic)
+Description: Gain +1 max team size and a Champion Duplicator.
+
+---
+
+Augment: Nine Lives
+Tier: 3 (Prismatic)
+Description: Set your current and max player Health to 9. On combat loss, you only lose 1 health and gain loot. You can't gain health.
+
+---
+
+Augment: One Buff, Two Buff
+Tier: 3 (Prismatic)
+Description: Gain a Red Buff, a Blue Buff, and a Champion Duplicator.
+
+---
+
+Augment: Pandora's Items III
+Tier: 3 (Prismatic)
+Description: Round start: items on your bench are randomized. Gain 1 random Radiant item.
+
+---
+
+Augment: Prismatic Destiny
+Tier: 3 (Prismatic)
+Description: Gain a random Prismatic Augment and 3 gold.
+
+---
+
+Augment: Prismatic Ticket
+Tier: 3 (Prismatic)
+Description: Each time your Shop is rerolled, you have a 50% chance to gain a free reroll.
+
+---
+
+Augment: Radiant Rascal
+Tier: 3 (Prismatic)
+Description: Gain a Rascal's Gloves item. This equips 2 random Radiant items every round.
+
+---
+
+Augment: Radiant Relics
+Tier: 3 (Prismatic)
+Description: Choose 1 of 5 Radiant items. Gain a Magnetic Remover.
+
+---
+
+Augment: Retribution
+Tier: 3 (Prismatic)
+Description: Gain 2 Hands of Justice. Allies equipped with Hand of Justice gain Precision.
+
+---
+
+Augment: Shimmerscale Essence
+Tier: 3 (Prismatic)
+Description: Gain a Mogul's Mail. In 6 rounds, gain a Gamblers Blade.
+
+---
+
+Augment: Shopping Spree
+Tier: 3 (Prismatic)
+Description: When you level up, gain a number of free shop refreshes equal to your level+1. Gain 2 gold.
+
+---
+
+Augment: Soul Awakening
+Tier: 3 (Prismatic)
+Description: Combat start: Your team gains 1.5% Attack Damage and Ability Power per second for 10 seconds. At max stacks, deal 12% bonus true damage.
+
+---
+
+Augment: Spoils of War III
+Tier: 3 (Prismatic)
+Description: Enemies have a 40% chance to drop loot when killed.
+
+---
+
+Augment: Starter Kit
+Tier: 3 (Prismatic)
+Description: Gain a 4-cost champion, a 2-star 1-cost champion that shares a trait with them, and 8 gold. At the start of the next 2 stages, gain that 4-cost champion again.
+
+---
+
+Augment: Subscription Service
+Tier: 3 (Prismatic)
+Description: Now and at the start of each Stage, open a Shop of 4 unique 4-cost champions and gain 6 gold.
+
+---
+
+Augment: Sweet Treats
+Tier: 3 (Prismatic)
+Description: Gain an Artifact anvil. Your team gains 20 Health for each item equipped on champions. Health Gained: Magic N' Mayhem Tactician's Crown, 2024
+
+---
+
+Augment: Sword Overflow
+Tier: 3 (Prismatic)
+Description: Gain 4 B.F. Swords. Your B.F. Swords grant +4% Attack Speed.
+
+---
+
+Augment: Tactician's Kitchen
+Tier: 3 (Prismatic)
+Description: Gain a random Emblem. After 3 rounds, gain a Tactician's Cape.
+
+---
+
+Augment: The Golden Egg
+Tier: 3 (Prismatic)
+Description: Gain a golden egg that hatches in 11 turns for a huge amount of loot. Winning player combat speeds up the hatch timer by an extra turn.
+
+---
+
+Augment: The Trait Tree
+Tier: 3 (Prismatic)
+Description: Gain 3 random Emblems, a Reforger, and 2 gold.
+
+---
+
+Augment: The Trait Tree+
+Tier: 3 (Prismatic)
+Description: Gain 3 random Emblems, a Reforger, and 4 gold.
+
+---
+
+Augment: The World Runes
+Tier: 3 (Prismatic)
+Description: Gain 2 Emblems from random Region traits. Gain 6 XP every player combat, increased to 2 XP if 4 or more Region traits are active.
+
+---
+
+Augment: Tiniest Titan
+Tier: 3 (Prismatic)
+Description: Gain 2 player Health and 1 gold after every player combat. Your Tactician also moves faster.
+
+---
+
+Augment: Tiny, but Deadly
+Tier: 3 (Prismatic)
+Description: Your team becomes small, gaining 30% Attack Speed and Movement Speed.
+
+---
+
+Augment: Trifecta II
+Tier: 3 (Prismatic)
+Description: Gain 3 tier-3 champions. Allies gain 5% Attack Speed. Combat Start: 3 random tier-3 champions gain 300 Health and 25% Attack Speed.
+
+---
+
+Augment: Upward Mobility
+Tier: 3 (Prismatic)
+Description: Buying XP costs 1 less. Gain 2 Health and 2 free rerolls whenever you level up.
+
+---
+
+Augment: Urf's Grab Bag
+Tier: 3 (Prismatic)
+Description: Gain 1 Spatula, 3 random components, and 5 gold.
+
+---
+
+Augment: Wand Overflow
+Tier: 3 (Prismatic)
+Description: Gain 4 Needlessly Large Rods. Your Needlessly Large Rods grant +5% Attack Speed.
+
+---
+
+Augment: We Stick Together
+Tier: 3 (Prismatic)
+Description: Gain a random Emblem and a completed item anvil. Allies that share a trait with that Emblem gain 30% Attack Speed. Into The Arcane Tactician's Crown, 2025
+
+---
+
+Augment: Win Out
+Tier: 3 (Prismatic)
+Description: When you reach level 9, immediately level to 10 and gain 8 free Shop rerolls. Gain 6 XP now.
+
+---
+
+Augment: Wise Spending
+Tier: 3 (Prismatic)
+Description: You can no longer buy XP. Every time you spend gold to reroll your Shop, gain 2 XP. Gain 3 gold now.
+
+---
+
+Augment: Worth the Wait II
+Tier: 3 (Prismatic)
+Description: Gain 2 copies of a random 2-cost champion. Gain another copy of them at the start of each round for the rest of the game. Champion:
+
+---
+
