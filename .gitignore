@@ -16,6 +16,9 @@ data/raw/
 # Environment variables / API keys
 .env
 
+# Claude Code
+.claude/
+
 # VS Code
 .vscode/
 
