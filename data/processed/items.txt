@@ -67,48 +67,56 @@ Description: +1 Mana Regen
 Item: Adaptive Helm
 Category: Combined
 Description: Gain an additional 15% Mana from all sources. The holder gains an additional bonus based on their Role: Tanks and Fighters: Gain 30 Armor and Magic Resistance. Other Roles: Gain 10% Attack Damage and Ability Power.
+Tier Rating: B
 
 ---
 
 Item: Archangel's Staff
 Category: Combined
 Description: Combat start: Gain 20% Ability Power every 5 seconds in combat.
+Tier Rating: A
 
 ---
 
 Item: Bloodthirster
 Category: Combined
 Description: Once per combat at 40% Health, gain a 25% max Health Shield that lasts up to 5 seconds.
+Tier Rating: B
 
 ---
 
 Item: Blue Buff
 Category: Combined
 Description: Gain 10% additional Attack Damage and Ability Power from all sources.
+Tier Rating: B
 
 ---
 
 Item: Bramble Vest
 Category: Combined
 Description: Gain 6% max health. Take 5% reduced damage from attacks. When struck by any attack, deal 100 magic damage to all adjacent enemies. Cooldown: 2 seconds
+Tier Rating: A
 
 ---
 
 Item: Crownguard
 Category: Combined
 Description: Combat Start: Gain a 25% max Health Shield for 8 seconds. When the Shield expires, gain 25% Ability Power.
+Tier Rating: S
 
 ---
 
 Item: Deathblade
 Category: Combined
 Description: Perfect peace and calm for the holder - and all who face it.
+Tier Rating: S
 
 ---
 
 Item: Dragon's Claw
 Category: Combined
 Description: Gain 6% max health. Every 2 seconds, heal 2.5% max Health.
+Tier Rating: C
 
 ---
 
@@ -127,6 +135,7 @@ Description: 30% Sunder enemies within 2 hexes. Gain 15 Armor and Magic Resist f
 Item: Gargoyle Stoneplate
 Category: Combined
 Description: Gain 10 Armor and 10 Magic Resist for each enemy targeting the holder.
+Tier Rating: A
 
 ---
 
@@ -139,6 +148,7 @@ Description: Gain 15% additional Damage Amp against Tanks.
 Item: Guinsoo's Rageblade
 Category: Combined
 Description: Gain 7% stacking Attack Speed every second.
+Tier Rating: A
 
 ---
 
@@ -151,24 +161,28 @@ Description: Gain 2 effects: 15% Attack Damage and 15% Ability Power. 12% Omniva
 Item: Hextech Gunblade
 Category: Combined
 Description: Heal the lowest percent Health ally for 20% of damage dealt.
+Tier Rating: B
 
 ---
 
 Item: Infinity Edge
 Category: Combined
 Description: Gain Precision.
+Tier Rating: B
 
 ---
 
 Item: Ionic Spark
 Category: Combined
 Description: 30% Shred enemies within 2 hexes. When enemies cast an Ability, deal magic damage equal to 150% of the Mana spent Shred: Reduce Magic Resist
+Tier Rating: B
 
 ---
 
 Item: Jeweled Gauntlet
 Category: Combined
 Description: Gain Precision.
+Tier Rating: S
 
 ---
 
@@ -181,12 +195,14 @@ Description: Attacks grant 3.5% stacking Attack Damage, up to 15 attacks. After 
 Item: Last Whisper
 Category: Combined
 Description: Damage from attacks and Abilities 30% Sunder the target for 3 seconds. This effect does not stack. Sunder: Reduce Armor
+Tier Rating: A
 
 ---
 
 Item: Morellonomicon
 Category: Combined
 Description: Attacks and Abilities deal 1% Burn and 33% Wound to enemies for 10 seconds. Burn: Deals a percent of the target's max Health as true damage every second Wound: Reduces healing received
+Tier Rating: A
 
 ---
 
@@ -205,24 +221,28 @@ Description: Combat Start: Gain 20 Mana. At 40% Health, gain 15 Mana and a Shiel
 Item: Quicksilver
 Category: Combined
 Description: Combat Start: Gain immunity to crowd control for 18 seconds. Gain 3% stacking Attack Speed every second.
+Tier Rating: B
 
 ---
 
 Item: Rabadon's Deathcap
 Category: Combined
 Description: This humble hat can help you make, or unmake, the world itself.
+Tier Rating: S
 
 ---
 
 Item: Red Buff
 Category: Combined
 Description: Attacks and Abilities 1% Burn and 33% Wound enemies for 5 seconds. Burn: Deals a percent of the target's max Health as true damage every second Wound: Reduces healing received
+Tier Rating: A
 
 ---
 
 Item: Spear of Shojin
 Category: Combined
 Description: Attacks grant 5 bonus Mana.
+Tier Rating: B
 
 ---
 
@@ -241,6 +261,7 @@ Description: Gain 5% Durability. While above 50% Health, instead gain 15% Durabi
 Item: Sterak's Gage
 Category: Combined
 Description: At 60% Health, gain a Shield equal to 40% of the wearer's maximum Health that rapidly decays over 4 seconds.
+Tier Rating: A
 
 ---
 
@@ -277,12 +298,14 @@ Description: Your team gains + 1 max team size. 10% chance to drop 1 gold when t
 Item: Thief's Gloves
 Category: Combined
 Description: Each round: Equip 2 random items. Consumes 3 item slots.
+Tier Rating: B
 
 ---
 
 Item: Titan's Resolve
 Category: Combined
 Description: Gain 2% Attack Damage and 2% Ability Power when attacking or taking damage, stacking up to 25 times. At full stacks, gain 10% Damage Amp and gain immunity to crowd control.
+Tier Rating: A
 
 ---
 
@@ -295,6 +318,7 @@ Description: Damage from attacks and Abilities 30% Shred the target for 5 second
 Item: Warmog's Armor
 Category: Combined
 Description: Gain 18% max Health.
+Tier Rating: B
 
 ---
 
@@ -332,6 +356,7 @@ Grants Trait: Challenger
 Item: Dark Star Emblem
 Category: Emblem
 Description: The holder gains the Dark Star trait.
+Tier Rating: A
 Grants Trait: Dark Star
 
 ---
@@ -360,6 +385,7 @@ Grants Trait: N.O.V.A.
 Item: Primordian Emblem
 Category: Emblem
 Description: The holder gains the Primordian trait.
+Tier Rating: S
 Grants Trait: Primordian
 
 ---
@@ -381,6 +407,7 @@ Grants Trait: Shepherd
 Item: Space Groove Emblem
 Category: Emblem
 Description: The holder gains the Space Groove trait. On cast, the holder enters {{TFT 17 _SpaceGroove_TheGroove}} for 3 seconds.
+Tier Rating: S
 Grants Trait: Space Groove
 
 ---
@@ -388,6 +415,7 @@ Grants Trait: Space Groove
 Item: Stargazer Emblem
 Category: Emblem
 Description: The holder gains the Stargazer trait.
+Tier Rating: C
 Grants Trait: Stargazer
 
 ---
@@ -616,48 +644,56 @@ Upgraded versions of Combined items.
 Item: Radiant Adaptive Helm
 Category: Radiant
 Description: Gain an additional 30% Mana from all sources. The wearer gains an additional bonus based on their Role: Tank/Fighter: Gain 80 Armor and Magic Resistance. Marksman/Caster: Gain 25% Attack Damage and Ability Power.
+Tier Rating: C
 
 ---
 
 Item: Radiant Archangel's Staff
 Category: Radiant
 Description: Combat start: Gain 40% Ability Power every 5 seconds in combat.
+Tier Rating: B
 
 ---
 
 Item: Radiant Bloodthirster
 Category: Radiant
 Description: Once per combat: At 40% Health, gain a 50% max Health Shield that lasts up to 5 seconds.
+Tier Rating: C
 
 ---
 
 Item: Radiant Blue Buff
 Category: Radiant
 Description: Gain 20% additional Attack Damage and Ability Power from all sources.
+Tier Rating: C
 
 ---
 
 Item: Radiant Bramble Vest
 Category: Radiant
 Description: Gain 12% max health. Take 10% reduced damage from attacks. When struck by any attack, deal 200 magic damage to all adjacent enemies. Cooldown: 2 seconds
+Tier Rating: C
 
 ---
 
 Item: Radiant Crownguard
 Category: Radiant
 Description: Combat Start: Gain a 50% max Health Shield for 8 seconds. When the Shield expires, gain 50% Ability Power.
+Tier Rating: B
 
 ---
 
 Item: Radiant Deathblade
 Category: Radiant
 Description: It glows in the presence of enemies. Or friends. Or anything alive, really.
+Tier Rating: B
 
 ---
 
 Item: Radiant Dragon's Claw
 Category: Radiant
 Description: Gain 22% max health. Every 2 seconds, heal 5% max Health.
+Tier Rating: C
 
 ---
 
@@ -682,42 +718,49 @@ Description: Gain 25 Armor and 25 Magic Resist for each enemy targeting the hold
 Item: Radiant Giant Slayer
 Category: Radiant
 Description: Gain 30% additional Damage Amp against Tanks.
+Tier Rating: A
 
 ---
 
 Item: Radiant Guinsoo's Rageblade
 Category: Radiant
 Description: Gain 14% stacking Attack Speed every second.
+Tier Rating: A
 
 ---
 
 Item: Radiant Hand of Justice
 Category: Radiant
 Description: Gain 2 effects: 30% Attack Damage and 30% Ability Power. 24% Omnivamp. While above 50% health, double the Attack Damage and Ability Power. While below 50% Health, double the Omnivamp.
+Tier Rating: B
 
 ---
 
 Item: Radiant Hextech Gunblade
 Category: Radiant
 Description: Heal the lowest percent Health ally for 40% of damage dealt.
+Tier Rating: A
 
 ---
 
 Item: Radiant Infinity Edge
 Category: Radiant
 Description: Gain Precision.
+Tier Rating: B
 
 ---
 
 Item: Radiant Ionic Spark
 Category: Radiant
 Description: 30% Shred enemies within 2 hexes. When enemies cast an Ability, deal magic damage equal to 300% of the Mana spent. Direct damage item Shred: Reduce Magic Resist
+Tier Rating: A
 
 ---
 
 Item: Radiant Jeweled Gauntlet
 Category: Radiant
 Description: Gain Precision.
+Tier Rating: S
 
 ---
 
@@ -730,12 +773,14 @@ Description: Attacks grant 7% stacking Attack Damage, up to 15 attacks. After 15
 Item: Radiant Last Whisper
 Category: Radiant
 Description: Damage from attacks and Abilities 30% Sunder the target for the rest of combat. This effect does not stack. Sunder: Reduce Armor
+Tier Rating: A
 
 ---
 
 Item: Radiant Morellonomicon
 Category: Radiant
 Description: Attacks and Abilities deal 2% Burn and 33% Wound to enemies for 10 seconds. Burn: Deals a percent of the target's max Health as true damage every second Wound: Reduces healing received
+Tier Rating: B
 
 ---
 
@@ -754,12 +799,14 @@ Description: Combat Start: Gain 40 Mana. At 40% Health, gain 30 Mana and a Shiel
 Item: Radiant Quicksilver
 Category: Radiant
 Description: Combat Start: Gain immunity to crowd control for 45 seconds. Gain 6% stacking Attack Speed every second.
+Tier Rating: C
 
 ---
 
 Item: Radiant Rabadon's Deathcap
 Category: Radiant
 Description: It's witnessed - and unleashed - miracles and calamities both.
+Tier Rating: S
 
 ---
 
@@ -772,6 +819,7 @@ Description: Attacks and Abilities 2% Burn and 33% Wound enemies for 5 seconds. 
 Item: Radiant Spear of Shojin
 Category: Radiant
 Description: Attacks grant 10 bonus Mana.
+Tier Rating: B
 
 ---
 
@@ -790,6 +838,7 @@ Description: Gain 10% durability. While above 50% Health, instead gain 30% Durab
 Item: Radiant Sterak's Gage
 Category: Radiant
 Description: At 60% Health, gain a Shield equal to 80% of the wearer's maximum Health that rapidly decays over 6 seconds.
+Tier Rating: B
 
 ---
 
@@ -802,18 +851,21 @@ Description: Critical Strikes grant 10% Damage Amp for 5 seconds, stacking up to
 Item: Radiant Sunfire Cape
 Category: Radiant
 Description: Gain 16% max Health. Every 2 seconds, deal 2% Burn and 33% Wound to an enemy within 2 hexes for 10 seconds. Burn: Deals a percent of the target's max Health as true damage every second Wound: reduces healing received
+Tier Rating: B
 
 ---
 
 Item: Radiant Thiefs Gloves
 Category: Radiant
 Description: Each round: Equip 2 random Radiant items. Consumes 3 item slots.
+Tier Rating: B
 
 ---
 
 Item: Radiant Titan's Resolve
 Category: Radiant
 Description: Gain 4% Attack Damage and 4% Ability Power when attacking or taking damage, stacking up to 25 times. At full stacks, gain 20% Damage Amp and gain immunity to crowd control.
+Tier Rating: C
 
 ---
 
@@ -826,6 +878,7 @@ Description: Damage from attacks and Abilities 30% Shred the target for the rest
 Item: Radiant Warmog's Armor
 Category: Radiant
 Description: Gain 36% max Health.
+Tier Rating: C
 
 ---
 
@@ -835,12 +888,14 @@ Obtainable via Portable Forge, Apotheotic Forge, or Forged in Strength augments.
 Item: Aegis of Dawn
 Category: Artifact
 Description: Every 2.5 seconds, steal 3 Armor from enemies within 1 -hex and heal % of the holder's Armor. If Aegis of Dusk is also equipped, trigger this item's effect every 1.25 seconds instead. Healing increases based on Stage.
+Tier Rating: B
 
 ---
 
 Item: Aegis of Dusk
 Category: Artifact
 Description: Every 2.5 seconds, steal 3 Magic Resist from enemies within 1 hex and deal % of the holder's Magic Resist as magic damage. If Aegis of Dawn is also equipped, trigger this item's effect every 1.25 seconds instead.
+Tier Rating: B
 
 ---
 
@@ -853,18 +908,21 @@ Description: The holder is orbited by 3 foxfires. Each one deals 55 (Ability pow
 Item: Blighting Jewel
 Category: Artifact
 Description: Dealing magic damage reduces the target's Magic Resist by 4 . If their Magic Resist is 0 , grant the holder 2 Mana instead. Ability damage can only trigger on each enemy once every 0.5 seconds.
+Tier Rating: B
 
 ---
 
 Item: Cappa Juice
 Category: Artifact
 Description: The holder dons a Hat on each takedown. The holder gains 1% Attack Damage and Ability Power per Hat. On death lose 20% of all Hats. (
+Tier Rating: A
 
 ---
 
 Item: Dawncore
 Category: Artifact
 Description: Reduce the holder's max Mana by 10 . Subsequent spellcasts reduce max Mana by 10%, to a minimum of 10 .
+Tier Rating: B
 
 ---
 
@@ -889,6 +947,7 @@ Description: Total Ability damage is increased by 45%, but is dealt over 2 secon
 Item: Eternal Pact
 Category: Artifact
 Description: Combat start: Form a pact with the highest Health allied champion, if they die, gain 10 Mana regen and 40% Ability Power. When the ally uses their ability, gain 15 Mana. Every 6 seconds, shield your ally for 200% of the holder's Ability Power.
+Tier Rating: A
 
 ---
 
@@ -901,6 +960,7 @@ Description: When switching targets, blink to the next target. Attacks and Abili
 Item: Fishbones
 Category: Artifact
 Description: The holder's attacks target random enemies.
+Tier Rating: S
 
 ---
 
@@ -925,12 +985,14 @@ Description: Attacks and Abilities execute enemies below 12% of their maximum He
 Item: Hellfire Hatchet
 Category: Artifact
 Description: Attacks deal 3% of the holder's max Health as bonus physical damage. For every 1% missing Health, gain 1% Attack Speed.
+Tier Rating: B
 
 ---
 
 Item: Horizon Focus
 Category: Artifact
 Description: Stunning an enemy causes lightning to strike them, dealing 30% of their max Health as magic damage.
+Tier Rating: A
 
 ---
 
@@ -979,18 +1041,21 @@ Description: Share 15% of the holder's bonus Attack Damage, Ability Power, Attac
 Item: Lich Bane
 Category: Artifact
 Description: The holder's first attack after each Ability cast deals bonus magic damage.
+Tier Rating: A
 
 ---
 
 Item: Lightshield Crest
 Category: Artifact
 Description: Every 3 seconds, Shields the lowest percent Health ally for 70% of the holder's combined Armor and Magic Resist for 5 seconds. On death grants this shield to all allies.
+Tier Rating: A
 
 ---
 
 Item: Luden's Tempest
 Category: Artifact
 Description: 100% of overkill damage plus 100 is dealt as magic damage to the three enemies nearest the target.
+Tier Rating: B
 
 ---
 
@@ -1015,6 +1080,7 @@ Description: Every 6 player combats gain a lesser copy of Mirrored Persona (/ 6 
 Item: Mittens
 Category: Artifact
 Description: Shrinks the holder, granting them increased movement speed and immunity to Slow, Burn, and Wound.
+Tier Rating: A
 
 ---
 
@@ -1027,18 +1093,21 @@ Description: Grants 1 Armor, 1 Magic Resist, and 8 Health when taking damage, st
 Item: Prowler's Claw
 Category: Artifact
 Description: After killing a target, shed negative effects and dash to the farthest target within 4 hexes. The next 2 critical attacks deal 50% bonus Critical Strike Damage.
+Tier Rating: S
 
 ---
 
 Item: Rapid Firecannon
 Category: Artifact
 Description: Gain + 1 Attack Range, increased by 1 whenever the holder kills an enemy.
+Tier Rating: S
 
 ---
 
 Item: Seeker's Armguard
 Category: Artifact
 Description: Takedowns increase the holder's Armor, Magic Resist, and Ability Power by 20 .
+Tier Rating: B
 
 ---
 
@@ -1051,6 +1120,7 @@ Description: Spawn a clone that copies the holder's items. The clone has 60% max
 Item: Silvermere Dawn
 Category: Artifact
 Description: Grants immunity to Stuns and the holder's attacks Stun the target for 0.8 seconds. The holder's Attack Speed is locked at 0.5 .
+Tier Rating: A
 
 ---
 
@@ -1075,6 +1145,7 @@ Description: Combat start: Teleport the holder to the mirrored hex on the enemy'
 Item: Statikk Shiv
 Category: Artifact
 Description: Every 3rd attack deals 30 + 50% of the holder's Ability Power as additional magic damage to 4 enemies.
+Tier Rating: S
 
 ---
 
@@ -1087,6 +1158,7 @@ Description: Once per combat at 60% Health, the holder splits into 3 copies of t
 Item: Talisman Of Ascension
 Category: Artifact
 Description: After 22 seconds gain 100% max Health and 120% Damage Amp for the rest of combat.
+Tier Rating: B
 
 ---
 
@@ -1123,6 +1195,7 @@ Description: After 6 seconds of combat, pull the leftmost benched unit onto the 
 Item: Titanic Hydra
 Category: Artifact
 Description: Attacks deal 4% of the holder's max Health plus 8% of their Attack Damage as bonus physical damage to the target and adjacent enemies.
+Tier Rating: S
 
 ---
 
@@ -1147,12 +1220,14 @@ Description: Combat Start: Your strongest Tank becomes the Soulmate. For each se
 Item: Void Gauntlet
 Category: Artifact
 Description: Combat start: Store 30% max Health and 2.5% more every second. On death, unleash the stored Health as magic damage split between enemies within 4 -hexes.
+Tier Rating: A
 
 ---
 
 Item: Wit's End
 Category: Artifact
 Description: Attacks deal bonus magic damage. Heals the holder for 30% of all magic damage dealt.
+Tier Rating: A
 
 ---
 
@@ -1276,4 +1351,15 @@ Category: Command Mod
 Description: Command a unit to gain a temporary recommended item at the start of combat.
 
 ---
+
+## Item Tier Summary (Set 17 Meta)
+Best items to build this patch, ranked by tier. Use this to answer questions like "what items are good", "what should I build", or "what are the best items this patch".
+
+S Tier (strongest, highest priority): Crownguard, Deathblade, Jeweled Gauntlet, Rabadon's Deathcap, Fishbones, Prowler's Claw, Rapid Firecannon, Statikk Shiv, Titanic Hydra
+
+A Tier (strong, reliable picks): Archangel's Staff, Bramble Vest, Gargoyle Stoneplate, Guinsoo's Rageblade, Last Whisper, Morellonomicon, Red Buff, Sterak's Gage, Titan's Resolve, Cappa Juice, Eternal Pact, Horizon Focus, Lich Bane, Lightshield Crest, Mittens, Silvermere Dawn, Void Gauntlet, Wit's End
+
+B Tier (situationally good): Adaptive Helm, Bloodthirster, Blue Buff, Hextech Gunblade, Infinity Edge, Ionic Spark, Quicksilver, Spear of Shojin, Thief's Gloves, Warmog's Armor, Aegis of Dawn, Aegis of Dusk, Blighting Jewel, Dawncore, Hellfire Hatchet, Luden's Tempest, Seeker's Armguard, Talisman Of Ascension
+
+C Tier (below average, avoid if possible): Dragon's Claw, Radiant Adaptive Helm, Radiant Bloodthirster, Radiant Blue Buff, Radiant Bramble Vest, Radiant Dragon's Claw, Radiant Quicksilver, Radiant Titan's Resolve, Radiant Warmog's Armor
 

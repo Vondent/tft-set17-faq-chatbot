@@ -175,7 +175,7 @@ def format_change_line(line, baseline, section_key):
 
 def write_processed(url, title, sections, baseline, output_path):
     # Extract version from title e.g. "Teamfight Tactics patch 17.1"
-    version_match = re.search(r"(\d+\.\d+)", title)
+    version_match = re.search(r"(\d+\.\d+b?)", title)
     version = version_match.group(1) if version_match else "unknown"
 
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
@@ -198,7 +198,7 @@ def write_processed(url, title, sections, baseline, output_path):
 def process_file(filepath, baseline):
     url, title, sections = parse_raw_file(filepath)
 
-    version_match = re.search(r"(\d+[._]\d+)", os.path.basename(filepath))
+    version_match = re.search(r"(\d+[._]\d+b?)", os.path.basename(filepath))
     version = version_match.group(1).replace("_", ".") if version_match else "unknown"
 
     output_path = os.path.join(OUTPUT_DIR, f"patch_{version}.txt")

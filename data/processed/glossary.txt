@@ -1,0 +1,40 @@
+# TFT Set 17 — Glossary / Slang
+
+Term: Slam
+Definition: To immediately build and equip a completed item onto a unit rather than holding the components. Used when you want to use an item's stats right away, especially early in the game.
+Example: "Slam a Deathblade on your carry if you hit B.F. Sword and a second component early."
+
+---
+
+Term: Roll / Roll Down
+Definition: To spend gold refreshing the shop in order to find specific units. "Hard rolling" means spending most or all of your gold to find a key unit.
+
+---
+
+Term: Econ
+Definition: Short for economy — refers to managing your gold effectively, usually by saving gold to earn interest (1 gold per 10 gold saved, up to 5 gold/round).
+
+---
+
+Term: BIS
+Definition: Short for "Best in Slot", meaning very optimal or good, ideally the best.  S tier
+
+---
+
+Term: WIS
+Definition: Short for "Worst in Slot", meaning very bad.  The worst outcome or D/F tier
+
+---
+
+Term: Tempo
+Definition: The speed or pace of the game state
+
+---
+
+Term: High Tempo
+Definition: Slamming items, rolling down, spending econ, doing actions that will increase the relative strength of lobby instantly
+
+-- 
+
+Term: Low Tempo
+Definition: Saving econ for better interest, saving components for better items, essentially sacrificing current strength for a relatively stronger late game

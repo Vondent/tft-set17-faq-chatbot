@@ -1,0 +1,947 @@
+# TFT Set 17 — Meta Comps
+Comps sorted by average placement (lower is better). Data from high-elo games (Platinum+).
+
+## Comp Rankings Summary
+Use this to answer questions like 'best comps', 'top comps', 'strongest comps', or 'highest placement'.
+
+S Tier — Voyager Ivern Minion: avg placement 3.79, Top 4: 66.3%
+S Tier — Voyager Viktor: avg placement 4.01, Top 4: 62.3%
+S Tier — Primordian Bel'Veth: avg placement 4.09, Top 4: 59.3%
+S Tier — Vanguard Teemo: avg placement 4.15, Top 4: 57.0%
+S Tier — Voyager Ivern Minion: avg placement 4.19, Top 4: 59.7%
+A Tier — Vanguard Nunu & Willump: avg placement 4.25, Top 4: 54.7%
+A Tier — Fateweaver Twisted Fate: avg placement 4.25, Top 4: 55.5%
+A Tier — Vanguard Leona: avg placement 4.31, Top 4: 52.6%
+A Tier — Meeple Veigar: avg placement 4.32, Top 4: 52.9%
+B Tier — Mecha Urgot: avg placement 4.40, Top 4: 54.7%
+B Tier — Sniper Xayah: avg placement 4.41, Top 4: 52.0%
+B Tier — Space Groove Samira: avg placement 4.42, Top 4: 51.5%
+B Tier — Dark Star Karma: avg placement 4.44, Top 4: 51.6%
+B Tier — Space Groove Nami: avg placement 4.46, Top 4: 51.0%
+B Tier — Dark Star Xayah: avg placement 4.46, Top 4: 50.3%
+B Tier — Dark Star Kaisa: avg placement 4.46, Top 4: 46.4%
+B Tier — Timebreaker Pyke: avg placement 4.49, Top 4: 53.2%
+B Tier — Meeple Ivern Minion: avg placement 4.49, Top 4: 51.9%
+C Tier — Marauder Kindred: avg placement 4.52, Top 4: 49.2%
+C Tier — Voyager LeBlanc: avg placement 4.54, Top 4: 51.0%
+C Tier — Meeple Corki: avg placement 4.55, Top 4: 48.2%
+C Tier — Rogue Kaisa: avg placement 4.64, Top 4: 49.4%
+C Tier — Mecha Galio: avg placement 4.65, Top 4: 44.8%
+C Tier — Rogue Kaisa: avg placement 4.67, Top 4: 51.1%
+C Tier — Nova Aatrox: avg placement 4.69, Top 4: 47.0%
+C Tier — Primordian Briar: avg placement 4.71, Top 4: 46.2%
+C Tier — Sniper Xayah: avg placement 4.71, Top 4: 46.2%
+C Tier — Vanguard Zoe: avg placement 4.75, Top 4: 42.6%
+C Tier — Vanguard Nasus: avg placement 4.78, Top 4: 44.8%
+C Tier — Timebreaker Lulu: avg placement 4.79, Top 4: 45.6%
+C Tier — Vanguard Vex: avg placement 4.80, Top 4: 45.1%
+C Tier — Dark Star Nunu & Willump: avg placement 4.80, Top 4: 42.7%
+C Tier — Nova Aatrox: avg placement 4.82, Top 4: 43.5%
+C Tier — Bastion Rammus: avg placement 4.84, Top 4: 43.7%
+C Tier — Voyager Nami: avg placement 4.85, Top 4: 45.8%
+C Tier — Mecha Galio: avg placement 4.86, Top 4: 42.7%
+C Tier — Rogue Riven: avg placement 4.87, Top 4: 45.6%
+C Tier — Conduit Miss Fortune: avg placement 4.88, Top 4: 46.1%
+C Tier — Meeple Rammus: avg placement 4.89, Top 4: 40.5%
+C Tier — Marauder Master Yi: avg placement 4.90, Top 4: 43.1%
+C Tier — Bastion Corki: avg placement 4.91, Top 4: 44.0%
+C Tier — Bastion Jax: avg placement 4.93, Top 4: 43.3%
+C Tier — Meeple Poppy: avg placement 4.94, Top 4: 42.2%
+C Tier — Bastion Poppy: avg placement 4.95, Top 4: 41.9%
+C Tier — Voyager Pyke: avg placement 4.95, Top 4: 42.8%
+C Tier — Timebreaker Ezreal: avg placement 4.96, Top 4: 42.6%
+C Tier — Psionic Illaoi: avg placement 4.98, Top 4: 41.5%
+C Tier — Oracle Tahm Kench: avg placement 4.99, Top 4: 40.0%
+C Tier — Space Groove Nami: avg placement 5.00, Top 4: 43.8%
+C Tier — Space Groove Nasus: avg placement 5.02, Top 4: 41.8%
+C Tier — Vanguard Xayah: avg placement 5.02, Top 4: 41.8%
+C Tier — Space Groove Ornn: avg placement 5.04, Top 4: 46.3%
+C Tier — Bastion Jax: avg placement 5.08, Top 4: 40.4%
+C Tier — Voyager Galio: avg placement 5.12, Top 4: 37.7%
+C Tier — Xayah: avg placement 5.14, Top 4: 36.8%
+C Tier — Shepherd Illaoi: avg placement 5.21, Top 4: 37.9%
+C Tier — Brawler Miss Fortune: avg placement 5.24, Top 4: 39.2%
+C Tier — Arbiter Illaoi: avg placement 5.31, Top 4: 38.7%
+C Tier — Replicator Lulu: avg placement 5.34, Top 4: 34.6%
+C Tier — Brawler Urgot: avg placement 5.36, Top 4: 32.9%
+C Tier — Conduit Miss Fortune: avg placement 5.38, Top 4: 34.8%
+C Tier — Psionic Viktor: avg placement 5.57, Top 4: 29.9%
+C Tier — Challenger Diana: avg placement 5.62, Top 4: 29.5%
+C Tier — Timebreaker Pantheon: avg placement 5.77, Top 4: 34.7%
+C Tier — Voyager Aurora: avg placement 5.80, Top 4: 30.7%
+C Tier — Bastion Ornn: avg placement 6.43, Top 4: 16.6%
+C Tier — Anima Illaoi: avg placement 6.85, Top 4: 14.4%
+
+---
+
+Comp: Voyager Ivern Minion
+Tier: S
+Average Placement: 3.79
+Top 4 Rate: 66.3%
+Games Sampled: 13,527
+Units: Illaoi, Ivern Minion, Lissandra, Mordekaiser, Nami, Pyke, Rhaast, Viktor
+Traits: Vanguard (2), Shepherd (2), Dark Star (2), Replicator (2), Conduit (2), Psionic (2), Anima (1), Space Groove (1), Voyager (1), Redeemer (1)
+Ivern Minion build (avg 3.79): Edge of Night, Jeweled Gauntlet, Hand Of Justice
+Viktor build (avg 2.38): Jeweled Gauntlet, Giant Slayer, Rabadon's Deathcap
+Illaoi build (avg 2.83): Gargoyle Stoneplate, Steadfast Heart, Warmog's Armor
+
+---
+
+Comp: Voyager Viktor
+Tier: S
+Average Placement: 4.01
+Top 4 Rate: 62.3%
+Games Sampled: 143,097
+Units: Illaoi, Ivern Minion, Lissandra, Mordekaiser, Nami, Pyke, Rhaast, Viktor
+Traits: Vanguard (2), Shepherd (2), Dark Star (2), Replicator (2), Conduit (2), Psionic (2), Anima (1), Space Groove (1), Voyager (1), Redeemer (1)
+Viktor build (avg 3.86): Drone Uplink, Jeweled Gauntlet, Rabadon's Deathcap
+Nami build (avg 3.06): Giant Slayer, Spear of Shojin, Void Staff
+Illaoi build (avg 3.52): Bramble Vest, Gargoyle Stoneplate, Warmog's Armor
+
+---
+
+Comp: Primordian Bel'Veth
+Tier: S
+Average Placement: 4.09
+Top 4 Rate: 59.3%
+Games Sampled: 125,569
+Units: Aatrox, Akali, Bel'Veth, Briar, Caitlyn, Kindred, Maokai, Rek'Sai
+Traits: N.O.V.A. (5), Primordian (3), Marauder (2), Challenger (2), Brawler (2), Bastion (1), Anima (1), Rogue (1), Fateweaver (1)
+Bel'Veth build (avg 4.04): Giant Slayer, Quicksilver, Kraken's Fury
+Rek'Sai build (avg 3.59): Protector's Vow, Sunfire Cape, Evenshroud
+Briar build (avg 3.71): Bloodthirster, Sterak's Gage, Titan's Resolve
+
+---
+
+Comp: Vanguard Teemo
+Tier: S
+Average Placement: 4.15
+Top 4 Rate: 57.0%
+Games Sampled: 87,271
+Units: Illaoi, Leona, Lissandra, Mordekaiser, Nami, Nasus, Teemo, Zoe
+Traits: Vanguard (4), Shepherd (3), Space Groove (3), Arbiter (2), Dark Star (2), Replicator (2), Conduit (2), Anima (1)
+Leona build (avg 3.81): Gargoyle Stoneplate, Gargoyle Stoneplate, Warmog's Armor
+Teemo build (avg 3.86): Guinsoo's Rageblade, Giant Slayer, Rabadon's Deathcap
+Lissandra build (avg 3.47): Morellonomicon, Spear of Shojin, Void Staff
+
+---
+
+Comp: Voyager Ivern Minion
+Tier: S
+Average Placement: 4.19
+Top 4 Rate: 59.7%
+Games Sampled: 10,526
+Units: Aurora, Galio, Ivern Minion, Karma, Lissandra, Poppy, Pyke, Rammus
+Traits: Voyager (3), Dark Star (2), Meeple (2), Bastion (2), Anima (1), Shepherd (1), Replicator (1), Psionic (1)
+Ivern Minion build (avg 4.21): Edge of Night, Jeweled Gauntlet, Hand Of Justice
+Rammus build (avg 3.04): Bramble Vest, Dragon's Claw, Warmog's Armor
+Pyke build (avg 3.41): Target-Lock Optics, Edge of Night, Infinity Edge
+
+---
+
+Comp: Vanguard Nunu & Willump
+Tier: A
+Average Placement: 4.25
+Top 4 Rate: 54.7%
+Games Sampled: 103,912
+Units: Bard, Blitzcrank, Illaoi, Ivern Minion, Karma, Mordekaiser, Nunu & Willump, Sona, Vex
+Traits: Vanguard (4), Conduit (2), Shepherd (2), Dark Star (2), Meeple (1), Party Animal (1), Space Groove (1), Anima (1), Voyager (1), Stargazer (1), Commander (1), Psionic (1), Doomer (1)
+Nunu & Willump build (avg 3.71): Protector's Vow, Protector's Vow, Protector's Vow
+Vex build (avg 3.36): Guinsoo's Rageblade, Giant Slayer, Rabadon's Deathcap
+Karma build (avg 3.69): Rabadon's Deathcap, Spear of Shojin, Void Staff
+
+---
+
+Comp: Fateweaver Twisted Fate
+Tier: A
+Average Placement: 4.25
+Top 4 Rate: 55.5%
+Games Sampled: 110,777
+Units: Aatrox, Caitlyn, Corki, Jax, Milio, Riven, Talon, Twisted Fate
+Traits: Fateweaver (4), Stargazer (3), N.O.V.A. (2), Bastion (2), Timebreaker (2), Rogue (2), Meeple (1)
+Jax build (avg 3.73): Crownguard, Gargoyle Stoneplate, Gargoyle Stoneplate
+Twisted Fate build (avg 4.13): Nashor's Tooth, Nashor's Tooth, Rabadon's Deathcap
+Caitlyn build (avg 3.56): Deathblade, Guinsoo's Rageblade, Giant Slayer
+
+---
+
+Comp: Vanguard Leona
+Tier: A
+Average Placement: 4.31
+Top 4 Rate: 52.6%
+Games Sampled: 13,122
+Units: Blitzcrank, Illaoi, LeBlanc, Leona, Mordekaiser, Nasus, Nunu & Willump, Teemo, Zoe
+Traits: Vanguard (6), Space Groove (3), Shepherd (3), Arbiter (3), Conduit (2), Party Animal (1), Anima (1), Dark Star (1), Stargazer (1)
+Leona build (avg 3.78): Gargoyle Stoneplate, Gargoyle Stoneplate, Warmog's Armor
+LeBlanc build (avg 3.82): Archangel's Staff, Guinsoo's Rageblade, Giant Slayer
+Teemo build (avg 3.74): Guinsoo's Rageblade, Hextech Gunblade, Giant Slayer
+
+---
+
+Comp: Meeple Veigar
+Tier: A
+Average Placement: 4.32
+Top 4 Rate: 52.9%
+Games Sampled: 39,501
+Units: Corki, Illaoi, Ivern Minion, Lissandra, Mordekaiser, Poppy, Rammus, Veigar
+Traits: Meeple (4), Vanguard (2), Shepherd (2), Dark Star (2), Replicator (2), Bastion (2), Fateweaver (1), Anima (1), Conduit (1)
+Veigar build (avg 4.33): Jeweled Gauntlet, Nashor's Tooth, Nashor's Tooth
+Poppy build (avg 3.58): Crownguard, Protector's Vow, Ionic Spark
+Rammus build (avg 3.10): Dragon's Claw, Protector's Vow, Gargoyle Stoneplate
+
+---
+
+Comp: Mecha Urgot
+Tier: B
+Average Placement: 4.40
+Top 4 Rate: 54.7%
+Games Sampled: 154,651
+Units: Akali, Aurora, Galio, Maokai, Rhaast, Urgot
+Traits: N.O.V.A. (2), Marauder (2), Brawler (2), Anima (1), Voyager (1), Redeemer (1), Mecha (1)
+Urgot build (avg 4.35): Infinity Edge, Giant Slayer, Quicksilver
+Maokai build (avg 3.16): Dragon's Claw, Evenshroud, Warmog's Armor
+Aurora build (avg 3.57): Jeweled Gauntlet, Striker's Flail, Spear of Shojin
+
+---
+
+Comp: Sniper Xayah
+Tier: B
+Average Placement: 4.41
+Top 4 Rate: 52.0%
+Games Sampled: 207,863
+Units: Bard, Gnar, Jax, Jhin, Mordekaiser, Nunu & Willump, Rammus, Rhaast, Xayah
+Traits: Meeple (3), Sniper (3), Stargazer (3), Conduit (2), Bastion (2), Dark Star (2), Vanguard (2), Eradicator (1), Redeemer (1)
+Xayah build (avg 2.08): Battle Bunny Crossbow, Guinsoo's Rageblade, Infinity Edge
+Nunu & Willump build (avg 3.22): Adaptive Helm, Protector's Vow, Protector's Vow
+Jhin build (avg 2.82): Infinity Edge, Last Whisper, Giant Slayer
+
+---
+
+Comp: Space Groove Samira
+Tier: B
+Average Placement: 4.42
+Top 4 Rate: 51.5%
+Games Sampled: 55,005
+Units: Blitzcrank, Jax, Nunu & Willump, Ornn, Ornn, Samira, Samira, Xayah
+Traits: Space Groove (5), Stargazer (3), Bastion (3), Sniper (3), Vanguard (2), Party Animal (1)
+Samira build (avg 3.95): Deathblade, Infinity Edge, Spear of Shojin
+Ornn build (avg 3.69): Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Xayah build (avg 2.85): Guinsoo's Rageblade, Last Whisper, Red Buff
+
+---
+
+Comp: Dark Star Karma
+Tier: B
+Average Placement: 4.44
+Top 4 Rate: 51.6%
+Games Sampled: 19,996
+Units: Blitzcrank, Cho'Gath, Galio, Jhin, Kaisa, Karma, Lissandra, Mordekaiser, Tahm Kench
+Traits: Dark Star (6), Vanguard (2), Brawler (2), Party Animal (1), Space Groove (1), Eradicator (1), Sniper (1), Rogue (1), Voyager (1), Shepherd (1), Replicator (1), Conduit (1), Oracle (1)
+Jhin build (avg 3.38): Infinity Edge, Last Whisper, Striker's Flail
+Karma build (avg 3.68): Sniper Emblem, Jeweled Gauntlet, Nashor's Tooth
+Tahm Kench build (avg 4.04): Sunfire Cape, Spirit Visage, Warmog's Armor
+
+---
+
+Comp: Space Groove Nami
+Tier: B
+Average Placement: 4.46
+Top 4 Rate: 51.0%
+Games Sampled: 117,700
+Units: Blitzcrank, Gwen, Nami, Nunu & Willump, Ornn, Pantheon, Riven, Shen, Tahm Kench
+Traits: Space Groove (4), Vanguard (2), Rogue (2), Replicator (2), Bastion (2), Timebreaker (2), Brawler (2), Party Animal (1), Stargazer (1), Bulwark (1), Oracle (1)
+Nami build (avg 4.11): Jeweled Gauntlet, Nashor's Tooth, Nashor's Tooth
+Riven build (avg 4.25): Space Groove Emblem, Bloodthirster, Titan's Resolve
+Blitzcrank build (avg 2.74): Jeweled Gauntlet, Striker's Flail, Hand Of Justice
+
+---
+
+Comp: Dark Star Xayah
+Tier: B
+Average Placement: 4.46
+Top 4 Rate: 50.3%
+Games Sampled: 26,570
+Units: Cho'Gath, Jhin, Kaisa, Karma, Lissandra, Mordekaiser, Nunu & Willump, Tahm Kench, Xayah
+Traits: Dark Star (6), Brawler (2), Sniper (2), Vanguard (2), Stargazer (2), Eradicator (1), Rogue (1), Voyager (1), Shepherd (1), Replicator (1), Conduit (1), Oracle (1)
+Xayah build (avg 2.93): Battle Bunny Crossbow, Guinsoo's Rageblade, Infinity Edge
+Jhin build (avg 3.08): Infinity Edge, Giant Slayer, Striker's Flail
+Nunu & Willump build (avg 3.48): Adaptive Helm, Protector's Vow, Protector's Vow
+
+---
+
+Comp: Dark Star Kaisa
+Tier: B
+Average Placement: 4.46
+Top 4 Rate: 46.4%
+Games Sampled: 9,649
+Units: Cho'Gath, Jhin, Kaisa, Karma, Lissandra, Mordekaiser, Pantheon, Riven
+Traits: Dark Star (6), Brawler (2), Rogue (2), Replicator (2), Timebreaker (2), Eradicator (1), Sniper (1), Voyager (1), Shepherd (1), Conduit (1), Vanguard (1)
+Kaisa build (avg 3.72): Blue Buff, Infinity Edge, Striker's Flail
+Illaoi build (avg 3.30): Crownguard, Gargoyle Stoneplate, Evenshroud
+Karma build (avg 3.22): Morellonomicon, Rabadon's Deathcap, Spear of Shojin
+
+---
+
+Comp: Timebreaker Pyke
+Tier: B
+Average Placement: 4.49
+Top 4 Rate: 53.2%
+Games Sampled: 15,449
+Units: Corki, Gragas, Gwen, Ivern Minion, Milio, Pantheon, Pyke, Riven
+Traits: Timebreaker (3), Fateweaver (2), Psionic (2), Brawler (2), Rogue (2), Meeple (1), Space Groove (1), Replicator (1), Voyager (1)
+Pyke build (avg 4.27): Target-Lock Optics, Edge of Night, Infinity Edge
+Gwen build (avg 3.83): Hextech Gunblade, Jeweled Gauntlet, Rabadon's Deathcap
+Pantheon build (avg 3.71): Dragon's Claw, Gargoyle Stoneplate, Sunfire Cape
+
+---
+
+Comp: Meeple Ivern Minion
+Tier: B
+Average Placement: 4.49
+Top 4 Rate: 51.9%
+Games Sampled: 2,090
+Units: Corki, Fizz, Galio, Gnar, Ivern Minion, Poppy, Rammus, Veigar
+Traits: Meeple (6), Bastion (2), Fateweaver (1), Rogue (1), Sniper (1), Replicator (1)
+Ivern Minion build (avg 3.62): Bloodthirster, Jeweled Gauntlet, Quicksilver
+Rammus build (avg 3.06): Dragon's Claw, Spirit Visage, Warmog's Armor
+Corki build (avg 2.67): Deathblade, Giant Slayer, Spear of Shojin
+
+---
+
+Comp: Marauder Kindred
+Tier: C
+Average Placement: 4.52
+Top 4 Rate: 49.2%
+Games Sampled: 74,318
+Units: Aatrox, Akali, Bel'Veth, Fiora, Kindred, Maokai, Master Yi, Shen, Tahm Kench
+Traits: N.O.V.A. (4), Marauder (4), Bastion (2), Challenger (2), Brawler (2), Primordian (1), Divine Duelist (1), Anima (1), Psionic (1), Bulwark (1), Oracle (1)
+Kindred build (avg 3.88): Marauder Emblem, Guinsoo's Rageblade, Kraken's Fury
+Master Yi build (avg 4.06): Edge of Night, Giant Slayer, Hand Of Justice
+Fiora build (avg 3.16): Edge of Night, Giant Slayer, Hand Of Justice
+
+---
+
+Comp: Voyager LeBlanc
+Tier: C
+Average Placement: 4.54
+Top 4 Rate: 51.0%
+Games Sampled: 13,358
+Units: Galio, Illaoi, Ivern Minion, Karma, LeBlanc, Leona, Lissandra, Morgana, Sona
+Traits: Shepherd (4), Vanguard (2), Dark Star (2), Arbiter (2), Anima (1), Voyager (1), Replicator (1), Dark Lady (1), Commander (1), Psionic (1)
+LeBlanc build (avg 3.54): Voyager Emblem, Guinsoo's Rageblade, Hextech Gunblade
+Karma build (avg 3.61): Shepherd Emblem, Morellonomicon, Void Staff
+Galio build (avg 3.85): Gargoyle Stoneplate, Ionic Spark, Sunfire Cape
+
+---
+
+Comp: Meeple Corki
+Tier: C
+Average Placement: 4.55
+Top 4 Rate: 48.2%
+Games Sampled: 40,579
+Units: Corki, Fizz, Galio, Ivern Minion, Milio, Poppy, Rammus, Riven
+Traits: Meeple (4), Fateweaver (2), Rogue (2), Timebreaker (2), Bastion (2)
+Rammus build (avg 3.54): Protector's Vow, Gargoyle Stoneplate, Steadfast Heart
+Corki build (avg 3.73): Rogue Emblem, Last Whisper, Giant Slayer
+Riven build (avg 3.75): Sterak's Gage, Titan's Resolve, Hand Of Justice
+
+---
+
+Comp: Rogue Kaisa
+Tier: C
+Average Placement: 4.64
+Top 4 Rate: 49.4%
+Games Sampled: 47,636
+Units: Fizz, Ivern Minion, Kaisa, Karma, Ornn, Rammus, Rhaast
+Traits: Meeple (2), Rogue (2), Dark Star (2), Bastion (2), Voyager (1), Space Groove (1), Redeemer (1)
+Fizz build (avg 4.18): Jeweled Gauntlet, Nashor's Tooth, Hand Of Justice
+Kaisa build (avg 3.97): Deathblade, Infinity Edge, Striker's Flail
+Ornn build (avg 3.71): Protector's Vow, Sunfire Cape, Spirit Visage
+
+---
+
+Comp: Mecha Galio
+Tier: C
+Average Placement: 4.65
+Top 4 Rate: 44.8%
+Games Sampled: 86,662
+Units: Aurelion Sol, Fiora, Galio, Karma, Tahm Kench, Urgot
+Traits: Mecha (2), Marauder (2), Brawler (2), Conduit (1), Divine Duelist (1), Anima (1), Dark Star (1), Voyager (1), Oracle (1)
+Galio build (avg 1.64): Iceblast Armor, Lioness's Lament, Gargoyle Stoneplate
+Aurelion Sol build (avg 3.89): Jeweled Gauntlet, Striker's Flail, Rabadon's Deathcap
+Urgot build (avg 3.67): Infinity Edge, Last Whisper, Hand Of Justice
+
+---
+
+Comp: Rogue Kaisa
+Tier: C
+Average Placement: 4.67
+Top 4 Rate: 51.1%
+Games Sampled: 10,364
+Units: Aatrox, Cho'Gath, Fizz, Kaisa, Maokai, Ornn, Rhaast
+Traits: N.O.V.A. (2), Bastion (2), Dark Star (2), Brawler (2), Rogue (2), Meeple (1), Space Groove (1), Redeemer (1)
+Kaisa build (avg 4.17): Deathblade, Infinity Edge, Striker's Flail
+Fizz build (avg 3.83): Jeweled Gauntlet, Nashor's Tooth, Giant Slayer
+Ornn build (avg 3.00): Dragon's Claw, Steadfast Heart, Sunfire Cape
+
+---
+
+Comp: Nova Aatrox
+Tier: C
+Average Placement: 4.69
+Top 4 Rate: 47.0%
+Games Sampled: 1,942
+Units: Aatrox, Akali, Caitlyn, Jax, Kindred, Maokai, Talon, Twisted Fate
+Traits: N.O.V.A. (5), Stargazer (3), Bastion (2), Fateweaver (2), Marauder (1), Challenger (1), Brawler (1), Rogue (1)
+Aatrox build (avg 3.73): Bloodthirster, Edge of Night, Sterak's Gage
+Jax build (avg 2.93): Crownguard, Gargoyle Stoneplate, Spirit Visage
+Twisted Fate build (avg 4.04): Nashor's Tooth, Rabadon's Deathcap, Spear of Shojin
+
+---
+
+Comp: Primordian Briar
+Tier: C
+Average Placement: 4.71
+Top 4 Rate: 46.2%
+Games Sampled: 23,259
+Units: Akali, Bel'Veth, Briar, Kaisa, Kindred, Rek'Sai, Rhaast, Tahm Kench
+Traits: Primordian (3), N.O.V.A. (2), Marauder (2), Challenger (2), Rogue (2), Brawler (2), Anima (1), Dark Star (1), Redeemer (1), Oracle (1)
+Briar build (avg 4.36): Bloodthirster, Sterak's Gage, Titan's Resolve
+Rek'Sai build (avg 3.93): Protector's Vow, Sunfire Cape, Evenshroud
+Bel'Veth build (avg 4.43): Giant Slayer, Quicksilver, Kraken's Fury
+
+---
+
+Comp: Sniper Xayah
+Tier: C
+Average Placement: 4.71
+Top 4 Rate: 46.2%
+Games Sampled: 14,262
+Units: Ezreal, Jhin, Mordekaiser, Nunu & Willump, Pantheon, Riven, Tahm Kench, Talon, Xayah
+Traits: Timebreaker (3), Sniper (3), Stargazer (3), Dark Star (2), Vanguard (2), Brawler (2), Rogue (2), Eradicator (1), Conduit (1), Replicator (1), Oracle (1)
+Xayah build (avg 2.59): Battle Bunny Crossbow, Guinsoo's Rageblade, Infinity Edge
+Nunu & Willump build (avg 3.06): Adaptive Helm, Protector's Vow, Protector's Vow
+Tahm Kench build (avg 3.29): Crownguard, Sunfire Cape, Warmog's Armor
+
+---
+
+Comp: Vanguard Zoe
+Tier: C
+Average Placement: 4.75
+Top 4 Rate: 42.6%
+Games Sampled: 12,595
+Units: Illaoi, Ivern Minion, Karma, LeBlanc, Leona, Mordekaiser, Nunu & Willump, Zoe
+Traits: Vanguard (4), Arbiter (3), Shepherd (2), Dark Star (2), Conduit (2), Anima (1), Voyager (1), Stargazer (1)
+Zoe build (avg 4.05): Morellonomicon, Spear of Shojin, Void Staff
+Leona build (avg 3.56): Gargoyle Stoneplate, Gargoyle Stoneplate, Steadfast Heart
+LeBlanc build (avg 3.31): Archangel's Staff, Guinsoo's Rageblade, Void Staff
+
+---
+
+Comp: Vanguard Nasus
+Tier: C
+Average Placement: 4.78
+Top 4 Rate: 44.8%
+Games Sampled: 7,928
+Units: Blitzcrank, Illaoi, LeBlanc, Leona, Mordekaiser, Nasus, Nunu & Willump, Teemo
+Traits: Vanguard (6), Space Groove (3), Shepherd (3), Arbiter (2), Party Animal (1), Anima (1), Dark Star (1), Conduit (1), Stargazer (1)
+Nasus build (avg 4.69): Bloodthirster, Guinsoo's Rageblade, Titan's Resolve
+Leona build (avg 3.86): Gargoyle Stoneplate, Sunfire Cape, Spirit Visage
+Teemo build (avg 3.78): Guinsoo's Rageblade, Giant Slayer, Void Staff
+
+---
+
+Comp: Timebreaker Lulu
+Tier: C
+Average Placement: 4.79
+Top 4 Rate: 45.6%
+Games Sampled: 12,911
+Units: Aatrox, Jax, Lulu, Maokai, Milio, Pantheon, Rhaast, Twisted Fate
+Traits: Stargazer (3), N.O.V.A. (2), Bastion (2), Replicator (2), Brawler (2), Timebreaker (2), Fateweaver (2), Redeemer (1)
+Lulu build (avg 3.77): Archangel's Staff, Nashor's Tooth, Spear of Shojin
+Maokai build (avg 3.68): Dragon's Claw, Spirit Visage, Warmog's Armor
+Milio build (avg 2.85): Morellonomicon, Rabadon's Deathcap, Spear of Shojin
+
+---
+
+Comp: Vanguard Vex
+Tier: C
+Average Placement: 4.80
+Top 4 Rate: 45.1%
+Games Sampled: 155,422
+Units: Aatrox, Akali, Blitzcrank, Fiora, Graves, Morgana, Nunu & Willump, Shen, Vex
+Traits: N.O.V.A. (2), Bastion (2), Marauder (2), Vanguard (2), Party Animal (1), Space Groove (1), Divine Duelist (1), Anima (1), Factory New (1), Dark Lady (1), Stargazer (1), Bulwark (1), Doomer (1)
+Graves build (avg 2.34): Battle Bunny Crossbow, Guinsoo's Rageblade, Infinity Edge
+Vex build (avg 4.22): Guinsoo's Rageblade, Hextech Gunblade, Giant Slayer
+Nunu & Willump build (avg 3.79): Protector's Vow, Protector's Vow, Spirit Visage
+
+---
+
+Comp: Dark Star Nunu & Willump
+Tier: C
+Average Placement: 4.80
+Top 4 Rate: 42.7%
+Games Sampled: 16,502
+Units: Bard, Blitzcrank, Illaoi, Ivern Minion, Karma, Mordekaiser, Nunu & Willump, Sona, Vex
+Traits: Vanguard (4), Conduit (2), Shepherd (2), Dark Star (2), Meeple (1), Party Animal (1), Space Groove (1), Anima (1), Voyager (1), Stargazer (1), Commander (1), Psionic (1), Doomer (1)
+Nunu & Willump build (avg 3.83): Protector's Vow, Ionic Spark, Warmog's Armor
+Karma build (avg 3.51): Adaptive Helm, Spear of Shojin, Void Staff
+Vex build (avg 4.15): Guinsoo's Rageblade, Jeweled Gauntlet, Striker's Flail
+
+---
+
+Comp: Nova Aatrox
+Tier: C
+Average Placement: 4.82
+Top 4 Rate: 43.5%
+Games Sampled: 1,559
+Units: Aatrox, Akali, Bel'Veth, Briar, Caitlyn, Kindred, Maokai, Rek'Sai
+Traits: N.O.V.A. (5), Primordian (3), Marauder (2), Challenger (2), Brawler (2), Bastion (1), Anima (1), Rogue (1), Fateweaver (1)
+Aatrox build (avg 3.77): Bloodthirster, Quicksilver, Hand Of Justice
+Kindred build (avg 3.80): Guinsoo's Rageblade, Giant Slayer, Kraken's Fury
+Maokai build (avg 3.43): Gargoyle Stoneplate, Spirit Visage, Warmog's Armor
+
+---
+
+Comp: Bastion Rammus
+Tier: C
+Average Placement: 4.84
+Top 4 Rate: 43.7%
+Games Sampled: 47,765
+Units: Bard, Blitzcrank, Ivern Minion, Karma, Mordekaiser, Rammus, Rhaast, Shen, Vex
+Traits: Meeple (2), Conduit (2), Vanguard (2), Dark Star (2), Bastion (2), Party Animal (1), Space Groove (1), Voyager (1), Redeemer (1), Bulwark (1), Doomer (1)
+Vex build (avg 4.22): Guinsoo's Rageblade, Hextech Gunblade, Giant Slayer
+Rammus build (avg 3.63): Bramble Vest, Protector's Vow, Sunfire Cape
+Bard build (avg 3.00): Rabadon's Deathcap, Spear of Shojin, Void Staff
+
+---
+
+Comp: Voyager Nami
+Tier: C
+Average Placement: 4.85
+Top 4 Rate: 45.8%
+Games Sampled: 19,345
+Units: Galio, Illaoi, Ivern Minion, Karma, Lissandra, Nami, Nunu & Willump, Rhaast
+Traits: Vanguard (2), Shepherd (2), Dark Star (2), Replicator (2), Anima (1), Voyager (1), Space Groove (1), Stargazer (1), Redeemer (1)
+Nami build (avg 3.90): Voyager Emblem, Jeweled Gauntlet, Spear of Shojin
+Nunu & Willump build (avg 3.43): Adaptive Helm, Adaptive Helm, Protector's Vow
+Karma build (avg 4.40): Morellonomicon, Spear of Shojin, Void Staff
+
+---
+
+Comp: Mecha Galio
+Tier: C
+Average Placement: 4.86
+Top 4 Rate: 42.7%
+Games Sampled: 16,630
+Units: Aurelion Sol, Galio, Master Yi, Tahm Kench, Urgot, Viktor
+Traits: Mecha (2), Conduit (2), Psionic (2), Marauder (2), Brawler (2), Oracle (1)
+Galio build (avg 3.95): Lioness's Lament, Gargoyle Stoneplate, Sterak's Gage
+Aurelion Sol build (avg 3.51): Blue Buff, Jeweled Gauntlet, Rabadon's Deathcap
+Master Yi build (avg 3.00): Bloodthirster, Edge of Night, Sterak's Gage
+
+---
+
+Comp: Rogue Riven
+Tier: C
+Average Placement: 4.87
+Top 4 Rate: 45.6%
+Games Sampled: 2,716
+Units: Bel'Veth, Briar, Cho'Gath, Gwen, Kaisa, Rek'Sai, Riven, Talon
+Traits: Rogue (5), Primordian (3), Dark Star (2), Brawler (2), Challenger (1), Marauder (1), Anima (1), Space Groove (1), Timebreaker (1), Stargazer (1)
+Kaisa build (avg 3.43): Infinity Edge, Last Whisper, Giant Slayer
+Riven build (avg 3.40): Dark Star Emblem, Bloodthirster, Quicksilver
+Fizz build (avg 4.22): Jeweled Gauntlet, Nashor's Tooth, Hand Of Justice
+
+---
+
+Comp: Conduit Miss Fortune
+Tier: C
+Average Placement: 4.88
+Top 4 Rate: 46.1%
+Games Sampled: 5,371
+Units: Aatrox, Gragas, Maokai, Miss Fortune, Ornn, Rhaast, Viktor
+Traits: N.O.V.A. (2), Bastion (2), Psionic (2), Brawler (2), Gun Goddess (1), Space Groove (1), Redeemer (1), Conduit (1)
+Miss Fortune build (avg 3.43): Infinity Edge, Giant Slayer, Kraken's Fury
+Viktor build (avg 4.00): Archangel's Staff, Archangel's Staff, Jeweled Gauntlet
+Ornn build (avg 3.55): Dragon's Claw, Spirit Visage, Warmog's Armor
+
+---
+
+Comp: Meeple Rammus
+Tier: C
+Average Placement: 4.89
+Top 4 Rate: 40.5%
+Games Sampled: 26,065
+Units: Bard, Corki, Fizz, Ivern Minion, Nami, Poppy, Rammus, Veigar
+Traits: Meeple (6), Replicator (2), Bastion (2), Conduit (1), Fateweaver (1), Rogue (1), Space Groove (1)
+Rammus build (avg 3.85): Bramble Vest, Gargoyle Stoneplate, Warmog's Armor
+Corki build (avg 4.08): Deathblade, Infinity Edge, Spear of Shojin
+Veigar build (avg 4.50): Jeweled Gauntlet, Giant Slayer, Spear of Shojin
+
+---
+
+Comp: Marauder Master Yi
+Tier: C
+Average Placement: 4.90
+Top 4 Rate: 43.1%
+Games Sampled: 10,142
+Units: Akali, Fiora, Gragas, Maokai, Master Yi, Sona, Tahm Kench, Urgot, Viktor
+Traits: Marauder (4), Psionic (4), Brawler (4), N.O.V.A. (2), Divine Duelist (1), Anima (1), Commander (1), Shepherd (1), Oracle (1), Mecha (1), Conduit (1)
+Master Yi build (avg 4.30): Edge of Night, Giant Slayer, Hand Of Justice
+Fiora build (avg 2.50): Edge of Night, Striker's Flail, Hand Of Justice
+Tahm Kench build (avg 3.60): Protector's Vow, Sunfire Cape, Evenshroud
+
+---
+
+Comp: Bastion Corki
+Tier: C
+Average Placement: 4.91
+Top 4 Rate: 44.0%
+Games Sampled: 7,680
+Units: Aatrox, Caitlyn, Corki, Jax, Milio, Poppy, Rammus, Twisted Fate
+Traits: Bastion (4), Fateweaver (4), Meeple (3), N.O.V.A. (2), Stargazer (2), Timebreaker (1)
+Corki build (avg 3.39): Striker's Flail, Striker's Flail, Spear of Shojin
+Rammus build (avg 3.47): Adaptive Helm, Bramble Vest, Gargoyle Stoneplate
+Twisted Fate build (avg 4.21): Nashor's Tooth, Nashor's Tooth, Rabadon's Deathcap
+
+---
+
+Comp: Bastion Jax
+Tier: C
+Average Placement: 4.93
+Top 4 Rate: 43.3%
+Games Sampled: 4,698
+Units: Aatrox, Caitlyn, Gwen, Jax, Ornn, Rammus, Talon, Twisted Fate
+Traits: Bastion (4), Stargazer (3), N.O.V.A. (2), Fateweaver (2), Space Groove (2), Rogue (2), Meeple (1)
+Jax build (avg 4.79): Bloodthirster, Guinsoo's Rageblade, Titan's Resolve
+Twisted Fate build (avg 3.50): Archangel's Staff, Nashor's Tooth, Rabadon's Deathcap
+Aatrox build (avg 3.09): Bramble Vest, Gargoyle Stoneplate, Spirit Visage
+
+---
+
+Comp: Meeple Poppy
+Tier: C
+Average Placement: 4.94
+Top 4 Rate: 42.2%
+Games Sampled: 1,323
+Units: Corki, Fizz, Galio, Gnar, Ivern Minion, Poppy, Rammus, Veigar
+Traits: Meeple (6), Bastion (2), Fateweaver (1), Rogue (1), Sniper (1), Replicator (1)
+Poppy build (avg 3.96): Blue Buff, Deathblade, Infinity Edge
+Rammus build (avg 3.40): Bramble Vest, Gargoyle Stoneplate, Evenshroud
+Corki build (avg 3.10): Infinity Edge, Last Whisper, Spear of Shojin
+
+---
+
+Comp: Bastion Poppy
+Tier: C
+Average Placement: 4.95
+Top 4 Rate: 41.9%
+Games Sampled: 2,801
+Units: Aatrox, Caitlyn, Corki, Jax, Ornn, Poppy, Rammus, Shen
+Traits: Bastion (6), Meeple (3), N.O.V.A. (2), Fateweaver (2), Stargazer (1), Space Groove (1), Bulwark (1)
+Poppy build (avg 4.92): Guinsoo's Rageblade, Infinity Edge, Striker's Flail
+Rammus build (avg 3.18): Dragon's Claw, Protector's Vow, Sunfire Cape
+Corki build (avg 1.89): Deathblade, Striker's Flail, Spear of Shojin
+
+---
+
+Comp: Voyager Pyke
+Tier: C
+Average Placement: 4.95
+Top 4 Rate: 42.8%
+Games Sampled: 8,050
+Units: Gragas, Ivern Minion, Karma, Lissandra, Master Yi, Pyke, Sona, Tahm Kench
+Traits: Psionic (4), Brawler (2), Dark Star (2), Voyager (2), Shepherd (2), Replicator (1), Marauder (1), Commander (1), Oracle (1)
+Pyke build (avg 4.89): Edge of Night, Infinity Edge, Hand Of Justice
+Gragas build (avg 3.77): Bramble Vest, Gargoyle Stoneplate, Warmog's Armor
+Karma build (avg 3.56): Morellonomicon, Spear of Shojin, Void Staff
+
+---
+
+Comp: Timebreaker Ezreal
+Tier: C
+Average Placement: 4.96
+Top 4 Rate: 42.6%
+Games Sampled: 31,693
+Units: Cho'Gath, Ezreal, Kaisa, Maokai, Milio, Pantheon, Riven, Tahm Kench
+Traits: Brawler (4), Timebreaker (4), Dark Star (2), Rogue (2), Sniper (1), N.O.V.A. (1), Fateweaver (1), Replicator (1), Oracle (1)
+Ezreal build (avg 4.40): Dark Star Emblem, Infinity Edge, Spear of Shojin
+Cho'Gath build (avg 4.43): Protector's Vow, Gargoyle Stoneplate, Spirit Visage
+Riven build (avg 3.95): Bloodthirster, Sterak's Gage, Titan's Resolve
+
+---
+
+Comp: Psionic Illaoi
+Tier: C
+Average Placement: 4.98
+Top 4 Rate: 41.5%
+Games Sampled: 3,515
+Units: Gragas, Illaoi, Ivern Minion, Lissandra, Master Yi, Mordekaiser, Pyke, Viktor
+Traits: Psionic (4), Vanguard (2), Shepherd (2), Dark Star (2), Conduit (2), Brawler (1), Anima (1), Replicator (1), Marauder (1), Voyager (1)
+Illaoi build (avg 3.00): Bramble Vest, Dragon's Claw, Gargoyle Stoneplate
+Master Yi build (avg 3.73): Edge of Night, Giant Slayer, Quicksilver
+Viktor build (avg 4.99): Drone Uplink, Archangel's Staff, Jeweled Gauntlet
+
+---
+
+Comp: Oracle Tahm Kench
+Tier: C
+Average Placement: 4.99
+Top 4 Rate: 40.0%
+Games Sampled: 30,412
+Units: Aatrox, Akali, Fiora, Graves, Maokai, Morgana, Shen, Tahm Kench, Vex
+Traits: N.O.V.A. (3), Bastion (2), Marauder (2), Brawler (2), Divine Duelist (1), Anima (1), Factory New (1), Dark Lady (1), Bulwark (1), Oracle (1), Doomer (1)
+Graves build (avg 2.40): Battle Bunny Crossbow, Guinsoo's Rageblade, Infinity Edge
+Tahm Kench build (avg 3.39): Bramble Vest, Spirit Visage, Warmog's Armor
+Vex build (avg 4.00): Guinsoo's Rageblade, Guinsoo's Rageblade, Giant Slayer
+
+---
+
+Comp: Space Groove Nami
+Tier: C
+Average Placement: 5.00
+Top 4 Rate: 43.8%
+Games Sampled: 5,391
+Units: Blitzcrank, Illaoi, Lissandra, Nami, Nasus, Nunu & Willump, Ornn, Teemo
+Traits: Space Groove (5), Vanguard (4), Shepherd (3), Replicator (2), Party Animal (1), Anima (1), Dark Star (1), Stargazer (1), Bastion (1)
+Nami build (avg 3.48): Giant Slayer, Spear of Shojin, Void Staff
+Nunu & Willump build (avg 3.08): Protector's Vow, Protector's Vow, Protector's Vow
+Blitzcrank build (avg 3.69): Jeweled Gauntlet, Titan's Resolve, Hand Of Justice
+
+---
+
+Comp: Space Groove Nasus
+Tier: C
+Average Placement: 5.02
+Top 4 Rate: 41.8%
+Games Sampled: 1,296
+Units: Gwen, Illaoi, Leona, Nami, Nasus, Nunu & Willump, Ornn, Teemo
+Traits: Space Groove (5), Vanguard (4), Shepherd (2), Rogue (1), Anima (1), Arbiter (1), Replicator (1), Stargazer (1), Bastion (1)
+Nasus build (avg 3.50): Guinsoo's Rageblade, Sterak's Gage, Titan's Resolve
+Nami build (avg 4.00): Jeweled Gauntlet, Nashor's Tooth, Spear of Shojin
+Ornn build (avg 4.11): Gargoyle Stoneplate, Sunfire Cape, Spirit Visage
+
+---
+
+Comp: Vanguard Xayah
+Tier: C
+Average Placement: 5.02
+Top 4 Rate: 41.8%
+Games Sampled: 45,440
+Units: Aatrox, Akali, Fiora, Jax, Jhin, Mordekaiser, Nunu & Willump, Xayah
+Traits: Stargazer (3), N.O.V.A. (2), Bastion (2), Marauder (2), Dark Star (2), Sniper (2), Vanguard (2), Divine Duelist (1), Anima (1), Eradicator (1), Conduit (1)
+Xayah build (avg 2.75): Battle Bunny Crossbow, Guinsoo's Rageblade, Infinity Edge
+Nunu & Willump build (avg 3.48): Anomaly, Protector's Vow, Protector's Vow
+Jhin build (avg 2.94): Stargazer Emblem, Deathblade, Infinity Edge
+
+---
+
+Comp: Space Groove Ornn
+Tier: C
+Average Placement: 5.04
+Top 4 Rate: 46.3%
+Games Sampled: 5,158
+Units: Blitzcrank, Gwen, Nami, Nasus, Ornn, Rammus, Samira, Teemo
+Traits: Space Groove (7), Vanguard (2), Bastion (2), Party Animal (1), Rogue (1), Replicator (1), Meeple (1), Sniper (1), Shepherd (1)
+Ornn build (avg 4.06): Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+Nami build (avg 3.87): Giant Slayer, Spear of Shojin, Void Staff
+Samira build (avg 4.37): Infinity Edge, Last Whisper, Spear of Shojin
+
+---
+
+Comp: Bastion Jax
+Tier: C
+Average Placement: 5.08
+Top 4 Rate: 40.4%
+Games Sampled: 3,135
+Units: Aatrox, Jax, Nunu & Willump, Ornn, Poppy, Rammus, Shen, Xayah
+Traits: Bastion (6), Stargazer (3), Meeple (2), N.O.V.A. (1), Vanguard (1), Space Groove (1), Bulwark (1), Sniper (1)
+Jax build (avg 4.71): Bloodthirster, Guinsoo's Rageblade, Titan's Resolve
+Xayah build (avg 2.80): Guinsoo's Rageblade, Infinity Edge, Red Buff
+Nunu & Willump build (avg 2.67): Adaptive Helm, Protector's Vow, Sunfire Cape
+
+---
+
+Comp: Voyager Galio
+Tier: C
+Average Placement: 5.12
+Top 4 Rate: 37.7%
+Games Sampled: 10,799
+Units: Cho'Gath, Galio, Illaoi, Ivern Minion, Jhin, Kaisa, Karma, Lissandra, Mordekaiser
+Traits: Dark Star (6), Vanguard (2), Shepherd (2), Brawler (1), Anima (1), Eradicator (1), Sniper (1), Rogue (1), Voyager (1), Replicator (1), Conduit (1)
+Galio build (avg 3.48): Anomaly, Gargoyle Stoneplate, Sterak's Gage
+Karma build (avg 4.45): Jeweled Gauntlet, Nashor's Tooth, Giant Slayer
+Jhin build (avg 3.19): Infinity Edge, Last Whisper, Giant Slayer
+
+---
+
+Comp: Xayah
+Tier: C
+Average Placement: 5.14
+Top 4 Rate: 36.8%
+Games Sampled: 6,799
+Units: Jax, Jhin, Lulu, Mordekaiser, Nunu & Willump, Riven, Talon, Xayah
+Traits: Stargazer (5), Dark Star (2), Sniper (2), Vanguard (2), Rogue (2), Bastion (1), Eradicator (1), Replicator (1), Conduit (1), Timebreaker (1)
+Xayah build (avg 4.45): Guinsoo's Rageblade, Red Buff, Kraken's Fury
+Riven build (avg 4.25): Stargazer Emblem, Bloodthirster, Quicksilver
+Nunu & Willump build (avg 3.93): Anomaly, Protector's Vow, Sunfire Cape
+
+---
+
+Comp: Shepherd Illaoi
+Tier: C
+Average Placement: 5.21
+Top 4 Rate: 37.9%
+Games Sampled: 8,989
+Units: Bard, Blitzcrank, Illaoi, Ivern Minion, Karma, Mordekaiser, Nunu & Willump, Sona, Vex
+Traits: Vanguard (4), Conduit (2), Shepherd (2), Dark Star (2), Meeple (1), Party Animal (1), Space Groove (1), Anima (1), Voyager (1), Stargazer (1), Commander (1), Psionic (1), Doomer (1)
+Illaoi build (avg 4.00): Gargoyle Stoneplate, Ionic Spark, Sunfire Cape
+LeBlanc build (avg 4.11): Guinsoo's Rageblade, Jeweled Gauntlet, Rabadon's Deathcap
+Sona build (avg 3.50): Giant Slayer, Spear of Shojin, Void Staff
+
+---
+
+Comp: Brawler Miss Fortune
+Tier: C
+Average Placement: 5.24
+Top 4 Rate: 39.2%
+Games Sampled: 1,731
+Units: Aatrox, Gwen, Maokai, Miss Fortune, Pantheon, Rhaast, Riven, Shen
+Traits: N.O.V.A. (2), Bastion (2), Rogue (2), Brawler (2), Timebreaker (2), Space Groove (1), Gun Goddess (1), Replicator (1), Redeemer (1), Bulwark (1)
+Miss Fortune build (avg 4.50): Deathblade, Infinity Edge, Giant Slayer
+Maokai build (avg 4.30): Sunfire Cape, Spirit Visage, Warmog's Armor
+Riven build (avg 4.08): Bloodthirster, Titan's Resolve, Hand Of Justice
+
+---
+
+Comp: Arbiter Illaoi
+Tier: C
+Average Placement: 5.31
+Top 4 Rate: 38.7%
+Games Sampled: 6,868
+Units: Aurora, Diana, Illaoi, Ivern Minion, Jinx, LeBlanc, Leona
+Traits: Anima (3), Arbiter (3), Challenger (2), Vanguard (2), Shepherd (2), Voyager (1)
+Illaoi build (avg 3.73): Gargoyle Stoneplate, Ionic Spark, Warmog's Armor
+Diana build (avg 4.07): Cyclonic Slicers, Bloodthirster, Titan's Resolve
+Aurora build (avg 3.74): Searing Shortbow, Blue Buff, Jeweled Gauntlet
+
+---
+
+Comp: Replicator Lulu
+Tier: C
+Average Placement: 5.34
+Top 4 Rate: 34.6%
+Games Sampled: 3,770
+Units: Illaoi, Jax, Lulu, Miss Fortune, Nunu & Willump, Ornn, Rhaast
+Traits: Stargazer (3), Vanguard (2), Bastion (2), Anima (1), Shepherd (1), Replicator (1), Gun Goddess (1), Space Groove (1), Redeemer (1)
+Lulu build (avg 3.75): Archangel's Staff, Blue Buff, Jeweled Gauntlet
+Ornn build (avg 2.80): Bramble Vest, Gargoyle Stoneplate, Spirit Visage
+Miss Fortune build (avg 3.53): Infinity Edge, Red Buff, Spear of Shojin
+
+---
+
+Comp: Brawler Urgot
+Tier: C
+Average Placement: 5.36
+Top 4 Rate: 32.9%
+Games Sampled: 4,558
+Units: Akali, Fiora, Gragas, Maokai, Master Yi, Tahm Kench, Urgot
+Traits: Marauder (4), Brawler (4), N.O.V.A. (2), Psionic (2), Divine Duelist (1), Anima (1), Oracle (1), Mecha (1)
+Maokai build (avg 3.40): Steadfast Heart, Sunfire Cape, Evenshroud
+Urgot build (avg 4.04): Infinity Edge, Quicksilver, Sterak's Gage
+Master Yi build (avg 2.60): Brawler Emblem, Edge of Night, Hand Of Justice
+
+---
+
+Comp: Conduit Miss Fortune
+Tier: C
+Average Placement: 5.38
+Top 4 Rate: 34.8%
+Games Sampled: 1,550
+Units: Aurelion Sol, Illaoi, Leona, Miss Fortune, Mordekaiser, Nunu & Willump, Viktor, Zoe
+Traits: Conduit (4), Vanguard (4), Arbiter (2), Mecha (1), Anima (1), Shepherd (1), Gun Goddess (1), Dark Star (1), Stargazer (1), Psionic (1)
+Miss Fortune build (avg 3.85): Infinity Edge, Infinity Edge, Giant Slayer
+Viktor build (avg 3.67): Jeweled Gauntlet, Rabadon's Deathcap, Void Staff
+Illaoi build (avg 3.31): Dragon's Claw, Gargoyle Stoneplate, Warmog's Armor
+
+---
+
+Comp: Psionic Viktor
+Tier: C
+Average Placement: 5.57
+Top 4 Rate: 29.9%
+Games Sampled: 2,414
+Units: Akali, Gragas, Maokai, Master Yi, Sona, Tahm Kench, Urgot, Viktor
+Traits: Psionic (4), Brawler (4), Marauder (3), N.O.V.A. (2), Commander (1), Shepherd (1), Oracle (1), Mecha (1), Conduit (1)
+Master Yi build (avg 5.00): Bloodthirster, Sterak's Gage, Titan's Resolve
+Gragas build (avg 3.88): Gargoyle Stoneplate, Spirit Visage, Warmog's Armor
+Viktor build (avg 5.73): Drone Uplink, Archangel's Staff, Jeweled Gauntlet
+
+---
+
+Comp: Challenger Diana
+Tier: C
+Average Placement: 5.62
+Top 4 Rate: 29.5%
+Games Sampled: 3,397
+Units: Akali, Diana, Kindred, Leona, Mordekaiser, Rhaast, Zoe
+Traits: Arbiter (3), N.O.V.A. (2), Challenger (2), Vanguard (2), Conduit (2), Marauder (1), Dark Star (1), Redeemer (1)
+Diana build (avg 4.44): Vanguard Emblem, Bloodthirster, Guinsoo's Rageblade
+Miss Fortune build (avg 3.00): Guinsoo's Rageblade, Giant Slayer, Kraken's Fury
+Leona build (avg 4.55): Gargoyle Stoneplate, Gargoyle Stoneplate, Spirit Visage
+
+---
+
+Comp: Timebreaker Pantheon
+Tier: C
+Average Placement: 5.77
+Top 4 Rate: 34.7%
+Games Sampled: 1,633
+Units: Cho'Gath, Ezreal, Maokai, Milio, Pantheon, Riven, Tahm Kench, Xayah
+Traits: Brawler (4), Timebreaker (4), Sniper (2), Dark Star (1), N.O.V.A. (1), Fateweaver (1), Replicator (1), Rogue (1), Oracle (1), Stargazer (1)
+Ezreal build (avg 4.73): Infinity Edge, Giant Slayer, Spear of Shojin
+Riven build (avg 4.38): Bloodthirster, Sterak's Gage, Titan's Resolve
+Pantheon build (avg 4.89): Sunfire Cape, Spirit Visage, Evenshroud
+
+---
+
+Comp: Voyager Aurora
+Tier: C
+Average Placement: 5.80
+Top 4 Rate: 30.7%
+Games Sampled: 4,409
+Units: Aurora, Galio, Illaoi, Ivern Minion, Karma, Mordekaiser, Pyke, Viktor
+Traits: Voyager (3), Anima (2), Vanguard (2), Dark Star (2), Conduit (2), Psionic (2), Shepherd (1)
+Aurora build (avg 1.08): Evolved Embershot, Jeweled Gauntlet, Spear of Shojin
+Illaoi build (avg 4.06): Radiant Field, Gargoyle Stoneplate, Spirit Visage
+Fiora build (avg 3.79): Bloodthirster, Edge of Night, Titan's Resolve
+
+---
+
+Comp: Bastion Ornn
+Tier: C
+Average Placement: 6.43
+Top 4 Rate: 16.6%
+Games Sampled: 2,384
+Units: Aatrox, Akali, Blitzcrank, Fiora, Graves, Morgana, Ornn, Shen, Vex
+Traits: Bastion (3), N.O.V.A. (2), Marauder (2), Space Groove (2), Party Animal (1), Vanguard (1), Divine Duelist (1), Anima (1), Factory New (1), Dark Lady (1), Bulwark (1), Doomer (1)
+Ornn build (avg 5.00): Dragon's Claw, Steadfast Heart, Warmog's Armor
+Vex build (avg 5.17): Guinsoo's Rageblade, Giant Slayer, Rabadon's Deathcap
+Graves build (avg 2.80): Battle Bunny Crossbow, Guinsoo's Rageblade, Infinity Edge
+
+---
+
+Comp: Anima Illaoi
+Tier: C
+Average Placement: 6.85
+Top 4 Rate: 14.4%
+Games Sampled: 4,587
+Units: Aurora, Illaoi, Jax, Jinx, Mordekaiser, Nunu & Willump, Rammus, Rhaast
+Traits: Anima (3), Vanguard (3), Stargazer (2), Bastion (2), Voyager (1), Shepherd (1), Challenger (1), Dark Star (1), Conduit (1), Meeple (1), Redeemer (1)
+Jinx build (avg 4.97): Battle Bunny Crossbow, Guinsoo's Rageblade, Infinity Edge
+Illaoi build (avg 5.29): Sunfire Cape, Evenshroud, Warmog's Armor
+Fiora build (avg 4.46): Bloodthirster, Edge of Night, Sterak's Gage
+
+---
+
