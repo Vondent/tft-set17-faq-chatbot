@@ -7,11 +7,13 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Chroma vector store (can be rebuilt from data)
-embeddings/chroma_db/
+# Chroma vector store — commit after re-embedding so Render can use it
+# embeddings/chroma_db/
 
 # Raw scraped data (optional - remove this if you want to track it)
 data/raw/
+
+# ChromaDB embeddings (optional - remove this if you want to track it)
 
 # Environment variables / API keys
 .env
