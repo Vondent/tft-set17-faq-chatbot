@@ -1,0 +1,9 @@
+api/
+retrieval/
+embeddings/
+ingest/
+data/
+app/
+tft-faq-bot/
+requirements*.txt
+render.yaml
