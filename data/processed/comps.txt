@@ -4,11 +4,11 @@ Comps sorted by average placement (lower is better). Data from high-elo games (P
 ## Comp Rankings Summary
 Use this to answer questions like 'best comps', 'top comps', 'strongest comps', or 'highest placement'.
 
-S Tier — Voyager Ivern Minion: avg placement 3.79, Top 4: 66.3%
+S Tier — Voyager Meepsie: avg placement 3.79, Top 4: 66.3%
 S Tier — Voyager Viktor: avg placement 4.01, Top 4: 62.3%
 S Tier — Primordian Bel'Veth: avg placement 4.09, Top 4: 59.3%
 S Tier — Vanguard Teemo: avg placement 4.15, Top 4: 57.0%
-S Tier — Voyager Ivern Minion: avg placement 4.19, Top 4: 59.7%
+S Tier — Voyager Meepsie: avg placement 4.19, Top 4: 59.7%
 A Tier — Vanguard Nunu & Willump: avg placement 4.25, Top 4: 54.7%
 A Tier — Fateweaver Twisted Fate: avg placement 4.25, Top 4: 55.5%
 A Tier — Vanguard Leona: avg placement 4.31, Top 4: 52.6%
@@ -21,7 +21,7 @@ B Tier — Space Groove Nami: avg placement 4.46, Top 4: 51.0%
 B Tier — Dark Star Xayah: avg placement 4.46, Top 4: 50.3%
 B Tier — Dark Star Kaisa: avg placement 4.46, Top 4: 46.4%
 B Tier — Timebreaker Pyke: avg placement 4.49, Top 4: 53.2%
-B Tier — Meeple Ivern Minion: avg placement 4.49, Top 4: 51.9%
+B Tier — Meeple Meepsie: avg placement 4.49, Top 4: 51.9%
 C Tier — Marauder Kindred: avg placement 4.52, Top 4: 49.2%
 C Tier — Voyager LeBlanc: avg placement 4.54, Top 4: 51.0%
 C Tier — Meeple Corki: avg placement 4.55, Top 4: 48.2%
@@ -74,14 +74,14 @@ C Tier — Anima Illaoi: avg placement 6.85, Top 4: 14.4%
 
 ---
 
-Comp: Voyager Ivern Minion
+Comp: Voyager Meepsie
 Tier: S
 Average Placement: 3.79
 Top 4 Rate: 66.3%
 Games Sampled: 13,527
-Units: Illaoi, Ivern Minion, Lissandra, Mordekaiser, Nami, Pyke, Rhaast, Viktor
+Units: Illaoi, Meepsie, Lissandra, Mordekaiser, Nami, Pyke, Rhaast, Viktor
 Traits: Vanguard (2), Shepherd (2), Dark Star (2), Replicator (2), Conduit (2), Psionic (2), Anima (1), Space Groove (1), Voyager (1), Redeemer (1)
-Ivern Minion build (avg 3.79): Edge of Night, Jeweled Gauntlet, Hand Of Justice
+Meepsie build (avg 3.79): Edge of Night, Jeweled Gauntlet, Hand Of Justice
 Viktor build (avg 2.38): Jeweled Gauntlet, Giant Slayer, Rabadon's Deathcap
 Illaoi build (avg 2.83): Gargoyle Stoneplate, Steadfast Heart, Warmog's Armor
 
@@ -92,7 +92,7 @@ Tier: S
 Average Placement: 4.01
 Top 4 Rate: 62.3%
 Games Sampled: 143,097
-Units: Illaoi, Ivern Minion, Lissandra, Mordekaiser, Nami, Pyke, Rhaast, Viktor
+Units: Illaoi, Meepsie, Lissandra, Mordekaiser, Nami, Pyke, Rhaast, Viktor
 Traits: Vanguard (2), Shepherd (2), Dark Star (2), Replicator (2), Conduit (2), Psionic (2), Anima (1), Space Groove (1), Voyager (1), Redeemer (1)
 Viktor build (avg 3.86): Drone Uplink, Jeweled Gauntlet, Rabadon's Deathcap
 Nami build (avg 3.06): Giant Slayer, Spear of Shojin, Void Staff
@@ -126,14 +126,14 @@ Lissandra build (avg 3.47): Morellonomicon, Spear of Shojin, Void Staff
 
 ---
 
-Comp: Voyager Ivern Minion
+Comp: Voyager Meepsie
 Tier: S
 Average Placement: 4.19
 Top 4 Rate: 59.7%
 Games Sampled: 10,526
-Units: Aurora, Galio, Ivern Minion, Karma, Lissandra, Poppy, Pyke, Rammus
+Units: Aurora, Galio, Meepsie, Karma, Lissandra, Poppy, Pyke, Rammus
 Traits: Voyager (3), Dark Star (2), Meeple (2), Bastion (2), Anima (1), Shepherd (1), Replicator (1), Psionic (1)
-Ivern Minion build (avg 4.21): Edge of Night, Jeweled Gauntlet, Hand Of Justice
+Meepsie build (avg 4.21): Edge of Night, Jeweled Gauntlet, Hand Of Justice
 Rammus build (avg 3.04): Bramble Vest, Dragon's Claw, Warmog's Armor
 Pyke build (avg 3.41): Target-Lock Optics, Edge of Night, Infinity Edge
 
@@ -144,7 +144,7 @@ Tier: A
 Average Placement: 4.25
 Top 4 Rate: 54.7%
 Games Sampled: 103,912
-Units: Bard, Blitzcrank, Illaoi, Ivern Minion, Karma, Mordekaiser, Nunu & Willump, Sona, Vex
+Units: Bard, Blitzcrank, Illaoi, Meepsie, Karma, Mordekaiser, Nunu & Willump, Sona, Vex
 Traits: Vanguard (4), Conduit (2), Shepherd (2), Dark Star (2), Meeple (1), Party Animal (1), Space Groove (1), Anima (1), Voyager (1), Stargazer (1), Commander (1), Psionic (1), Doomer (1)
 Nunu & Willump build (avg 3.71): Protector's Vow, Protector's Vow, Protector's Vow
 Vex build (avg 3.36): Guinsoo's Rageblade, Giant Slayer, Rabadon's Deathcap
@@ -183,7 +183,7 @@ Tier: A
 Average Placement: 4.32
 Top 4 Rate: 52.9%
 Games Sampled: 39,501
-Units: Corki, Illaoi, Ivern Minion, Lissandra, Mordekaiser, Poppy, Rammus, Veigar
+Units: Corki, Illaoi, Meepsie, Lissandra, Mordekaiser, Poppy, Rammus, Veigar
 Traits: Meeple (4), Vanguard (2), Shepherd (2), Dark Star (2), Replicator (2), Bastion (2), Fateweaver (1), Anima (1), Conduit (1)
 Veigar build (avg 4.33): Jeweled Gauntlet, Nashor's Tooth, Nashor's Tooth
 Poppy build (avg 3.58): Crownguard, Protector's Vow, Ionic Spark
@@ -287,7 +287,7 @@ Tier: B
 Average Placement: 4.49
 Top 4 Rate: 53.2%
 Games Sampled: 15,449
-Units: Corki, Gragas, Gwen, Ivern Minion, Milio, Pantheon, Pyke, Riven
+Units: Corki, Gragas, Gwen, Meepsie, Milio, Pantheon, Pyke, Riven
 Traits: Timebreaker (3), Fateweaver (2), Psionic (2), Brawler (2), Rogue (2), Meeple (1), Space Groove (1), Replicator (1), Voyager (1)
 Pyke build (avg 4.27): Target-Lock Optics, Edge of Night, Infinity Edge
 Gwen build (avg 3.83): Hextech Gunblade, Jeweled Gauntlet, Rabadon's Deathcap
@@ -295,14 +295,14 @@ Pantheon build (avg 3.71): Dragon's Claw, Gargoyle Stoneplate, Sunfire Cape
 
 ---
 
-Comp: Meeple Ivern Minion
+Comp: Meeple Meepsie
 Tier: B
 Average Placement: 4.49
 Top 4 Rate: 51.9%
 Games Sampled: 2,090
-Units: Corki, Fizz, Galio, Gnar, Ivern Minion, Poppy, Rammus, Veigar
+Units: Corki, Fizz, Galio, Gnar, Meepsie, Poppy, Rammus, Veigar
 Traits: Meeple (6), Bastion (2), Fateweaver (1), Rogue (1), Sniper (1), Replicator (1)
-Ivern Minion build (avg 3.62): Bloodthirster, Jeweled Gauntlet, Quicksilver
+Meepsie build (avg 3.62): Bloodthirster, Jeweled Gauntlet, Quicksilver
 Rammus build (avg 3.06): Dragon's Claw, Spirit Visage, Warmog's Armor
 Corki build (avg 2.67): Deathblade, Giant Slayer, Spear of Shojin
 
@@ -326,7 +326,7 @@ Tier: C
 Average Placement: 4.54
 Top 4 Rate: 51.0%
 Games Sampled: 13,358
-Units: Galio, Illaoi, Ivern Minion, Karma, LeBlanc, Leona, Lissandra, Morgana, Sona
+Units: Galio, Illaoi, Meepsie, Karma, LeBlanc, Leona, Lissandra, Morgana, Sona
 Traits: Shepherd (4), Vanguard (2), Dark Star (2), Arbiter (2), Anima (1), Voyager (1), Replicator (1), Dark Lady (1), Commander (1), Psionic (1)
 LeBlanc build (avg 3.54): Voyager Emblem, Guinsoo's Rageblade, Hextech Gunblade
 Karma build (avg 3.61): Shepherd Emblem, Morellonomicon, Void Staff
@@ -339,7 +339,7 @@ Tier: C
 Average Placement: 4.55
 Top 4 Rate: 48.2%
 Games Sampled: 40,579
-Units: Corki, Fizz, Galio, Ivern Minion, Milio, Poppy, Rammus, Riven
+Units: Corki, Fizz, Galio, Meepsie, Milio, Poppy, Rammus, Riven
 Traits: Meeple (4), Fateweaver (2), Rogue (2), Timebreaker (2), Bastion (2)
 Rammus build (avg 3.54): Protector's Vow, Gargoyle Stoneplate, Steadfast Heart
 Corki build (avg 3.73): Rogue Emblem, Last Whisper, Giant Slayer
@@ -352,7 +352,7 @@ Tier: C
 Average Placement: 4.64
 Top 4 Rate: 49.4%
 Games Sampled: 47,636
-Units: Fizz, Ivern Minion, Kaisa, Karma, Ornn, Rammus, Rhaast
+Units: Fizz, Meepsie, Kaisa, Karma, Ornn, Rammus, Rhaast
 Traits: Meeple (2), Rogue (2), Dark Star (2), Bastion (2), Voyager (1), Space Groove (1), Redeemer (1)
 Fizz build (avg 4.18): Jeweled Gauntlet, Nashor's Tooth, Hand Of Justice
 Kaisa build (avg 3.97): Deathblade, Infinity Edge, Striker's Flail
@@ -430,7 +430,7 @@ Tier: C
 Average Placement: 4.75
 Top 4 Rate: 42.6%
 Games Sampled: 12,595
-Units: Illaoi, Ivern Minion, Karma, LeBlanc, Leona, Mordekaiser, Nunu & Willump, Zoe
+Units: Illaoi, Meepsie, Karma, LeBlanc, Leona, Mordekaiser, Nunu & Willump, Zoe
 Traits: Vanguard (4), Arbiter (3), Shepherd (2), Dark Star (2), Conduit (2), Anima (1), Voyager (1), Stargazer (1)
 Zoe build (avg 4.05): Morellonomicon, Spear of Shojin, Void Staff
 Leona build (avg 3.56): Gargoyle Stoneplate, Gargoyle Stoneplate, Steadfast Heart
@@ -482,7 +482,7 @@ Tier: C
 Average Placement: 4.80
 Top 4 Rate: 42.7%
 Games Sampled: 16,502
-Units: Bard, Blitzcrank, Illaoi, Ivern Minion, Karma, Mordekaiser, Nunu & Willump, Sona, Vex
+Units: Bard, Blitzcrank, Illaoi, Meepsie, Karma, Mordekaiser, Nunu & Willump, Sona, Vex
 Traits: Vanguard (4), Conduit (2), Shepherd (2), Dark Star (2), Meeple (1), Party Animal (1), Space Groove (1), Anima (1), Voyager (1), Stargazer (1), Commander (1), Psionic (1), Doomer (1)
 Nunu & Willump build (avg 3.83): Protector's Vow, Ionic Spark, Warmog's Armor
 Karma build (avg 3.51): Adaptive Helm, Spear of Shojin, Void Staff
@@ -508,7 +508,7 @@ Tier: C
 Average Placement: 4.84
 Top 4 Rate: 43.7%
 Games Sampled: 47,765
-Units: Bard, Blitzcrank, Ivern Minion, Karma, Mordekaiser, Rammus, Rhaast, Shen, Vex
+Units: Bard, Blitzcrank, Meepsie, Karma, Mordekaiser, Rammus, Rhaast, Shen, Vex
 Traits: Meeple (2), Conduit (2), Vanguard (2), Dark Star (2), Bastion (2), Party Animal (1), Space Groove (1), Voyager (1), Redeemer (1), Bulwark (1), Doomer (1)
 Vex build (avg 4.22): Guinsoo's Rageblade, Hextech Gunblade, Giant Slayer
 Rammus build (avg 3.63): Bramble Vest, Protector's Vow, Sunfire Cape
@@ -521,7 +521,7 @@ Tier: C
 Average Placement: 4.85
 Top 4 Rate: 45.8%
 Games Sampled: 19,345
-Units: Galio, Illaoi, Ivern Minion, Karma, Lissandra, Nami, Nunu & Willump, Rhaast
+Units: Galio, Illaoi, Meepsie, Karma, Lissandra, Nami, Nunu & Willump, Rhaast
 Traits: Vanguard (2), Shepherd (2), Dark Star (2), Replicator (2), Anima (1), Voyager (1), Space Groove (1), Stargazer (1), Redeemer (1)
 Nami build (avg 3.90): Voyager Emblem, Jeweled Gauntlet, Spear of Shojin
 Nunu & Willump build (avg 3.43): Adaptive Helm, Adaptive Helm, Protector's Vow
@@ -573,7 +573,7 @@ Tier: C
 Average Placement: 4.89
 Top 4 Rate: 40.5%
 Games Sampled: 26,065
-Units: Bard, Corki, Fizz, Ivern Minion, Nami, Poppy, Rammus, Veigar
+Units: Bard, Corki, Fizz, Meepsie, Nami, Poppy, Rammus, Veigar
 Traits: Meeple (6), Replicator (2), Bastion (2), Conduit (1), Fateweaver (1), Rogue (1), Space Groove (1)
 Rammus build (avg 3.85): Bramble Vest, Gargoyle Stoneplate, Warmog's Armor
 Corki build (avg 4.08): Deathblade, Infinity Edge, Spear of Shojin
@@ -625,7 +625,7 @@ Tier: C
 Average Placement: 4.94
 Top 4 Rate: 42.2%
 Games Sampled: 1,323
-Units: Corki, Fizz, Galio, Gnar, Ivern Minion, Poppy, Rammus, Veigar
+Units: Corki, Fizz, Galio, Gnar, Meepsie, Poppy, Rammus, Veigar
 Traits: Meeple (6), Bastion (2), Fateweaver (1), Rogue (1), Sniper (1), Replicator (1)
 Poppy build (avg 3.96): Blue Buff, Deathblade, Infinity Edge
 Rammus build (avg 3.40): Bramble Vest, Gargoyle Stoneplate, Evenshroud
@@ -651,7 +651,7 @@ Tier: C
 Average Placement: 4.95
 Top 4 Rate: 42.8%
 Games Sampled: 8,050
-Units: Gragas, Ivern Minion, Karma, Lissandra, Master Yi, Pyke, Sona, Tahm Kench
+Units: Gragas, Meepsie, Karma, Lissandra, Master Yi, Pyke, Sona, Tahm Kench
 Traits: Psionic (4), Brawler (2), Dark Star (2), Voyager (2), Shepherd (2), Replicator (1), Marauder (1), Commander (1), Oracle (1)
 Pyke build (avg 4.89): Edge of Night, Infinity Edge, Hand Of Justice
 Gragas build (avg 3.77): Bramble Vest, Gargoyle Stoneplate, Warmog's Armor
@@ -677,7 +677,7 @@ Tier: C
 Average Placement: 4.98
 Top 4 Rate: 41.5%
 Games Sampled: 3,515
-Units: Gragas, Illaoi, Ivern Minion, Lissandra, Master Yi, Mordekaiser, Pyke, Viktor
+Units: Gragas, Illaoi, Meepsie, Lissandra, Master Yi, Mordekaiser, Pyke, Viktor
 Traits: Psionic (4), Vanguard (2), Shepherd (2), Dark Star (2), Conduit (2), Brawler (1), Anima (1), Replicator (1), Marauder (1), Voyager (1)
 Illaoi build (avg 3.00): Bramble Vest, Dragon's Claw, Gargoyle Stoneplate
 Master Yi build (avg 3.73): Edge of Night, Giant Slayer, Quicksilver
@@ -768,7 +768,7 @@ Tier: C
 Average Placement: 5.12
 Top 4 Rate: 37.7%
 Games Sampled: 10,799
-Units: Cho'Gath, Galio, Illaoi, Ivern Minion, Jhin, Kaisa, Karma, Lissandra, Mordekaiser
+Units: Cho'Gath, Galio, Illaoi, Meepsie, Jhin, Kaisa, Karma, Lissandra, Mordekaiser
 Traits: Dark Star (6), Vanguard (2), Shepherd (2), Brawler (1), Anima (1), Eradicator (1), Sniper (1), Rogue (1), Voyager (1), Replicator (1), Conduit (1)
 Galio build (avg 3.48): Anomaly, Gargoyle Stoneplate, Sterak's Gage
 Karma build (avg 4.45): Jeweled Gauntlet, Nashor's Tooth, Giant Slayer
@@ -794,7 +794,7 @@ Tier: C
 Average Placement: 5.21
 Top 4 Rate: 37.9%
 Games Sampled: 8,989
-Units: Bard, Blitzcrank, Illaoi, Ivern Minion, Karma, Mordekaiser, Nunu & Willump, Sona, Vex
+Units: Bard, Blitzcrank, Illaoi, Meepsie, Karma, Mordekaiser, Nunu & Willump, Sona, Vex
 Traits: Vanguard (4), Conduit (2), Shepherd (2), Dark Star (2), Meeple (1), Party Animal (1), Space Groove (1), Anima (1), Voyager (1), Stargazer (1), Commander (1), Psionic (1), Doomer (1)
 Illaoi build (avg 4.00): Gargoyle Stoneplate, Ionic Spark, Sunfire Cape
 LeBlanc build (avg 4.11): Guinsoo's Rageblade, Jeweled Gauntlet, Rabadon's Deathcap
@@ -820,7 +820,7 @@ Tier: C
 Average Placement: 5.31
 Top 4 Rate: 38.7%
 Games Sampled: 6,868
-Units: Aurora, Diana, Illaoi, Ivern Minion, Jinx, LeBlanc, Leona
+Units: Aurora, Diana, Illaoi, Meepsie, Jinx, LeBlanc, Leona
 Traits: Anima (3), Arbiter (3), Challenger (2), Vanguard (2), Shepherd (2), Voyager (1)
 Illaoi build (avg 3.73): Gargoyle Stoneplate, Ionic Spark, Warmog's Armor
 Diana build (avg 4.07): Cyclonic Slicers, Bloodthirster, Titan's Resolve
@@ -911,7 +911,7 @@ Tier: C
 Average Placement: 5.80
 Top 4 Rate: 30.7%
 Games Sampled: 4,409
-Units: Aurora, Galio, Illaoi, Ivern Minion, Karma, Mordekaiser, Pyke, Viktor
+Units: Aurora, Galio, Illaoi, Meepsie, Karma, Mordekaiser, Pyke, Viktor
 Traits: Voyager (3), Anima (2), Vanguard (2), Dark Star (2), Conduit (2), Psionic (2), Shepherd (1)
 Aurora build (avg 1.08): Evolved Embershot, Jeweled Gauntlet, Spear of Shojin
 Illaoi build (avg 4.06): Radiant Field, Gargoyle Stoneplate, Spirit Visage

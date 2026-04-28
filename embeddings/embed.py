@@ -1,28 +1,32 @@
 """
 Build ChromaDB vector store from processed TFT data files.
-Run from repo root: tft-faq-bot/venv/Scripts/python embeddings/embed.py
-Requires Ollama running locally with nomic-embed-text pulled.
+Run from the chatbot/ directory:
+  tft-faq-bot/venv/Scripts/python embeddings/embed.py
+
+Requires GOOGLE_API_KEY in environment or .env file.
 """
 
 import os
 import re
 import chromadb
 from chromadb import EmbeddingFunction, Embeddings
-from langchain_ollama import OllamaEmbeddings
+from dotenv import load_dotenv
+from sentence_transformers import SentenceTransformer
+
+load_dotenv()
 
 PROCESSED_DIR = "data/processed"
 CHROMA_DIR = "embeddings/chroma_db"
 COLLECTION_NAME = "tft_set17"
-EMBED_MODEL = "nomic-embed-text"
+EMBED_MODEL = "all-MiniLM-L6-v2"
 
 
-class OllamaEmbeddingFunction(EmbeddingFunction):
-    """Wraps langchain-ollama so ChromaDB can call it."""
-    def __init__(self, model: str):
-        self._model = OllamaEmbeddings(model=model)
+class LocalEmbeddingFunction(EmbeddingFunction):
+    def __init__(self):
+        self._model = SentenceTransformer(EMBED_MODEL)
 
     def __call__(self, input: list[str]) -> Embeddings:
-        return self._model.embed_documents(input)
+        return self._model.encode(input).tolist()
 
 
 def parse_file(filepath):
@@ -66,7 +70,7 @@ def _extract_meta(block, source):
             continue
         key, _, val = line.partition(":")
         key, val = key.strip().lower(), val.strip()
-        if key in ("champion", "item", "augment", "trait"):
+        if key in ("champion", "item", "augment", "trait", "comp", "term"):
             meta["name"] = val
         elif key in ("category", "tier", "type", "cost"):
             meta["category"] = val
@@ -74,7 +78,7 @@ def _extract_meta(block, source):
 
 
 def run():
-    ef = OllamaEmbeddingFunction(EMBED_MODEL)
+    ef = LocalEmbeddingFunction()
     client = chromadb.PersistentClient(path=CHROMA_DIR)
 
     try:
@@ -99,7 +103,8 @@ def run():
             uid += 1
 
     print(f"\nEmbedding {len(all_docs)} total chunks...")
-    batch_size = 100
+    # Gemini embedding API: batch conservatively to avoid rate limits
+    batch_size = 20
     for i in range(0, len(all_docs), batch_size):
         collection.add(
             documents=all_docs[i:i + batch_size],

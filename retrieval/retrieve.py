@@ -1,25 +1,25 @@
 """
-RAG retrieval: query ChromaDB and answer with Qwen via Ollama.
+RAG retrieval: query ChromaDB and answer with Groq via LangChain.
 """
 
+import os
 import re
 import chromadb
 from chromadb import EmbeddingFunction, Embeddings
-from langchain_ollama import OllamaEmbeddings, ChatOllama
+from dotenv import load_dotenv
+from sentence_transformers import SentenceTransformer
+from langchain_groq import ChatGroq
 from langchain_core.messages import SystemMessage, HumanMessage
+
+load_dotenv()
 
 CHROMA_DIR = "embeddings/chroma_db"
 COLLECTION_NAME = "tft_set17"
-EMBED_MODEL = "nomic-embed-text"
-CHAT_MODEL = "qwen2.5"
+EMBED_MODEL = "all-MiniLM-L6-v2"
+CHAT_MODEL = "llama-3.3-70b-versatile"
 N_RESULTS = 5
 
-# Cosine distance threshold: below this = good context, above = truly off-topic.
-# nomic-embed-text normalized vectors sit in [0, 1]. Set high (0.8) so we only
-# skip context for questions that are genuinely unrelated to TFT (e.g. "recipe for pasta").
-# Vague on-topic questions like "what items are good" still score ~0.5-0.6 and
-# should receive context rather than fall back to Qwen's (often wrong) training data.
-DISTANCE_THRESHOLD = 0.8
+DISTANCE_THRESHOLD = 1.5
 
 SYSTEM_PROMPT_WITH_CONTEXT = """You are a TFT (Teamfight Tactics) Set 17 expert assistant.
 Answer questions using ONLY the provided context. Be concise and accurate.
@@ -48,16 +48,16 @@ If you cannot answer confidently using only Set 17 knowledge, say:
 "I don't have enough Set 17 data to answer that reliably. Try asking about a specific item, champion, or trait." """
 
 
-class OllamaEmbeddingFunction(EmbeddingFunction):
-    def __init__(self, model: str):
-        self._model = OllamaEmbeddings(model=model)
+class LocalEmbeddingFunction(EmbeddingFunction):
+    def __init__(self):
+        self._model = SentenceTransformer(EMBED_MODEL)
 
     def __call__(self, input: list[str]) -> Embeddings:
-        return self._model.embed_documents(input)
+        return self._model.encode(input).tolist()
 
 
 def get_collection():
-    ef = OllamaEmbeddingFunction(EMBED_MODEL)
+    ef = LocalEmbeddingFunction()
     client = chromadb.PersistentClient(path=CHROMA_DIR)
     return client.get_collection(COLLECTION_NAME, embedding_function=ef)
 
@@ -80,7 +80,6 @@ def _keywords(query: str) -> list[str]:
 
 
 def retrieve(collection, query: str, n: int = N_RESULTS) -> tuple[list[str], float]:
-    """Returns (docs, best_distance). best_distance is the lowest (best) score found."""
     vector_results = collection.query(
         query_texts=[query],
         n_results=n,
@@ -91,7 +90,6 @@ def retrieve(collection, query: str, n: int = N_RESULTS) -> tuple[list[str], flo
     seen_ids = set(vector_results["ids"][0])
     best_distance = min(distances) if distances else 1.0
 
-    # Keyword fallback: search document text directly for named entities
     keywords = _keywords(query)
     if keywords:
         filters = [{"$contains": kw} for kw in keywords]
@@ -125,7 +123,7 @@ def answer(query: str, collection=None) -> str:
     chunks, best_distance = retrieve(collection, query)
     context_is_useful = best_distance < DISTANCE_THRESHOLD
 
-    llm = ChatOllama(model=CHAT_MODEL, temperature=0)
+    llm = ChatGroq(model=CHAT_MODEL, temperature=0)
 
     if context_is_useful:
         context = "\n\n---\n\n".join(chunks)

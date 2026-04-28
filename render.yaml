@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: tft-set17-api
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn api.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false
+    disk:
+      name: chroma-db
+      mountPath: /opt/render/project/src/embeddings/chroma_db
+      sizeGB: 1
