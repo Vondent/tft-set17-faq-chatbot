@@ -46,14 +46,6 @@ If you cannot answer confidently using only Set 17 knowledge, say:
 "I don't have enough Set 17 data to answer that reliably. Try asking about a specific item, champion, or trait." """
 
 
-class LocalEmbeddingFunction(EmbeddingFunction):
-    def __init__(self):
-        self._model = SentenceTransformer(EMBED_MODEL)
-
-    def __call__(self, input: list[str]) -> Embeddings:
-        return self._model.encode(input).tolist()
-
-
 def get_collection():
     ef = ONNXMiniLM_L6_V2()
     client = chromadb.PersistentClient(path=CHROMA_DIR)
