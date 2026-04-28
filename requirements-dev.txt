@@ -1,0 +1,8 @@
+# Includes everything in requirements.txt plus local dev / scraping tools
+-r requirements.txt
+streamlit==1.56.0
+langchain-ollama==1.1.0
+ollama==0.6.1
+requests==2.33.1
+beautifulsoup4==4.14.3
+playwright==1.58.0
