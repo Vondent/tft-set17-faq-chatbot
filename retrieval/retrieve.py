@@ -5,9 +5,8 @@ RAG retrieval: query ChromaDB and answer with Groq via LangChain.
 import os
 import re
 import chromadb
-from chromadb import EmbeddingFunction, Embeddings
+from chromadb.utils.embedding_functions import ONNXMiniLM_L6_V2
 from dotenv import load_dotenv
-from sentence_transformers import SentenceTransformer
 from langchain_groq import ChatGroq
 from langchain_core.messages import SystemMessage, HumanMessage
 
@@ -15,7 +14,6 @@ load_dotenv()
 
 CHROMA_DIR = "embeddings/chroma_db"
 COLLECTION_NAME = "tft_set17"
-EMBED_MODEL = "all-MiniLM-L6-v2"
 CHAT_MODEL = "llama-3.3-70b-versatile"
 N_RESULTS = 5
 
@@ -57,7 +55,7 @@ class LocalEmbeddingFunction(EmbeddingFunction):
 
 
 def get_collection():
-    ef = LocalEmbeddingFunction()
+    ef = ONNXMiniLM_L6_V2()
     client = chromadb.PersistentClient(path=CHROMA_DIR)
     return client.get_collection(COLLECTION_NAME, embedding_function=ef)
 

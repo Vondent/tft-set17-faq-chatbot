@@ -9,24 +9,14 @@ Requires GOOGLE_API_KEY in environment or .env file.
 import os
 import re
 import chromadb
-from chromadb import EmbeddingFunction, Embeddings
+from chromadb.utils.embedding_functions import ONNXMiniLM_L6_V2
 from dotenv import load_dotenv
-from sentence_transformers import SentenceTransformer
 
 load_dotenv()
 
 PROCESSED_DIR = "data/processed"
 CHROMA_DIR = "embeddings/chroma_db"
 COLLECTION_NAME = "tft_set17"
-EMBED_MODEL = "all-MiniLM-L6-v2"
-
-
-class LocalEmbeddingFunction(EmbeddingFunction):
-    def __init__(self):
-        self._model = SentenceTransformer(EMBED_MODEL)
-
-    def __call__(self, input: list[str]) -> Embeddings:
-        return self._model.encode(input).tolist()
 
 
 def parse_file(filepath):
@@ -78,7 +68,7 @@ def _extract_meta(block, source):
 
 
 def run():
-    ef = LocalEmbeddingFunction()
+    ef = ONNXMiniLM_L6_V2()
     client = chromadb.PersistentClient(path=CHROMA_DIR)
 
     try:
