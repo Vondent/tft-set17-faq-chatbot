@@ -1,5 +1,5 @@
 pinecone
-fastembed
+fastembed==0.3.6
 langchain==1.2.15
 langchain-core==1.3.1
 langchain-groq
