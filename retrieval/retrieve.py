@@ -47,7 +47,7 @@ _llm = ChatGroq(model=CHAT_MODEL, temperature=0)
 
 
 def _embed(text: str) -> list[float]:
-    return list(list(_embed_model.embed([text]))[0])
+    return list(_embed_model.embed([text]))[0].tolist()
 
 
 def get_index():
