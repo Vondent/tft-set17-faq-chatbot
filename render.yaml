@@ -7,7 +7,5 @@ services:
     envVars:
       - key: GROQ_API_KEY
         sync: false
-    disk:
-      name: chroma-db
-      mountPath: /opt/render/project/src/embeddings/chroma_db
-      sizeGB: 1
+      - key: PINECONE_API_KEY
+        sync: false

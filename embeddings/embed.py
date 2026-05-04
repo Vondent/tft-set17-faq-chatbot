@@ -1,22 +1,19 @@
 """
-Build ChromaDB vector store from processed TFT data files.
+Build Pinecone vector store from processed TFT data files.
 Run from the chatbot/ directory:
   tft-faq-bot/venv/Scripts/python embeddings/embed.py
-
-Requires GOOGLE_API_KEY in environment or .env file.
 """
 
 import os
 import re
-import chromadb
-from chromadb.utils.embedding_functions import ONNXMiniLM_L6_V2
+from pinecone import Pinecone
+from fastembed import TextEmbedding
 from dotenv import load_dotenv
 
 load_dotenv()
 
 PROCESSED_DIR = "data/processed"
-CHROMA_DIR = "embeddings/chroma_db"
-COLLECTION_NAME = "tft_set17"
+PINECONE_INDEX = "tft-set-17-faq-chatbot"
 
 
 def parse_file(filepath):
@@ -34,11 +31,10 @@ def _chunk_standard(content, source):
         block = block.strip()
         if not block:
             continue
-        lines = [l for l in block.split("\n") if l.strip()]
-        if all(l.startswith("#") for l in lines):
+        lines = [line for line in block.split("\n") if line.strip()]
+        if all(line.startswith("#") for line in lines):
             continue
-        meta = _extract_meta(block, source)
-        chunks.append((block, meta))
+        chunks.append((block, _extract_meta(block, source)))
     return chunks
 
 
@@ -68,18 +64,11 @@ def _extract_meta(block, source):
 
 
 def run():
-    ef = ONNXMiniLM_L6_V2()
-    client = chromadb.PersistentClient(path=CHROMA_DIR)
-
-    try:
-        client.delete_collection(COLLECTION_NAME)
-        print("Rebuilding collection from scratch.")
-    except Exception:
-        pass
-    collection = client.create_collection(COLLECTION_NAME, embedding_function=ef)
+    pc = Pinecone(api_key=os.environ["PINECONE_API_KEY"])
+    index = pc.Index(PINECONE_INDEX)
+    embed_model = TextEmbedding("sentence-transformers/all-MiniLM-L6-v2")
 
     all_docs, all_meta, all_ids = [], [], []
-    uid = 0
 
     for fname in sorted(os.listdir(PROCESSED_DIR)):
         if not fname.endswith(".txt"):
@@ -89,21 +78,24 @@ def run():
         for text, meta in chunks:
             all_docs.append(text)
             all_meta.append(meta)
-            all_ids.append(f"doc_{uid}")
-            uid += 1
+            all_ids.append(f"doc_{len(all_ids)}")
 
     print(f"\nEmbedding {len(all_docs)} total chunks...")
-    # Gemini embedding API: batch conservatively to avoid rate limits
-    batch_size = 20
+    batch_size = 100
     for i in range(0, len(all_docs), batch_size):
-        collection.add(
-            documents=all_docs[i:i + batch_size],
-            metadatas=all_meta[i:i + batch_size],
-            ids=all_ids[i:i + batch_size],
-        )
+        batch_docs = all_docs[i:i + batch_size]
+        batch_meta = all_meta[i:i + batch_size]
+        batch_ids = all_ids[i:i + batch_size]
+
+        vectors = list(embed_model.embed(batch_docs))
+
+        index.upsert(vectors=[
+            {"id": id_, "values": vec.tolist(), "metadata": {**meta, "text": doc}}
+            for id_, vec, doc, meta in zip(batch_ids, vectors, batch_docs, batch_meta)
+        ])
         print(f"  {min(i + batch_size, len(all_docs))}/{len(all_docs)}")
 
-    print(f"\nDone. {len(all_docs)} chunks in collection '{COLLECTION_NAME}'.")
+    print(f"\nDone. {len(all_docs)} chunks upserted to '{PINECONE_INDEX}'.")
 
 
 if __name__ == "__main__":

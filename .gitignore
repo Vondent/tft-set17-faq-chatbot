@@ -30,3 +30,5 @@ desktop.ini
 
 # Streamlit
 .streamlit/secrets.toml
+
+.vercelignore

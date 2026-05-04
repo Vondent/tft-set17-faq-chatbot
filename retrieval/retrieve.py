@@ -1,23 +1,20 @@
 """
-RAG retrieval: query ChromaDB and answer with Groq via LangChain.
+RAG retrieval: query Pinecone and answer with Groq via LangChain.
 """
 
 import os
-import re
-import chromadb
-from chromadb.utils.embedding_functions import ONNXMiniLM_L6_V2
+from pinecone import Pinecone
+from fastembed import TextEmbedding
 from dotenv import load_dotenv
 from langchain_groq import ChatGroq
 from langchain_core.messages import SystemMessage, HumanMessage
 
 load_dotenv()
 
-CHROMA_DIR = "embeddings/chroma_db"
-COLLECTION_NAME = "tft_set17"
+PINECONE_INDEX = "tft-set-17-faq-chatbot"
 CHAT_MODEL = "llama-3.3-70b-versatile"
 N_RESULTS = 5
-
-DISTANCE_THRESHOLD = 1.5
+SCORE_THRESHOLD = 0.3
 
 SYSTEM_PROMPT_WITH_CONTEXT = """You are a TFT (Teamfight Tactics) Set 17 expert assistant.
 Answer questions using ONLY the provided context. Be concise and accurate.
@@ -45,75 +42,33 @@ completely different between sets — answering from memory of other sets will g
 If you cannot answer confidently using only Set 17 knowledge, say:
 "I don't have enough Set 17 data to answer that reliably. Try asking about a specific item, champion, or trait." """
 
-
-def get_collection():
-    ef = ONNXMiniLM_L6_V2()
-    client = chromadb.PersistentClient(path=CHROMA_DIR)
-    return client.get_collection(COLLECTION_NAME, embedding_function=ef)
+_embed_model = TextEmbedding("sentence-transformers/all-MiniLM-L6-v2")
+_llm = ChatGroq(model=CHAT_MODEL, temperature=0)
 
 
-_STOPWORDS = {
-    "what", "does", "do", "how", "is", "the", "a", "an", "can", "tell",
-    "me", "about", "explain", "describe", "give", "i", "you", "your",
-    "my", "which", "where", "when", "who", "why", "please", "help",
-    "and", "or", "in", "on", "at", "to", "for", "of", "with", "it",
-    "this", "that", "these", "those", "has", "have", "are", "be", "been",
-    "will", "would", "could", "should", "get",
-    "work", "works", "working", "happen", "happens", "use", "used",
-    "like", "look", "looks", "mean", "means", "effect", "effects",
-}
+def _embed(text: str) -> list[float]:
+    return list(list(_embed_model.embed([text]))[0])
 
 
-def _keywords(query: str) -> list[str]:
-    words = re.findall(r"[a-zA-Z']+", query)
-    return [w.title() for w in words if w.lower() not in _STOPWORDS and len(w) > 2]
+def get_index():
+    pc = Pinecone(api_key=os.environ["PINECONE_API_KEY"])
+    return pc.Index(PINECONE_INDEX)
 
 
-def retrieve(collection, query: str, n: int = N_RESULTS) -> tuple[list[str], float]:
-    vector_results = collection.query(
-        query_texts=[query],
-        n_results=n,
-        include=["documents", "distances"],
-    )
-    docs = list(vector_results["documents"][0])
-    distances = list(vector_results["distances"][0])
-    seen_ids = set(vector_results["ids"][0])
-    best_distance = min(distances) if distances else 1.0
-
-    keywords = _keywords(query)
-    if keywords:
-        filters = [{"$contains": kw} for kw in keywords]
-        where_doc = {"$and": filters} if len(filters) > 1 else filters[0]
-        try:
-            kw_results = collection.query(
-                query_texts=[query],
-                n_results=n,
-                where_document=where_doc,
-                include=["documents", "distances"],
-            )
-            for doc, doc_id, dist in zip(
-                kw_results["documents"][0],
-                kw_results["ids"][0],
-                kw_results["distances"][0],
-            ):
-                if doc_id not in seen_ids:
-                    docs.append(doc)
-                    seen_ids.add(doc_id)
-                    best_distance = min(best_distance, dist)
-        except Exception:
-            pass
-
-    return docs, best_distance
+def retrieve(index, query: str, n: int = N_RESULTS) -> tuple[list[str], float]:
+    vec = _embed(query)
+    results = index.query(vector=vec, top_k=n, include_metadata=True)
+    docs = [m.metadata["text"] for m in results.matches if "text" in m.metadata]
+    best_score = max((m.score for m in results.matches), default=0.0)
+    return docs, best_score
 
 
-def answer(query: str, collection=None) -> str:
-    if collection is None:
-        collection = get_collection()
+def answer(query: str, index=None) -> str:
+    if index is None:
+        index = get_index()
 
-    chunks, best_distance = retrieve(collection, query)
-    context_is_useful = best_distance < DISTANCE_THRESHOLD
-
-    llm = ChatGroq(model=CHAT_MODEL, temperature=0)
+    chunks, best_score = retrieve(index, query)
+    context_is_useful = best_score > SCORE_THRESHOLD
 
     if context_is_useful:
         context = "\n\n---\n\n".join(chunks)
@@ -127,8 +82,7 @@ def answer(query: str, collection=None) -> str:
             HumanMessage(content=query),
         ]
 
-    response = llm.invoke(messages)
-    return response.content
+    return _llm.invoke(messages).content
 
 
 if __name__ == "__main__":
