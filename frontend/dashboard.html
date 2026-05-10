@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TFT Set 17 — Dashboard</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: system-ui, sans-serif;
+      background: #0d1117;
+      color: #e6edf3;
+      padding: 24px 16px;
+    }
+
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      max-width: 1200px;
+      margin: 0 auto 32px;
+    }
+
+    h1 {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: #c9a84c;
+      letter-spacing: 0.02em;
+    }
+
+    a.nav-link {
+      color: #c9a84c;
+      text-decoration: none;
+      font-size: 0.9rem;
+      border: 1px solid #c9a84c;
+      padding: 6px 14px;
+      border-radius: 6px;
+      transition: background 0.15s;
+    }
+
+    a.nav-link:hover { background: #c9a84c22; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(520px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .card {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 12px;
+      padding: 20px 24px;
+    }
+
+    .card.full-width {
+      grid-column: 1 / -1;
+    }
+
+    .card h2 {
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: #8b949e;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      margin-bottom: 16px;
+    }
+
+    .chart-wrap {
+      position: relative;
+      height: 280px;
+    }
+
+    .chart-wrap.tall {
+      height: 360px;
+    }
+
+    #loading {
+      text-align: center;
+      color: #8b949e;
+      font-style: italic;
+      padding: 80px 0;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    #error {
+      display: none;
+      text-align: center;
+      color: #f85149;
+      padding: 80px 0;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>TFT Set 17 — Dashboard</h1>
+    <a class="nav-link" href="index.html">← Chatbot</a>
+  </header>
+
+  <div id="loading">Loading stats…</div>
+  <div id="error">Failed to load stats. Is the backend running?</div>
+
+  <div class="grid" id="grid" style="display:none">
+    <div class="card full-width">
+      <h2>Top 15 Comps by Average Placement</h2>
+      <div class="chart-wrap tall"><canvas id="topComps"></canvas></div>
+    </div>
+
+    <div class="card full-width">
+      <h2>Placement vs Top 4 Rate</h2>
+      <div class="chart-wrap"><canvas id="scatter"></canvas></div>
+    </div>
+
+    <div class="card">
+      <h2>Champion Cost Distribution</h2>
+      <div class="chart-wrap"><canvas id="costDist"></canvas></div>
+    </div>
+
+    <div class="card">
+      <h2>Comp Tier Distribution</h2>
+      <div class="chart-wrap"><canvas id="compTier"></canvas></div>
+    </div>
+
+    <div class="card">
+      <h2>Most Common Traits</h2>
+      <div class="chart-wrap tall"><canvas id="traits"></canvas></div>
+    </div>
+
+    <div class="card">
+      <h2>Combined Item Tier Ratings</h2>
+      <div class="chart-wrap"><canvas id="itemTier"></canvas></div>
+    </div>
+
+    <div class="card full-width">
+      <h2>Augment Tier Ratings by Rarity</h2>
+      <div class="chart-wrap"><canvas id="augments"></canvas></div>
+    </div>
+  </div>
+
+  <script>
+    const API_URL = window.TFT_API_URL ||
+      (window.location.hostname === "localhost" ? "http://localhost:8000" : "https://tft-set17-faq-chatbot.onrender.com");
+
+    const GOLD   = "#c9a84c";
+    const SILVER = "#8b949e";
+    const BLUE   = "#1f6feb";
+    const GREEN  = "#3fb950";
+    const RED    = "#f85149";
+    const PURPLE = "#bc8cff";
+
+    const TIER_COLORS = { S: "#f0c040", A: "#5bc0a0", B: "#4a9eff", C: "#8b949e" };
+    const RATING_COLORS = { S: "#f0c040", A: "#5bc0a0", B: "#4a9eff", C: "#8b949e" };
+    const RARITY_COLORS = { Silver: "#8b949e", Gold: "#c9a84c", Prismatic: "#bc8cff" };
+
+    const defaults = {
+      color: "#e6edf3",
+      borderColor: "#30363d",
+      plugins: { legend: { labels: { color: "#e6edf3" } } },
+      scales: {
+        x: { ticks: { color: "#8b949e" }, grid: { color: "#21262d" } },
+        y: { ticks: { color: "#8b949e" }, grid: { color: "#21262d" } },
+      },
+    };
+
+    function hBar(id, labels, data, colors, opts = {}) {
+      new Chart(document.getElementById(id), {
+        type: "bar",
+        data: { labels, datasets: [{ data, backgroundColor: colors, borderRadius: 4, borderSkipped: false }] },
+        options: {
+          indexAxis: "y",
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: { legend: { display: false } },
+          scales: {
+            x: { ticks: { color: "#8b949e" }, grid: { color: "#21262d" } },
+            y: { ticks: { color: "#e6edf3", font: { size: 11 } }, grid: { color: "#21262d" } },
+          },
+          ...opts,
+        },
+      });
+    }
+
+    function vBar(id, labels, data, colors, opts = {}) {
+      new Chart(document.getElementById(id), {
+        type: "bar",
+        data: { labels, datasets: [{ data, backgroundColor: colors, borderRadius: 4, borderSkipped: false }] },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: { legend: { display: false } },
+          scales: {
+            x: { ticks: { color: "#8b949e" }, grid: { color: "#21262d" } },
+            y: { ticks: { color: "#8b949e" }, grid: { color: "#21262d" } },
+          },
+          ...opts,
+        },
+      });
+    }
+
+    async function loadDashboard() {
+      try {
+        const res = await fetch(`${API_URL}/stats`);
+        if (!res.ok) throw new Error(res.statusText);
+        const d = await res.json();
+
+        document.getElementById("loading").style.display = "none";
+        document.getElementById("grid").style.display = "grid";
+
+        // Top 15 comps
+        const comps = d.top_comps;
+        hBar(
+          "topComps",
+          comps.map(c => c.name).reverse(),
+          comps.map(c => c.avg_placement).reverse(),
+          comps.map(c => TIER_COLORS[c.tier] || SILVER).reverse(),
+          { scales: { x: { min: 1, max: 8, ticks: { color: "#8b949e" }, grid: { color: "#21262d" } }, y: { ticks: { color: "#e6edf3", font: { size: 11 } }, grid: { color: "#21262d" } } } }
+        );
+
+        // Scatter: placement vs top4 rate
+        const tierColorMap = Object.entries(TIER_COLORS).map(([tier, color]) => ({
+          label: `${tier} Tier`,
+          data: d.scatter_comps.filter(c => c.tier === tier).map(c => ({ x: c.avg_placement, y: c.top4_rate, name: c.name })),
+          backgroundColor: color,
+          pointRadius: 5,
+        }));
+        new Chart(document.getElementById("scatter"), {
+          type: "scatter",
+          data: { datasets: tierColorMap },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+              legend: { labels: { color: "#e6edf3" } },
+              tooltip: { callbacks: { label: ctx => `${ctx.raw.name}: ${ctx.raw.x} avg / ${ctx.raw.y}% top4` } },
+            },
+            scales: {
+              x: { title: { display: true, text: "Avg Placement (lower = better)", color: "#8b949e" }, ticks: { color: "#8b949e" }, grid: { color: "#21262d" } },
+              y: { title: { display: true, text: "Top 4 Rate (%)", color: "#8b949e" }, ticks: { color: "#8b949e" }, grid: { color: "#21262d" } },
+            },
+          },
+        });
+
+        // Champion cost distribution
+        vBar(
+          "costDist",
+          d.cost_distribution.map(c => `${c.cost}-Cost`),
+          d.cost_distribution.map(c => c.count),
+          [SILVER, GREEN, BLUE, PURPLE, GOLD]
+        );
+
+        // Comp tier distribution (donut)
+        new Chart(document.getElementById("compTier"), {
+          type: "doughnut",
+          data: {
+            labels: d.comp_tier_distribution.map(c => `${c.tier} Tier`),
+            datasets: [{ data: d.comp_tier_distribution.map(c => c.count), backgroundColor: d.comp_tier_distribution.map(c => TIER_COLORS[c.tier]) }],
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: { legend: { labels: { color: "#e6edf3" } } },
+          },
+        });
+
+        // Most common traits
+        hBar(
+          "traits",
+          d.trait_frequency.map(t => t.trait).reverse(),
+          d.trait_frequency.map(t => t.count).reverse(),
+          GOLD
+        );
+
+        // Item tier ratings
+        vBar(
+          "itemTier",
+          d.item_tier_distribution.map(i => i.rating),
+          d.item_tier_distribution.map(i => i.count),
+          d.item_tier_distribution.map(i => RATING_COLORS[i.rating] || SILVER)
+        );
+
+        // Augment tiers by rarity (grouped bar)
+        const rarities = ["Silver", "Gold", "Prismatic"];
+        const ratings = ["S", "A", "B", "C"];
+        new Chart(document.getElementById("augments"), {
+          type: "bar",
+          data: {
+            labels: rarities,
+            datasets: ratings.map(r => ({
+              label: `${r} Tier`,
+              data: rarities.map(rarity => d.augment_tier_by_rarity[rarity]?.[r] || 0),
+              backgroundColor: RATING_COLORS[r],
+              borderRadius: 3,
+            })),
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: { legend: { labels: { color: "#e6edf3" } } },
+            scales: {
+              x: { ticks: { color: "#8b949e" }, grid: { color: "#21262d" } },
+              y: { ticks: { color: "#8b949e" }, grid: { color: "#21262d" }, stacked: false },
+            },
+          },
+        });
+
+      } catch (err) {
+        document.getElementById("loading").style.display = "none";
+        document.getElementById("error").style.display = "block";
+      }
+    }
+
+    loadDashboard();
+  </script>
+</body>
+</html>

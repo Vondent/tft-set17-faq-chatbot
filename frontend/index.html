@@ -21,7 +21,6 @@
     h1 {
       font-size: 1.5rem;
       font-weight: 700;
-      margin-bottom: 24px;
       color: #c9a84c;
       letter-spacing: 0.02em;
     }
@@ -111,7 +110,10 @@
   </style>
 </head>
 <body>
-  <h1>TFT Set 17 FAQ</h1>
+  <div style="width:100%;max-width:720px;display:flex;justify-content:space-between;align-items:center;margin-bottom:24px;">
+    <h1 style="margin:0">TFT Set 17 FAQ</h1>
+    <a href="dashboard.html" style="color:#c9a84c;text-decoration:none;font-size:0.9rem;border:1px solid #c9a84c;padding:6px 14px;border-radius:6px;">Dashboard →</a>
+  </div>
   <div id="chat"></div>
   <form id="form">
     <input id="input" type="text" placeholder="Ask about items, champions, comps, augments…" autocomplete="off" />
@@ -119,7 +121,8 @@
   </form>
 
   <script>
-    const API_URL = window.TFT_API_URL || "https://tft-set17-faq-chatbot.onrender.com";
+    const API_URL = window.TFT_API_URL ||
+      (window.location.hostname === "localhost" ? "http://localhost:8000" : "https://tft-set17-faq-chatbot.onrender.com");
 
     const chat = document.getElementById("chat");
     const form = document.getElementById("form");
