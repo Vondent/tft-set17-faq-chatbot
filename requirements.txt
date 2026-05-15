@@ -3,6 +3,7 @@ fastembed
 langchain==1.2.15
 langchain-core==1.3.1
 langchain-groq
+langchain-openai
 fastapi==0.136.1
 uvicorn==0.46.0
 python-dotenv

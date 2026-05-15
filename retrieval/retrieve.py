@@ -13,7 +13,7 @@ load_dotenv()
 
 PINECONE_INDEX = "tft-set-17-faq-chatbot"
 CHAT_MODEL = "llama-3.3-70b-versatile"
-N_RESULTS = 5
+N_RESULTS = 3
 SCORE_THRESHOLD = 0.3
 
 SYSTEM_PROMPT_WITH_CONTEXT = """You are a TFT (Teamfight Tactics) Set 17 expert assistant.
