@@ -63,6 +63,31 @@ def retrieve(index, query: str, n: int = N_RESULTS) -> tuple[list[str], float]:
     return docs, best_score
 
 
+def answer_with_context(query: str, index=None, llm=None) -> tuple[str, list[str]]:
+    """Returns (answer, retrieved_chunks) — used by the RAGAS evaluator."""
+    if index is None:
+        index = get_index()
+
+    model = llm or _llm
+    chunks, best_score = retrieve(index, query)
+    context_is_useful = best_score > SCORE_THRESHOLD
+
+    if context_is_useful:
+        context = "\n\n---\n\n".join(chunks)
+        messages = [
+            SystemMessage(content=SYSTEM_PROMPT_WITH_CONTEXT),
+            HumanMessage(content=f"Context:\n{context}\n\nQuestion: {query}"),
+        ]
+    else:
+        chunks = []
+        messages = [
+            SystemMessage(content=SYSTEM_PROMPT_NO_CONTEXT),
+            HumanMessage(content=query),
+        ]
+
+    return model.invoke(messages).content, chunks
+
+
 def answer(query: str, index=None) -> str:
     if index is None:
         index = get_index()

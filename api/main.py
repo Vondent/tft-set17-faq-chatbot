@@ -5,22 +5,35 @@ Run from the chatbot/ directory:
 """
 
 import logging
+import re
+from collections import OrderedDict
 from contextlib import asynccontextmanager
 from typing import Annotated
 
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import JSONResponse
 from pydantic import BaseModel, StringConstraints
 
-from retrieval.retrieve import answer, get_index
+from retrieval.graph import build_graph, run_graph
+from retrieval.retrieve import get_index
 from api.stats import get_stats
 
 logger = logging.getLogger(__name__)
 
+CACHE_MAX_SIZE = 500
+
+
+def _cache_key(query: str) -> str:
+    return re.sub(r"\s+", " ", query.lower().strip())
+
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    app.state.index = get_index()
+    index = get_index()
+    app.state.index = index
+    app.state.graph = build_graph(index)
+    app.state.cache = OrderedDict()
     yield
 
 
@@ -44,11 +57,22 @@ class AskResponse(BaseModel):
 
 @app.post("/ask", response_model=AskResponse)
 async def ask(req: AskRequest, request: Request):
+    cache = request.app.state.cache
+    key = _cache_key(req.question)
+
+    if key in cache:
+        return JSONResponse({"answer": cache[key]}, headers={"X-Cache": "HIT"})
+
     try:
-        result = answer(req.question, index=request.app.state.index)
+        result, _ = run_graph(req.question, request.app.state.graph)
     except Exception:
         logger.exception("Error processing question: %s", req.question)
         raise HTTPException(status_code=500, detail="Something went wrong. Please try again.")
+
+    if len(cache) >= CACHE_MAX_SIZE:
+        cache.popitem(last=False)
+    cache[key] = result
+
     return AskResponse(answer=result)
 
 
@@ -64,3 +88,9 @@ async def stats():
 @app.get("/health")
 async def health():
     return {"status": "ok"}
+
+
+@app.get("/debug/cache")
+async def debug_cache(request: Request):
+    cache = request.app.state.cache
+    return {"size": len(cache), "keys": list(cache.keys())[:20]}
