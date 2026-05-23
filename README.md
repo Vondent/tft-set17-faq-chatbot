@@ -4,8 +4,6 @@ A full-stack RAG chatbot for Teamfight Tactics Set 17. Ask questions in plain En
 
 **Live demo:** [tft-set17-faq-chatbot.vercel.app](https://tft-set17-faq-chatbot.vercel.app/)
 
-`Python 3.11` · `LangGraph CRAG` · `Groq` · `Pinecone` · `FastAPI`
-
 ---
 
 ## Architecture
